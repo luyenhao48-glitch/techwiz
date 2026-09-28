@@ -277,13 +277,13 @@ export default function Home() {
           <div className="row g-2 g-md-4">
             {CATEGORY_LIST_LOCALIZED.map((cat) => {
               const categoryImages = {
-                anime: 'https://images.unsplash.com/photo-1578632767115-351597cf2477?w=500&auto=format&fit=crop&q=80',
-                gaming: 'https://images.unsplash.com/photo-1542751371-adc38448a05e?w=500&auto=format&fit=crop&q=80',
-                movies: 'https://images.unsplash.com/photo-1635863138275-d9b33299680b?w=500&auto=format&fit=crop&q=80',
-                tvshows: 'https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=500&auto=format&fit=crop&q=80',
-                kpop: 'https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=500&auto=format&fit=crop&q=80',
-                comics: 'https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=500&auto=format&fit=crop&q=80',
-                manga: 'https://images.unsplash.com/photo-1563089145-599997674d42?w=500&auto=format&fit=crop&q=80',
+                anime: 'https://th.bing.com/th/id/OIP.ZrdYBfVdWD9NJL0BvZWP1QHaJh?w=145&h=186&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3',
+                gaming: 'https://th.bing.com/th/id/OIP.ccEQx84uvDilbA5hXLLoggHaEK?w=292&h=181&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3',
+                movies: 'https://th.bing.com/th/id/OIP.Rz8rklfj6irGs-9tPa5ffQHaEK?w=315&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3',
+                tvshows: 'https://th.bing.com/th/id/OIP.JcrKTCgybzk7b1US-d0CIQHaEK?w=256&h=150&c=6&r=0&o=7&dpr=1.3&pid=1.7&rm=3',
+                kpop: 'https://th.bing.com/th/id/OIP.M0S_SewmFEnZz4Gw2WzP5gHaD4?w=305&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3',
+                comics: 'https://th.bing.com/th/id/OIP.snL_aW4AQ0Yco8LlXyegNQHaFx?w=197&h=150&c=6&r=0&o=7&dpr=1.3&pid=1.7&rm=3',
+                manga: 'https://th.bing.com/th/id/OIP.X4VV2N7J8Yr_qRQwG0KmJwHaEK?w=257&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3',
               };
 
               return (
@@ -461,8 +461,8 @@ export default function Home() {
                   backgroundColor: isAutoScrollActive
                     ? 'rgba(220, 53, 69, 0.18)'
                     : isDark
-                    ? 'rgba(148, 163, 184, 0.18)'
-                    : 'rgba(100, 116, 139, 0.1)',
+                      ? 'rgba(148, 163, 184, 0.18)'
+                      : 'rgba(100, 116, 139, 0.1)',
                   color: isAutoScrollActive ? '#dc3545' : isDark ? 'rgba(255, 255, 255, 0.6)' : '#64748b',
                 }}
               >
