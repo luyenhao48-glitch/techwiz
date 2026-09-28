@@ -562,37 +562,22 @@
     "name": {
       "vi": "Luke Skywalker",
       "en": "Luke Skywalker",
-      "hi": "ल्यूक स्काईवॉकर"
+      "hi": "Luke Skywalker"
     },
-    "image": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZrq-q9nN8oj94BvtOqNvXNVJPdZt4EQq2ctvpHeGEQ&s=10",
     "franchise": "Star Wars",
     "biography": {
       "vi": "Hiệp sĩ Jedi huyền thoại từ hành tinh Tatooine, người đã dẫn đầu liên minh nổi dậy đánh bại Đế chế Thiên hà và cảm hóa cha mình là Darth Vader trở lại phe Ánh Sáng.",
       "en": "A legendary Jedi Knight from the planet Tatooine who led the Rebel Alliance to defeat the Galactic Empire and redeemed his father, Darth Vader, back to the Light Side.",
-      "hi": "टैटूइन ग्रह का एक महान जेडाई नाइट, जिसने रिबेल एलायंस का नेतृत्व कर गैलेक्टिक एम्पायर को हराया और अपने पिता डार्थ वेडर को फिर से लाइट साइड में वापस लाया।"
+      "hi": "A legendary Jedi Knight from the planet Tatooine who led the Rebel Alliance to defeat the Galactic Empire and redeemed his father, Darth Vader, back to the Light Side."
     },
     "traits": [
-      {
-        "vi": "Thấu cảm",
-        "en": "Empathetic",
-        "hi": "सहानुभूतिशील"
-      },
-      {
-        "vi": "Lòng trắc ẩn",
-        "en": "Compassionate",
-        "hi": "दयालु"
-      },
-      {
-        "vi": "Thần Lực mạnh mẽ",
-        "en": "Powerful in the Force",
-        "hi": "फोर्स में शक्तिशाली"
-      },
-      {
-        "vi": "Kiếm ánh sáng",
-        "en": "Lightsaber",
-        "hi": "लाइटसेबर"
-      }
-    ]
+      "Thấu cảm",
+      "Lòng trắc ẩn",
+      "Thần Lực mạnh mẽ",
+      "Kiếm ánh sáng"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZrq-q9nN8oj94BvtOqNvXNVJPdZt4EQq2ctvpHeGEQ&s=10"
   },
   {
     "id": "movies-char-003",
@@ -600,37 +585,22 @@
     "name": {
       "vi": "Harry Potter",
       "en": "Harry Potter",
-      "hi": "हैरी पॉटर"
+      "hi": "Harry Potter"
     },
-    "image": "https://images.unsplash.com/photo-1598153346810-860daa814c4b?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5JcybilYAP7YkoQ__zEK5XzVkuzaBHsPV1A-WZWckwg&s=10",
     "franchise": "Wizarding World",
     "biography": {
       "vi": "Cậu bé sống sót sau lời nguyền chết chóc, phù thủy quả cảm của nhà Gryffindor đã cùng bạn bè đánh bại Chúa tể Hắc ám Voldemort.",
       "en": "The Boy Who Lived through the Killing Curse, a brave Gryffindor wizard who, together with his friends, defeated the Dark Lord Voldemort.",
-      "hi": "मृत्यु के श्राप से बच निकला लड़का, ग्रिफिंडोर का एक बहादुर जादूगर, जिसने अपने दोस्तों के साथ मिलकर डार्क लॉर्ड वोल्डेमॉर्ट को हराया।"
+      "hi": "The Boy Who Lived through the Killing Curse, a brave Gryffindor wizard who, together with his friends, defeated the Dark Lord Voldemort."
     },
     "traits": [
-      {
-        "vi": "Dũng cảm",
-        "en": "Brave",
-        "hi": "बहादुर"
-      },
-      {
-        "vi": "Trung thực",
-        "en": "Honest",
-        "hi": "ईमानदार"
-      },
-      {
-        "vi": "Tình bạn sâu sắc",
-        "en": "Deep friendship",
-        "hi": "गहरी दोस्ती"
-      },
-      {
-        "vi": "Bùa Hộ Mệnh",
-        "en": "Patronus Charm",
-        "hi": "पैट्रोनस चार्म"
-      }
-    ]
+      "Dũng cảm",
+      "Trung thực",
+      "Tình bạn sâu sắc",
+      "Bùa Hộ Mệnh"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5JcybilYAP7YkoQ__zEK5XzVkuzaBHsPV1A-WZWckwg&s=10"
   },
   {
     "id": "movies-char-004",
@@ -638,37 +608,22 @@
     "name": {
       "vi": "Neo (Thomas Anderson)",
       "en": "Neo (Thomas Anderson)",
-      "hi": "नियो (थॉमस एंडरसन)"
+      "hi": "Neo (Thomas Anderson)"
     },
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWLeNiXrQCYoLJam6UU0nuTUOYHdgXUcqgBAiau75YQ&s=10",
     "franchise": "The Matrix",
     "biography": {
       "vi": "Hacker được tiên tri là 'Người Được Chọn' (The One), thức tỉnh khỏi thực tại ảo Ma Trận để dẫn dắt nhân loại giành lại tự do trước sự thống trị của máy móc.",
       "en": "A hacker prophesied as 'The One,' who awakens from the virtual reality of the Matrix to lead humanity in reclaiming freedom from the domination of machines.",
-      "hi": "एक हैकर जिसे भविष्यवाणी में 'द वन' कहा गया है, जो मैट्रिक्स की आभासी वास्तविकता से जागकर मशीनों के प्रभुत्व से मानवता को आज़ाद कराने का नेतृत्व करता है।"
+      "hi": "A hacker prophesied as 'The One,' who awakens from the virtual reality of the Matrix to lead humanity in reclaiming freedom from the domination of machines."
     },
     "traits": [
-      {
-        "vi": "Bẻ cong thực tại",
-        "en": "Reality-bending",
-        "hi": "वास्तविकता को मोड़ने वाला"
-      },
-      {
-        "vi": "Bậc thầy võ thuật",
-        "en": "Martial arts master",
-        "hi": "मार्शल आर्ट्स का उस्ताद"
-      },
-      {
-        "vi": "Giác ngộ",
-        "en": "Enlightened",
-        "hi": "प्रबुद्ध"
-      },
-      {
-        "vi": "Tầm nhìn xa",
-        "en": "Visionary",
-        "hi": "दूरदर्शी"
-      }
-    ]
+      "Bẻ cong thực tại",
+      "Bậc thầy võ thuật",
+      "Giác ngộ",
+      "Tầm nhìn xa"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWLeNiXrQCYoLJam6UU0nuTUOYHdgXUcqgBAiau75YQ&s=10"
   },
   {
     "id": "movies-char-005",
@@ -676,37 +631,22 @@
     "name": {
       "vi": "Aragorn",
       "en": "Aragorn",
-      "hi": "अरागोर्न"
+      "hi": "Aragorn"
     },
-    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC2B2DmllpBTMszRgSZ1HKLHSVrcd5bBI5VV4GVqws3g&s",
     "franchise": "The Lord of the Rings",
     "biography": {
       "vi": "Hậu duệ cuối cùng của dòng dõi hoàng tộc Isildur, vượt qua nghi ngại về bản thân để dẫn dắt Trung Địa chiến thắng chúa tể Sauron và lên ngôi Vua xứ Gondor.",
       "en": "The last descendant of Isildur's royal bloodline, who overcomes his self-doubt to lead Middle-earth to victory over the dark lord Sauron and ascend to the throne of Gondor.",
-      "hi": "इसिल्दुर के शाही वंश का अंतिम वंशज, जो अपने आत्म-संदेह पर काबू पाकर मिडल-अर्थ को अंधकार के स्वामी सौरोन पर विजय दिलाता है और गोंडोर का राजा बनता है।"
+      "hi": "The last descendant of Isildur's royal bloodline, who overcomes his self-doubt to lead Middle-earth to victory over the dark lord Sauron and ascend to the throne of Gondor."
     },
     "traits": [
-      {
-        "vi": "Khí chất vương giả",
-        "en": "Regal bearing",
-        "hi": "राजसी व्यक्तित्व"
-      },
-      {
-        "vi": "Kiếm pháp cừ khôi",
-        "en": "Excellent swordsmanship",
-        "hi": "उत्कृष्ट तलवारबाज़ी"
-      },
-      {
-        "vi": "Thủy chung",
-        "en": "Loyal",
-        "hi": "वफादार"
-      },
-      {
-        "vi": "Lãnh đạo truyền cảm hứng",
-        "en": "Inspiring leadership",
-        "hi": "प्रेरक नेतृत्व"
-      }
-    ]
+      "Khí chất vương giả",
+      "Kiếm pháp cừ khôi",
+      "Thủy chung",
+      "Lãnh đạo truyền cảm hứng"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC2B2DmllpBTMszRgSZ1HKLHSVrcd5bBI5VV4GVqws3g&s"
   },
   {
     "id": "movies-char-006",
@@ -714,32 +654,21 @@
     "name": {
       "vi": "Paul Atreides",
       "en": "Paul Atreides",
-      "hi": "पॉल एट्रेइड्स"
+      "hi": "Paul Atreides"
     },
-    "image": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd7kEvJJsp73BGm7lbq2h4SoPZR2Fw05Rz4fMXMKW-zA&s=10",
     "franchise": "Dune",
     "biography": {
       "vi": "Người thừa kế gia tộc Atreides, người được dân du mục Fremen tôn xưng là Muad'Dib và đấng cứu thế Kwisatz Haderach dẫn dắt cuộc thánh chiến vũ trụ.",
       "en": "The duke of House Atreides chosen by destiny and the desert Fremen as Muad'Dib, rising as the Kwisatz Haderach.",
-      "hi": "हाउस एट्रेइड्स का उत्तराधिकारी और फ्रेमेन का मसीहा मुआद'दिब।"
+      "hi": "The duke of House Atreides chosen by destiny and the desert Fremen as Muad'Dib, rising as the Kwisatz Haderach."
     },
     "traits": [
-      {
-        "vi": "Thấu thị tương lai",
-        "en": "Prescience",
-        "hi": "दूरदर्शिता"
-      },
-      {
-        "vi": "Khí chất thủ lĩnh",
-        "en": "Leader",
-        "hi": "नेता"
-      },
-      {
-        "vi": "Tiếng nói The Voice",
-        "en": "The Voice",
-        "hi": "द वॉयस"
-      }
-    ]
+      "Thấu thị tương lai",
+      "Khí chất thủ lĩnh",
+      "Tiếng nói The Voice"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd7kEvJJsp73BGm7lbq2h4SoPZR2Fw05Rz4fMXMKW-zA&s=10"
   },
   {
     "id": "movies-char-007",
@@ -747,27 +676,20 @@
     "name": {
       "vi": "Stephen Strange (Doctor Strange)",
       "en": "Doctor Strange",
-      "hi": "डॉक्टर स्ट्रेंज"
+      "hi": "Doctor Strange"
     },
-    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=500&auto=format&fit=crop&q=80",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/18/Benedict_Cumberbatch_as_Doctor_Strange.jpeg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
     "franchise": "Marvel Cinematic Universe",
     "biography": {
       "vi": "Phù Thủy Tối Thượng bảo vệ Đa Vũ Trụ Marvel bằng con mắt Agamotto và những câu thần chú bẻ cong không thời gian phức tạp.",
       "en": "Master of the Mystic Arts and protector of the Marvel Multiverse, wielding the Eye of Agamotto and reality-bending spells.",
-      "hi": "रहस्यमय कलाओं का मास्टर और मार्वल मल्टीवर्स का संरक्षक।"
+      "hi": "Master of the Mystic Arts and protector of the Marvel Multiverse, wielding the Eye of Agamotto and reality-bending spells."
     },
     "traits": [
-      {
-        "vi": "Phép thuật tối thượng",
-        "en": "Mystic Arts",
-        "hi": "रहस्यमयी जादू"
-      },
-      {
-        "vi": "Bảo vệ đa vũ trụ",
-        "en": "Multiverse Guardian",
-        "hi": "मल्टीवर्स रक्षक"
-      }
-    ]
+      "Phép thuật tối thượng",
+      "Bảo vệ đa vũ trụ"
+    ],
+    "avatarUrl": "https://upload.wikimedia.org/wikipedia/en/1/18/Benedict_Cumberbatch_as_Doctor_Strange.jpeg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
   },
   {
     "id": "movies-char-009",
@@ -775,27 +697,20 @@
     "name": {
       "vi": "Miles Morales",
       "en": "Miles Morales",
-      "hi": "माइल्स मोरालेस"
+      "hi": "Miles Morales"
     },
-    "image": "https://images.unsplash.com/photo-1635805737707-575885ab0820?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh-S02hYGZijgwPo_d3Q9YRxgdEPRlaW0d8YX9U8D3Rg&s=10",
     "franchise": "Spider-Verse",
     "biography": {
       "vi": "Người Nhện thiếu niên Brooklyn sở hữu nọc độc điện Venom Strike và khả năng tàng hình độc nhất vô nhị.",
       "en": "Brooklyn teenager Spider-Man commanding bio-electric Venom blasts and camouflage invisibility.",
-      "hi": "इलेक्ट्रिक शॉक और अदृश्य होने की शक्ति वाला युवा स्पाइडर-मैन।"
+      "hi": "Brooklyn teenager Spider-Man commanding bio-electric Venom blasts and camouflage invisibility."
     },
     "traits": [
-      {
-        "vi": "Venom Strike",
-        "en": "Venom Strike",
-        "hi": "वेनम स्ट्राइक"
-      },
-      {
-        "vi": "Tàng hình",
-        "en": "Camouflage",
-        "hi": "अदृश्य होना"
-      }
-    ]
+      "Venom Strike",
+      "Tàng hình"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh-S02hYGZijgwPo_d3Q9YRxgdEPRlaW0d8YX9U8D3Rg&s=10"
   },
   {
     "id": "movies-char-010",
@@ -803,27 +718,20 @@
     "name": {
       "vi": "Chani",
       "en": "Chani",
-      "hi": "चानी"
+      "hi": "Chani"
     },
-    "image": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=500&auto=format&fit=crop&q=80",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/16/Zendaya_as_Chani_%28Dune_2021%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
     "franchise": "Dune",
     "biography": {
       "vi": "Nữ chiến binh Fremen quả cảm của sa mạc Arrakis, người luôn đấu tranh cho tự do thực sự của bộ tộc.",
       "en": "Fierce Fremen desert warrior fighting for Arrakis independence with a laser-focused heart.",
-      "hi": "अर्राकिस के रेगिस्तान की निडर महिला योद्धा।"
+      "hi": "Fierce Fremen desert warrior fighting for Arrakis independence with a laser-focused heart."
     },
     "traits": [
-      {
-        "vi": "Chiến binh Sa Mạc",
-        "en": "Fremen Fedaykin",
-        "hi": "रेगिस्तानी योद्धा"
-      },
-      {
-        "vi": "Mắt xanh Ibad",
-        "en": "Eyes of Ibad",
-        "hi": "नीली आंखें"
-      }
-    ]
+      "Chiến binh Sa Mạc",
+      "Mắt xanh Ibad"
+    ],
+    "avatarUrl": "https://upload.wikimedia.org/wikipedia/en/1/16/Zendaya_as_Chani_%28Dune_2021%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
   },
   {
     "id": "movies-char-011",
@@ -831,27 +739,20 @@
     "name": {
       "vi": "Jake Sully (Toruk Makto)",
       "en": "Jake Sully",
-      "hi": "जेक सुली"
+      "hi": "Jake Sully"
     },
-    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvvx51CL79hGDqMVMtR7MEvy1yJo7O1glFmXArcfKiIESzerHS0rdzzMie&s=10",
     "franchise": "Avatar",
     "biography": {
       "vi": "Thủ lĩnh bộ tộc Na'vi từng cưỡi đại bàng Toruk bảo vệ hành tinh Pandora khỏi sự xâm lăng của loài người.",
       "en": "Former Marine who embraced Na'vi identity, riding the Great Leonopteryx as Toruk Makto to defend Pandora.",
-      "hi": "पैंडोरा की रक्षा करने वाला तोरुक माक्तो।"
+      "hi": "Former Marine who embraced Na'vi identity, riding the Great Leonopteryx as Toruk Makto to defend Pandora."
     },
     "traits": [
-      {
-        "vi": "Toruk Makto",
-        "en": "Toruk Makto",
-        "hi": "तोरुक माक्तो"
-      },
-      {
-        "vi": "Thủ lĩnh Omaticaya",
-        "en": "Clan Leader",
-        "hi": "कबीला सरदार"
-      }
-    ]
+      "Toruk Makto",
+      "Thủ lĩnh Omaticaya"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvvx51CL79hGDqMVMtR7MEvy1yJo7O1glFmXArcfKiIESzerHS0rdzzMie&s=10"
   },
   {
     "id": "tvshows-char-001",
@@ -859,37 +760,22 @@
     "name": {
       "vi": "Jon Snow",
       "en": "Jon Snow",
-      "hi": "जॉन स्नो"
+      "hi": "Jon Snow"
     },
-    "image": "https://images.unsplash.com/photo-1514539079130-25950c84af65?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QtEgIYy6isuo8YkT1Gz795LJicbP2ZkAg5hT59g9Vg&s",
     "franchise": "Game of Thrones",
     "biography": {
       "vi": "Người chỉ huy Đội Tuần Đêm tại Bức Tường phương Bắc, người thực sự mang dòng máu hoàng gia Targaryen và tập hợp các gia tộc chống lại Đội quân Bóng Trắng.",
       "en": "Commander of the Night's Watch at the Wall in the North, who truly carries Targaryen royal blood and unites the houses against the Army of the White Walkers.",
-      "hi": "उत्तर की दीवार पर नाइट्स वॉच का सेनापति, जो असल में टारगेरियन शाही रक्त का वारिस है और व्हाइट वॉकर्स की सेना के खिलाफ सभी घरानों को एकजुट करता है।"
+      "hi": "Commander of the Night's Watch at the Wall in the North, who truly carries Targaryen royal blood and unites the houses against the Army of the White Walkers."
     },
     "traits": [
-      {
-        "vi": "Chính trực",
-        "en": "Righteous",
-        "hi": "सच्चरित्र"
-      },
-      {
-        "vi": "Danh dự",
-        "en": "Honorable",
-        "hi": "सम्मानित"
-      },
-      {
-        "vi": "Kiếm Longclaw",
-        "en": "Longclaw sword",
-        "hi": "लॉन्गक्लॉ तलवार"
-      },
-      {
-        "vi": "Thủ lĩnh bẩm sinh",
-        "en": "Natural-born leader",
-        "hi": "जन्मजात नेता"
-      }
-    ]
+      "Chính trực",
+      "Danh dự",
+      "Kiếm Longclaw",
+      "Thủ lĩnh bẩm sinh"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QtEgIYy6isuo8YkT1Gz795LJicbP2ZkAg5hT59g9Vg&s"
   },
   {
     "id": "tvshows-char-002",
@@ -897,37 +783,22 @@
     "name": {
       "vi": "Walter White (Heisenberg)",
       "en": "Walter White (Heisenberg)",
-      "hi": "वाल्टर व्हाइट (हाइज़ेनबर्ग)"
+      "hi": "Walter White (Heisenberg)"
     },
-    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXYasoNaNyDIPMQEUr75qXQqfYsqvcN2gHauQFaiXwYw&s=10",
     "franchise": "Breaking Bad",
     "biography": {
       "vi": "Giáo viên hóa học trung học bình thường chuyển mình thành trùm ma túy Heisenberg tàn nhẫn sau biến cố ung thư phổi, dần để bản ngã tham vọng nuốt chửng đạo đức.",
       "en": "An ordinary high school chemistry teacher who transforms into the ruthless drug kingpin Heisenberg after a lung cancer diagnosis, gradually letting his ambitious ego consume his morals.",
-      "hi": "एक साधारण हाई स्कूल केमिस्ट्री शिक्षक, जो फेफड़ों के कैंसर की घटना के बाद निर्दयी ड्रग किंगपिन हाइज़ेनबर्ग में बदल जाता है, धीरे-धीरे उसकी महत्वाकांक्षा उसकी नैतिकता को निगल जाती है।"
+      "hi": "An ordinary high school chemistry teacher who transforms into the ruthless drug kingpin Heisenberg after a lung cancer diagnosis, gradually letting his ambitious ego consume his morals."
     },
     "traits": [
-      {
-        "vi": "Thiên tài hóa học",
-        "en": "Chemistry genius",
-        "hi": "रसायन विज्ञान का प्रतिभाशाली"
-      },
-      {
-        "vi": "Mưu mô",
-        "en": "Cunning",
-        "hi": "चालाक"
-      },
-      {
-        "vi": "Quyết đoán",
-        "en": "Decisive",
-        "hi": "दृढ़निश्चयी"
-      },
-      {
-        "vi": "Thao túng tâm lý",
-        "en": "Master manipulator",
-        "hi": "मनोवैज्ञानिक हेरफेर में माहिर"
-      }
-    ]
+      "Thiên tài hóa học",
+      "Mưu mô",
+      "Quyết đoán",
+      "Thao túng tâm lý"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXYasoNaNyDIPMQEUr75qXQqfYsqvcN2gHauQFaiXwYw&s=10"
   },
   {
     "id": "tvshows-char-003",
@@ -935,37 +806,22 @@
     "name": {
       "vi": "Eleven (Jane Hopper)",
       "en": "Eleven (Jane Hopper)",
-      "hi": "इलेवन (जेन हॉपर)"
+      "hi": "Eleven (Jane Hopper)"
     },
-    "image": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmIMSSAJmQenoBN9gIvWV2EQCmalbDlE8P7Qe9nHKcLg&s=10",
     "franchise": "Stranger Things",
     "biography": {
       "vi": "Cô bé sở hữu năng lực tâm linh viễn di chuyển và ngoại cảm sau các thí nghiệm tại phòng thí nghiệm Hawkins, bức tường thành bảo vệ thị trấn khỏi thế giới Upside Down.",
       "en": "A girl with telekinetic and psychic powers gained from experiments at the Hawkins lab, the last line of defense protecting the town from the Upside Down.",
-      "hi": "हॉकिन्स लैब के प्रयोगों से टेलीकाइनेटिक और मानसिक शक्तियां पाई हुई एक लड़की, जो शहर को अपसाइड डाउन से बचाने वाली आखिरी सुरक्षा दीवार है।"
+      "hi": "A girl with telekinetic and psychic powers gained from experiments at the Hawkins lab, the last line of defense protecting the town from the Upside Down."
     },
     "traits": [
-      {
-        "vi": "Năng lực tâm linh",
-        "en": "Psychic powers",
-        "hi": "मानसिक शक्तियां"
-      },
-      {
-        "vi": "Tình cảm",
-        "en": "Affectionate",
-        "hi": "स्नेही"
-      },
-      {
-        "vi": "Yêu bánh Waffle",
-        "en": "Loves waffles",
-        "hi": "वैफल्स पसंद"
-      },
-      {
-        "vi": "Dũng cảm",
-        "en": "Brave",
-        "hi": "बहादुर"
-      }
-    ]
+      "Năng lực tâm linh",
+      "Tình cảm",
+      "Yêu bánh Waffle",
+      "Dũng cảm"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmIMSSAJmQenoBN9gIvWV2EQCmalbDlE8P7Qe9nHKcLg&s=10"
   },
   {
     "id": "tvshows-char-004",
@@ -973,37 +829,22 @@
     "name": {
       "vi": "Thomas Shelby",
       "en": "Thomas Shelby",
-      "hi": "थॉमस शेल्बी"
+      "hi": "Thomas Shelby"
     },
-    "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5qM02nycO8JWc5FZXm__dPpTUC8nDMMsYKxfiEsUshQ&s=10",
     "franchise": "Peaky Blinders",
     "biography": {
       "vi": "Thủ lĩnh lạnh lùng và túc trí đa mưu của băng đảng Peaky Blinders tại Birmingham, biến một tổ chức cá cược đường phố thành tập đoàn quyền lực toàn vương quốc Anh.",
       "en": "The cold and cunning leader of the Peaky Blinders gang in Birmingham, who turns a street betting operation into a powerful empire across the United Kingdom.",
-      "hi": "बर्मिंघम में पीकी ब्लाइंडर्स गैंग का ठंडा और चालाक नेता, जिसने एक सड़क सट्टेबाजी संगठन को पूरे यूनाइटेड किंगडम में एक शक्तिशाली साम्राज्य में बदल दिया।"
+      "hi": "The cold and cunning leader of the Peaky Blinders gang in Birmingham, who turns a street betting operation into a powerful empire across the United Kingdom."
     },
     "traits": [
-      {
-        "vi": "Chiến lược gia",
-        "en": "Strategist",
-        "hi": "रणनीतिकार"
-      },
-      {
-        "vi": "Bình tĩnh kỳ lạ",
-        "en": "Eerily calm",
-        "hi": "अजीब तरह से शांत"
-      },
-      {
-        "vi": "Lạnh lùng",
-        "en": "Cold-mannered",
-        "hi": "ठंडे स्वभाव का"
-      },
-      {
-        "vi": "Thương gia tài ba",
-        "en": "Brilliant businessman",
-        "hi": "शानदार व्यवसायी"
-      }
-    ]
+      "Chiến lược gia",
+      "Bình tĩnh kỳ lạ",
+      "Lạnh lùng",
+      "Thương gia tài ba"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5qM02nycO8JWc5FZXm__dPpTUC8nDMMsYKxfiEsUshQ&s=10"
   },
   {
     "id": "tvshows-char-005",
@@ -1011,37 +852,22 @@
     "name": {
       "vi": "Sherlock Holmes",
       "en": "Sherlock Holmes",
-      "hi": "शर्लक होम्स"
+      "hi": "Sherlock Holmes"
     },
-    "image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZg_3C363QMDxDxrNNdrkochudwqipFvUjBem2RqUr-g&s=10",
     "franchise": "Sherlock",
     "biography": {
       "vi": "Thám tử tư vấn duy nhất trên thế giới với bộ óc phân tích siêu việt, sử dụng Cung điện Ký ức (Mind Palace) để giải mã những vụ án hóc búa nhất thành phố London.",
       "en": "The world's only consulting detective, with a superior analytical mind, using his Mind Palace to solve London's most baffling cases.",
-      "hi": "दुनिया का इकलौता कंसल्टिंग डिटेक्टिव, जिसके पास असाधारण विश्लेषणात्मक दिमाग है, जो अपने माइंड पैलेस का उपयोग करके लंदन के सबसे उलझे हुए मामलों को सुलझाता है।"
+      "hi": "The world's only consulting detective, with a superior analytical mind, using his Mind Palace to solve London's most baffling cases."
     },
     "traits": [
-      {
-        "vi": "Quan sát tinh tế",
-        "en": "Keen observation",
-        "hi": "सूक्ष्म अवलोकन"
-      },
-      {
-        "vi": "Suy luận logic",
-        "en": "Logical deduction",
-        "hi": "तार्किक निष्कर्ष"
-      },
-      {
-        "vi": "Cung điện ký ức",
-        "en": "Mind Palace",
-        "hi": "माइंड पैलेस"
-      },
-      {
-        "vi": "Khác biệt",
-        "en": "Eccentric",
-        "hi": "विलक्षण"
-      }
-    ]
+      "Quan sát tinh tế",
+      "Suy luận logic",
+      "Cung điện ký ức",
+      "Khác biệt"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZg_3C363QMDxDxrNNdrkochudwqipFvUjBem2RqUr-g&s=10"
   },
   {
     "id": "tvshows-char-006",
@@ -1049,27 +875,20 @@
     "name": {
       "vi": "Vi (Violet)",
       "en": "Vi (Violet)",
-      "hi": "वी (वायलेट)"
+      "hi": "Vi (Violet)"
     },
-    "image": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt9XrE__uT8USqSFqvHCloipMne6OaezV3fza0hLQ6Ng&s=10",
     "franchise": "Arcane",
     "biography": {
       "vi": "Đấu sĩ đường phố quả cảm xứ Zaun với đôi găng tay Hextech khổng lồ, luôn chiến đấu để bảo vệ em gái Jinx và những người cô yêu quý.",
       "en": "Zaun's fiercely protective street brawler equipped with massive Hextech gauntlets, fighting for sisterhood and justice.",
-      "hi": "ज़ाउन की साहसी मुक्केबाज जिसके पास हेक्सटेक दस्ताने हैं।"
+      "hi": "Zaun's fiercely protective street brawler equipped with massive Hextech gauntlets, fighting for sisterhood and justice."
     },
     "traits": [
-      {
-        "vi": "Găng tay Hextech",
-        "en": "Hextech Gauntlets",
-        "hi": "हेक्सटेक दस्ताने"
-      },
-      {
-        "vi": "Bền bỉ",
-        "en": "Tough",
-        "hi": "कठोर"
-      }
-    ]
+      "Găng tay Hextech",
+      "Bền bỉ"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt9XrE__uT8USqSFqvHCloipMne6OaezV3fza0hLQ6Ng&s=10"
   },
   {
     "id": "tvshows-char-007",
@@ -1077,27 +896,20 @@
     "name": {
       "vi": "Daemon Targaryen",
       "en": "Daemon Targaryen",
-      "hi": "डेमन टारगैरियन"
+      "hi": "Daemon Targaryen"
     },
-    "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwo2WSVdkwqyAkYvTTd1LVNBM67_3RbOWda77UL5qrrA&s=10",
     "franchise": "House of the Dragon",
     "biography": {
       "vi": "Hoàng tử Rogue khét tiếng cưỡi rồng Caraxes, chiến binh kiêu hùng khó lường của gia tộc Rồng trong cuộc chiến tranh vương quyền.",
       "en": "The unpredictable Rogue Prince and rider of the blood wyrm Caraxes, a fierce Targaryen warrior during the civil war.",
-      "hi": "रक्त ड्रैगन कैराक्सेस का सवार और दुर्जेय योद्धा राजकुमार।"
+      "hi": "The unpredictable Rogue Prince and rider of the blood wyrm Caraxes, a fierce Targaryen warrior during the civil war."
     },
     "traits": [
-      {
-        "vi": "Cưỡi rồng Caraxes",
-        "en": "Dragonrider",
-        "hi": "ड्रैगन राइडर"
-      },
-      {
-        "vi": "Kiếm Thép Valyrian",
-        "en": "Dark Sister",
-        "hi": "डार्क सिस्टर"
-      }
-    ]
+      "Cưỡi rồng Caraxes",
+      "Kiếm Thép Valyrian"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwo2WSVdkwqyAkYvTTd1LVNBM67_3RbOWda77UL5qrrA&s=10"
   },
   {
     "id": "tvshows-char-009",
@@ -1105,27 +917,20 @@
     "name": {
       "vi": "Rhaenyra Targaryen",
       "en": "Rhaenyra Targaryen",
-      "hi": "रेनिरा टारगैरियन"
+      "hi": "Rhaenyra Targaryen"
     },
-    "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMrW42Q6GHCRxWAQYiV_98g8juk_Bg2MH4v0MT-GgsSA&s=10",
     "franchise": "House of the Dragon",
     "biography": {
       "vi": "Nữ vương hợp pháp của Bảy Vương Quốc, người cưỡi rồng Syrax chiến đấu giành lại Ngai Sắt cho nhánh Đen.",
       "en": "The rightful Queen of the Seven Kingdoms riding Syrax in the fierce Dance of the Dragons civil war.",
-      "hi": "सात राज्यों की रानी और ड्रैगन सिराक्स की सवार।"
+      "hi": "The rightful Queen of the Seven Kingdoms riding Syrax in the fierce Dance of the Dragons civil war."
     },
     "traits": [
-      {
-        "vi": "Nữ vương Ngai Sắt",
-        "en": "Rightful Queen",
-        "hi": "सच्ची रानी"
-      },
-      {
-        "vi": "Cưỡi rồng Syrax",
-        "en": "Syrax Rider",
-        "hi": "सिराक्स राइडर"
-      }
-    ]
+      "Nữ vương Ngai Sắt",
+      "Cưỡi rồng Syrax"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMrW42Q6GHCRxWAQYiV_98g8juk_Bg2MH4v0MT-GgsSA&s=10"
   },
   {
     "id": "tvshows-char-010",
@@ -1133,27 +938,20 @@
     "name": {
       "vi": "Lucy MacLean",
       "en": "Lucy MacLean",
-      "hi": "लूसी मैकलियन"
+      "hi": "Lucy MacLean"
     },
-    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvPWaYOQZh9U6qqMNHxwHO7fkZMxT5fFsBTfhD_3mioQ&s=10",
     "franchise": "Fallout",
     "biography": {
       "vi": "Cô gái lạc quan bước ra từ hầm trú ẩn Vault 33 đối mặt với sự tàn nhẫn và kỳ dị của thế giới sa mạc hậu tận thế.",
       "en": "An optimistic Vault 33 dweller forced onto the violent irradiated wasteland to rescue her father.",
-      "hi": "वॉल्ट 33 से बाहर आकर खतरनाक दुनिया का सामना करने वाली लड़की।"
+      "hi": "An optimistic Vault 33 dweller forced onto the violent irradiated wasteland to rescue her father."
     },
     "traits": [
-      {
-        "vi": "Cư dân Vault 33",
-        "en": "Vault Dweller",
-        "hi": "वॉल्ट निवासी"
-      },
-      {
-        "vi": "Pip-Boy",
-        "en": "Pip-Boy 3000",
-        "hi": "पिप-बॉय"
-      }
-    ]
+      "Cư dân Vault 33",
+      "Pip-Boy"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvPWaYOQZh9U6qqMNHxwHO7fkZMxT5fFsBTfhD_3mioQ&s=10"
   },
   {
     "id": "tvshows-char-011",
@@ -1161,27 +959,20 @@
     "name": {
       "vi": "Seong Gi-hun (Player 456)",
       "en": "Seong Gi-hun",
-      "hi": "सियोंग गी-हुन"
+      "hi": "Seong Gi-hun"
     },
-    "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB3wp6DtkTyvemWRLRoJAvPTj26pmT-h9GvUbW6mjwcw&s=10",
     "franchise": "Squid Game",
     "biography": {
       "vi": "Người chiến thắng duy nhất của trò chơi con mực, từ chối số tiền khổng lồ để tìm cách hủy diệt trò chơi tàn bạo.",
       "en": "Winner of the deadly Squid Game who turns down a life of luxury to dismantle the twisted game.",
-      "hi": "स्क्विड गेम का विजेता जो व्यवस्था को खत्म करना चाहता है।"
+      "hi": "Winner of the deadly Squid Game who turns down a life of luxury to dismantle the twisted game."
     },
     "traits": [
-      {
-        "vi": "Người chơi 456",
-        "en": "Player 456",
-        "hi": "खिलाड़ी 456"
-      },
-      {
-        "vi": "Ý chí chính nghĩa",
-        "en": "Moral Conscience",
-        "hi": "नैतिक साहस"
-      }
-    ]
+      "Người chơi 456",
+      "Ý chí chính nghĩa"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB3wp6DtkTyvemWRLRoJAvPTj26pmT-h9GvUbW6mjwcw&s=10"
   },
   {
     "id": "kpop-char-001",
@@ -1189,37 +980,22 @@
     "name": {
       "vi": "RM (Kim Nam-joon)",
       "en": "RM (Kim Nam-joon)",
-      "hi": "आरएम (किम नाम-जून)"
+      "hi": "RM (Kim Nam-joon)"
     },
-    "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS67mxcglM3PwJH57cJSGyxcYQPZB8KEO57W6Mh-TQTOw&s=10",
     "franchise": "BTS",
     "biography": {
       "vi": "Trưởng nhóm và nhà sản xuất âm nhạc tài ba của nhóm nhạc hiện tượng toàn cầu BTS, đại diện cho tiếng nói thế hệ trẻ với các bài phát biểu truyền cảm hứng tại Liên Hợp Quốc.",
       "en": "Leader and talented music producer of the global phenomenon BTS, representing the voice of a young generation with inspiring speeches at the United Nations.",
-      "hi": "वैश्विक सनसनी बीटीएस का नेता और प्रतिभाशाली संगीत निर्माता, जो संयुक्त राष्ट्र में अपने प्रेरक भाषणों के साथ युवा पीढ़ी की आवाज़ का प्रतिनिधित्व करता है।"
+      "hi": "Leader and talented music producer of the global phenomenon BTS, representing the voice of a young generation with inspiring speeches at the United Nations."
     },
     "traits": [
-      {
-        "vi": "Lãnh đạo xuất chúng",
-        "en": "Exceptional leader",
-        "hi": "असाधारण नेता"
-      },
-      {
-        "vi": "Sáng tác sâu sắc",
-        "en": "Deeply thoughtful songwriter",
-        "hi": "गहरा गीतकार"
-      },
-      {
-        "vi": "Thông thái",
-        "en": "Wise",
-        "hi": "बुद्धिमान"
-      },
-      {
-        "vi": "Rapper tài ba",
-        "en": "Talented rapper",
-        "hi": "प्रतिभाशाली रैपर"
-      }
-    ]
+      "Lãnh đạo xuất chúng",
+      "Sáng tác sâu sắc",
+      "Thông thái",
+      "Rapper tài ba"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS67mxcglM3PwJH57cJSGyxcYQPZB8KEO57W6Mh-TQTOw&s=10"
   },
   {
     "id": "kpop-char-002",
@@ -1227,37 +1003,22 @@
     "name": {
       "vi": "Jennie Kim",
       "en": "Jennie Kim",
-      "hi": "जेनी किम"
+      "hi": "Jennie Kim"
     },
-    "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3ITH_7Q9UWyoqVKQVnfB9b8ShytxuAxm8BDygBTXh2Q&s=10",
     "franchise": "BLACKPINK",
     "biography": {
       "vi": "Thành viên đa tài của nhóm nữ kỷ lục BLACKPINK, được mệnh danh là 'Human Chanel' với phong cách thời trang dẫn đầu xu hướng và thần thái sân khấu cuốn hút.",
       "en": "A multi-talented member of the record-breaking girl group BLACKPINK, dubbed 'Human Chanel' for her trend-setting fashion style and captivating stage presence.",
-      "hi": "रिकॉर्ड तोड़ने वाले गर्ल ग्रुप ब्लैकपिंक की बहुमुखी प्रतिभा वाली सदस्य, जिसे उसकी ट्रेंडसेटिंग फैशन स्टाइल और मंच पर आकर्षक उपस्थिति के कारण 'ह्यूमन शनैल' कहा जाता है।"
+      "hi": "A multi-talented member of the record-breaking girl group BLACKPINK, dubbed 'Human Chanel' for her trend-setting fashion style and captivating stage presence."
     },
     "traits": [
-      {
-        "vi": "Biểu tượng thời trang",
-        "en": "Fashion icon",
-        "hi": "फैशन आइकन"
-      },
-      {
-        "vi": "Rapper lôi cuốn",
-        "en": "Charismatic rapper",
-        "hi": "आकर्षक रैपर"
-      },
-      {
-        "vi": "Vocal quyến rũ",
-        "en": "Alluring vocals",
-        "hi": "मोहक आवाज़"
-      },
-      {
-        "vi": "Visual sang trọng",
-        "en": "Elegant visual",
-        "hi": "शानदार विज़ुअल"
-      }
-    ]
+      "Biểu tượng thời trang",
+      "Rapper lôi cuốn",
+      "Vocal quyến rũ",
+      "Visual sang trọng"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3ITH_7Q9UWyoqVKQVnfB9b8ShytxuAxm8BDygBTXh2Q&s=10"
   },
   {
     "id": "kpop-char-003",
@@ -1265,37 +1026,22 @@
     "name": {
       "vi": "G-Dragon (Kwon Ji-yong)",
       "en": "G-Dragon (Kwon Ji-yong)",
-      "hi": "जी-ड्रैगन (क्वोन जी-योंग)"
+      "hi": "G-Dragon (Kwon Ji-yong)"
     },
-    "image": "https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGFIrRfwge1MJRtRh00XK0DHm9EspsPB31xcww-Bvqow&s=10",
     "franchise": "BIGBANG",
     "biography": {
       "vi": "Ông hoàng K-Pop, nhà tiên phong mở đường cho văn hóa âm nhạc Hallyu vươn tầm quốc tế với khả năng sáng tác đỉnh cao và phong cách thời trang đột phá không giới hạn.",
       "en": "The King of K-Pop, a pioneer who paved the way for Hallyu music culture to reach international scale with top-tier songwriting ability and boundlessly groundbreaking fashion style.",
-      "hi": "के-पॉप का राजा, जिसने अपनी शीर्ष स्तरीय गीत-लेखन क्षमता और असीमित रूप से क्रांतिकारी फैशन स्टाइल के साथ हैल्यू संगीत संस्कृति को अंतरराष्ट्रीय स्तर तक पहुंचाने का मार्ग प्रशस्त किया।"
+      "hi": "The King of K-Pop, a pioneer who paved the way for Hallyu music culture to reach international scale with top-tier songwriting ability and boundlessly groundbreaking fashion style."
     },
     "traits": [
-      {
-        "vi": "Biểu tượng K-Pop",
-        "en": "K-Pop icon",
-        "hi": "के-पॉप आइकन"
-      },
-      {
-        "vi": "Nhạc sĩ thiên tài",
-        "en": "Musical genius",
-        "hi": "संगीत प्रतिभा"
-      },
-      {
-        "vi": "Đột phá",
-        "en": "Groundbreaking",
-        "hi": "क्रांतिकारी"
-      },
-      {
-        "vi": "Phong cách độc bản",
-        "en": "Unique style",
-        "hi": "अद्वितीय शैली"
-      }
-    ]
+      "Biểu tượng K-Pop",
+      "Nhạc sĩ thiên tài",
+      "Đột phá",
+      "Phong cách độc bản"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGFIrRfwge1MJRtRh00XK0DHm9EspsPB31xcww-Bvqow&s=10"
   },
   {
     "id": "kpop-char-004",
@@ -1303,37 +1049,22 @@
     "name": {
       "vi": "IU (Lee Ji-eun)",
       "en": "IU (Lee Ji-eun)",
-      "hi": "आईयू (ली जी-यून)"
+      "hi": "IU (Lee Ji-eun)"
     },
-    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9o3Q6KOq6Kdoz0cxkh877DaqjUnpLgLtT7_FzO4QE-w&s=10",
     "franchise": "Solo Artists",
     "biography": {
       "vi": "Nghệ sĩ solo hàng đầu Hàn Quốc, được yêu mến với biệt danh 'Em gái quốc dân', sở hữu chất giọng trong trẻo 3 nốt cao và gia tài nhạc số bất bại trên mọi bảng xếp hạng.",
       "en": "South Korea's top solo artist, affectionately known as the 'Nation's Little Sister,' with a clear three-octave vocal range and an unbeatable digital music catalog across every chart.",
-      "hi": "दक्षिण कोरिया की शीर्ष एकल कलाकार, जिसे प्यार से 'नेशन्स लिटिल सिस्टर' कहा जाता है, जिसकी स्पष्ट तीन-सप्तक आवाज़ और हर चार्ट पर अजेय डिजिटल संगीत कैटलॉग है।"
+      "hi": "South Korea's top solo artist, affectionately known as the 'Nation's Little Sister,' with a clear three-octave vocal range and an unbeatable digital music catalog across every chart."
     },
     "traits": [
-      {
-        "vi": "Giọng hát thiên phú",
-        "en": "Gifted voice",
-        "hi": "प्रतिभाशाली आवाज़"
-      },
-      {
-        "vi": "Nhạc sĩ tinh tế",
-        "en": "Refined songwriter",
-        "hi": "परिष्कृत गीतकार"
-      },
-      {
-        "vi": "Diễn xuất ấn tượng",
-        "en": "Impressive acting",
-        "hi": "प्रभावशाली अभिनय"
-      },
-      {
-        "vi": "Nhân ái",
-        "en": "Compassionate",
-        "hi": "दयालु"
-      }
-    ]
+      "Giọng hát thiên phú",
+      "Nhạc sĩ tinh tế",
+      "Diễn xuất ấn tượng",
+      "Nhân ái"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9o3Q6KOq6Kdoz0cxkh877DaqjUnpLgLtT7_FzO4QE-w&s=10"
   },
   {
     "id": "kpop-char-005",
@@ -1341,37 +1072,22 @@
     "name": {
       "vi": "Taeyeon (Kim Tae-yeon)",
       "en": "Taeyeon (Kim Tae-yeon)",
-      "hi": "तेयोन (किम ते-योन)"
+      "hi": "Taeyeon (Kim Tae-yeon)"
     },
-    "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpjVVakpuwd9DP3wJWivOR-Tky3D77xuz8qAqf8d2dSQ&s=10",
     "franchise": "Girls' Generation (SNSD)",
     "biography": {
       "vi": "Trưởng nhóm huyền thoại của nhóm nữ quốc dân SNSD, giọng ca vàng của K-Pop với kỹ thuật thanh nhạc đỉnh cao và sự nghiệp solo rực rỡ kéo dài qua nhiều thế hệ.",
       "en": "Legendary leader of the nation's girl group SNSD, K-Pop's golden voice with top-tier vocal technique and a brilliant solo career spanning generations.",
-      "hi": "राष्ट्र के गर्ल ग्रुप एसएनएसडी की महान नेता, के-पॉप की सुनहरी आवाज़, जिसकी शीर्ष स्तरीय गायन तकनीक और शानदार एकल करियर कई पीढ़ियों तक फैला हुआ है।"
+      "hi": "Legendary leader of the nation's girl group SNSD, K-Pop's golden voice with top-tier vocal technique and a brilliant solo career spanning generations."
     },
     "traits": [
-      {
-        "vi": "Vocalist hàng đầu",
-        "en": "Top vocalist",
-        "hi": "शीर्ष गायिका"
-      },
-      {
-        "vi": "Giàu cảm xúc",
-        "en": "Deeply emotive",
-        "hi": "भावनात्मक रूप से गहरी"
-      },
-      {
-        "vi": "Nghệ sĩ bền bỉ",
-        "en": "Enduring artist",
-        "hi": "स्थायी कलाकार"
-      },
-      {
-        "vi": "Truyền cảm hứng",
-        "en": "Inspiring",
-        "hi": "प्रेरणादायक"
-      }
-    ]
+      "Vocalist hàng đầu",
+      "Giàu cảm xúc",
+      "Nghệ sĩ bền bỉ",
+      "Truyền cảm hứng"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpjVVakpuwd9DP3wJWivOR-Tky3D77xuz8qAqf8d2dSQ&s=10"
   },
   {
     "id": "kpop-char-006",
@@ -1379,27 +1095,20 @@
     "name": {
       "vi": "Hanni",
       "en": "Hanni",
-      "hi": "हन्नी"
+      "hi": "Hanni"
     },
-    "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW8eP-tuEt0WorXbeeHHNzxl_5isM_z9CDGfuzqBOwXA&s=10",
     "franchise": "NewJeans",
     "biography": {
       "vi": "Thành viên gốc Việt tài năng của nhóm nhạc hiện tượng NewJeans, nổi tiếng với chất giọng mật ngọt, khả năng sáng tác và visual Y2K cuốn hút.",
       "en": "Talented member of phenomenon group NewJeans, loved for honey-smooth vocals, lyricism, and iconic Y2K fashion.",
-      "hi": "न्यूजीन्स की प्रतिभाशाली सदस्य, अपनी मधुर आवाज और स्टाइल के लिए प्रसिद्ध।"
+      "hi": "Talented member of phenomenon group NewJeans, loved for honey-smooth vocals, lyricism, and iconic Y2K fashion."
     },
     "traits": [
-      {
-        "vi": "Giọng ca ngọt ngào",
-        "en": "Honey Vocals",
-        "hi": "मधुर आवाज"
-      },
-      {
-        "vi": "Biểu tượng thời trang",
-        "en": "Fashion Icon",
-        "hi": "फैशन आइकन"
-      }
-    ]
+      "Giọng ca ngọt ngào",
+      "Biểu tượng thời trang"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW8eP-tuEt0WorXbeeHHNzxl_5isM_z9CDGfuzqBOwXA&s=10"
   },
   {
     "id": "kpop-char-007",
@@ -1407,27 +1116,20 @@
     "name": {
       "vi": "Karina",
       "en": "Karina",
-      "hi": "करीना"
+      "hi": "Karina"
     },
-    "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ_1JM6npBQ1WOSIcEpNTluYasG2CIxLugJABrfqb4jw&s=10",
     "franchise": "aespa",
     "biography": {
       "vi": "Trưởng nhóm quyền lực của aespa với tỷ lệ gương mặt hoàn hảo như nhân vật đồ họa CGI, vũ đạo sắc bén và khí chất dẫn đầu thế hệ mới.",
       "en": "Charismatic leader of aespa known for unreal CGI-like proportions, sharp choreography, and commanding stage power.",
-      "hi": "एस्पा की करिश्माई लीडर, अपनी शानदार कोरियोग्राफी के लिए प्रसिद्ध।"
+      "hi": "Charismatic leader of aespa known for unreal CGI-like proportions, sharp choreography, and commanding stage power."
     },
     "traits": [
-      {
-        "vi": "Visual đồ họa",
-        "en": "CGI Visual",
-        "hi": "सीजीआई लुक"
-      },
-      {
-        "vi": "Trưởng nhóm",
-        "en": "Leader",
-        "hi": "लीडर"
-      }
-    ]
+      "Visual đồ họa",
+      "Trưởng nhóm"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ_1JM6npBQ1WOSIcEpNTluYasG2CIxLugJABrfqb4jw&s=10"
   },
   {
     "id": "kpop-char-008",
@@ -1435,27 +1137,20 @@
     "name": {
       "vi": "Jungkook",
       "en": "Jungkook",
-      "hi": "जंगकुक"
+      "hi": "Jungkook"
     },
-    "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6fVwzZwV6VjWvTb9oCStWVe923110sHqKqUuuQ-6wew&s=10",
     "franchise": "BTS",
     "biography": {
       "vi": "Em út vàng (Golden Maknae) của BTS, ca sĩ solo phá kỷ lục tỷ lượt nghe Spotify với bản hit Seven.",
       "en": "BTS's Golden Maknae whose record-shattering solo debut 'Seven' made pop history worldwide.",
-      "hi": "बीटीएस का सबसे लोकप्रिय गायक और डांसर।"
+      "hi": "BTS's Golden Maknae whose record-shattering solo debut 'Seven' made pop history worldwide."
     },
     "traits": [
-      {
-        "vi": "Giọng ca vàng",
-        "en": "Golden Vocals",
-        "hi": "स्वर्ण आवाज"
-      },
-      {
-        "vi": "Vũ đạo hoàn hảo",
-        "en": "Main Dancer",
-        "hi": "शानदार डांसर"
-      }
-    ]
+      "Giọng ca vàng",
+      "Vũ đạo hoàn hảo"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6fVwzZwV6VjWvTb9oCStWVe923110sHqKqUuuQ-6wew&s=10"
   },
   {
     "id": "kpop-char-010",
@@ -1463,27 +1158,20 @@
     "name": {
       "vi": "Felix",
       "en": "Felix",
-      "hi": "फेलिक्स"
+      "hi": "Felix"
     },
-    "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkbJMtOlnYH4ykefmRsCK02d3eCVa_nxeYzLeOvlwpjA&s=10",
     "franchise": "Stray Kids",
     "biography": {
       "vi": "Chàng trai người Úc gốc Hàn sở hữu chất giọng trầm ấm sâu thẳm (Deep Cave Voice) và visual cổ tích cuốn hút.",
       "en": "Stray Kids sensation known for angelic freckles and his signature thunderous deep bass voice.",
-      "hi": "अपनी गहरी आवाज और शानदार डांस के लिए मशहूर आइडल।"
+      "hi": "Stray Kids sensation known for angelic freckles and his signature thunderous deep bass voice."
     },
     "traits": [
-      {
-        "vi": "Giọng trầm Deep Bass",
-        "en": "Cave Voice",
-        "hi": "गहरी आवाज"
-      },
-      {
-        "vi": "Visual thiên thần",
-        "en": "Angel Visual",
-        "hi": "परी जैसा चेहरा"
-      }
-    ]
+      "Giọng trầm Deep Bass",
+      "Visual thiên thần"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkbJMtOlnYH4ykefmRsCK02d3eCVa_nxeYzLeOvlwpjA&s=10"
   },
   {
     "id": "kpop-char-011",
@@ -1491,27 +1179,20 @@
     "name": {
       "vi": "Jang Wonyoung",
       "en": "Jang Wonyoung",
-      "hi": "जांग वोनयॉन्ग"
+      "hi": "Jang Wonyoung"
     },
-    "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj_8zbr0AjjdbWPtRyJq8TOzHAXuTVbOEvqQSRaYdaEA&s=10",
     "franchise": "IVE",
     "biography": {
       "vi": "Center quốc dân của thế hệ Gen 4 với chiều cao ấn tượng, phong thái công chúa và tinh thần 'Lucky Vicky'.",
       "en": "Gen 4's quintessential center revered for doll-like elegance and unshakeable positivity.",
-      "hi": "जेन 4 की सबसे लोकप्रिय राजकुमारी जैसी आइडल।"
+      "hi": "Gen 4's quintessential center revered for doll-like elegance and unshakeable positivity."
     },
     "traits": [
-      {
-        "vi": "Center Quốc Dân",
-        "en": "Nation's Center",
-        "hi": "देश का सेंटर"
-      },
-      {
-        "vi": "Lucky Vicky",
-        "en": "Positive Mindset",
-        "hi": "सकारात्मक सोच"
-      }
-    ]
+      "Center Quốc Dân",
+      "Lucky Vicky"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj_8zbr0AjjdbWPtRyJq8TOzHAXuTVbOEvqQSRaYdaEA&s=10"
   },
   {
     "id": "comics-char-001",
@@ -1519,37 +1200,22 @@
     "name": {
       "vi": "Bruce Wayne (Batman)",
       "en": "Bruce Wayne (Batman)",
-      "hi": "ब्रूस वेन (बैटमैन)"
+      "hi": "Bruce Wayne (Batman)"
     },
-    "image": "https://images.unsplash.com/photo-1509281373149-e957c6296406?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRT42DlMvGQI8HoDuT21wF3HQVpyUA3cLDXaCZ1kfeCw&s=10",
     "franchise": "DC Comics",
     "biography": {
       "vi": "Hiệp sĩ bóng đêm thành phố Gotham, dùng trí tuệ thiên tài, võ thuật đỉnh cao và kho vũ khí công nghệ cao để chống lại cái ác mà không cần siêu năng lực thần thánh.",
       "en": "Gotham City's Dark Knight, who uses genius intellect, top-tier martial arts, and a high-tech arsenal to fight evil without any divine superpowers.",
-      "hi": "गोथम शहर का डार्क नाइट, जो बिना किसी दैवीय महाशक्ति के, अपनी प्रतिभाशाली बुद्धि, उत्कृष्ट मार्शल आर्ट्स और हाई-टेक शस्त्रागार से बुराई से लड़ता है।"
+      "hi": "Gotham City's Dark Knight, who uses genius intellect, top-tier martial arts, and a high-tech arsenal to fight evil without any divine superpowers."
     },
     "traits": [
-      {
-        "vi": "Thám tử vĩ đại",
-        "en": "Great detective",
-        "hi": "महान जासूस"
-      },
-      {
-        "vi": "Ý chí phi thường",
-        "en": "Extraordinary willpower",
-        "hi": "असाधारण इच्छाशक्ति"
-      },
-      {
-        "vi": "Chiến lược gia vô song",
-        "en": "Unmatched strategist",
-        "hi": "अद्वितीय रणनीतिकार"
-      },
-      {
-        "vi": "Kỷ luật thép",
-        "en": "Iron discipline",
-        "hi": "लौह अनुशासन"
-      }
-    ]
+      "Thám tử vĩ đại",
+      "Ý chí phi thường",
+      "Chiến lược gia vô song",
+      "Kỷ luật thép"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRT42DlMvGQI8HoDuT21wF3HQVpyUA3cLDXaCZ1kfeCw&s=10"
   },
   {
     "id": "comics-char-002",
@@ -1557,37 +1223,22 @@
     "name": {
       "vi": "Clark Kent (Superman)",
       "en": "Clark Kent (Superman)",
-      "hi": "क्लार्क केंट (सुपरमैन)"
+      "hi": "Clark Kent (Superman)"
     },
-    "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbM7HJZ_O74PpWLxtwhJwLrpVgCMtVl0yDP4JKQgxWw&s=10",
     "franchise": "DC Comics",
     "biography": {
       "vi": "Người con cuối cùng của hành tinh Krypton mang tên Kal-El, lớn lên dưới mặt trời vàng Trái Đất và trở thành biểu tượng tối cao của chân lý, công lý và hy vọng nhân loại.",
       "en": "The last son of the planet Krypton, named Kal-El, who grew up under Earth's yellow sun and became the supreme symbol of truth, justice, and hope for humanity.",
-      "hi": "क्रिप्टन ग्रह का अंतिम पुत्र, जिसका नाम काल-एल है, जो पृथ्वी के पीले सूरज के नीचे बड़ा हुआ और सत्य, न्याय व मानवता की आशा का सर्वोच्च प्रतीक बना।"
+      "hi": "The last son of the planet Krypton, named Kal-El, who grew up under Earth's yellow sun and became the supreme symbol of truth, justice, and hope for humanity."
     },
     "traits": [
-      {
-        "vi": "Bất tử",
-        "en": "Near-invulnerable",
-        "hi": "लगभग अमर"
-      },
-      {
-        "vi": "Sức mạnh vô song",
-        "en": "Unmatched strength",
-        "hi": "अद्वितीय शक्ति"
-      },
-      {
-        "vi": "Tia nhiệt quang",
-        "en": "Heat vision",
-        "hi": "हीट विज़न"
-      },
-      {
-        "vi": "Trái tim nhân hậu",
-        "en": "Kind heart",
-        "hi": "दयालु हृदय"
-      }
-    ]
+      "Bất tử",
+      "Sức mạnh vô song",
+      "Tia nhiệt quang",
+      "Trái tim nhân hậu"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbM7HJZ_O74PpWLxtwhJwLrpVgCMtVl0yDP4JKQgxWw&s=10"
   },
   {
     "id": "comics-char-003",
@@ -1595,37 +1246,22 @@
     "name": {
       "vi": "Peter Parker (Spider-Man)",
       "en": "Peter Parker (Spider-Man)",
-      "hi": "पीटर पार्कर (स्पाइडर-मैन)"
+      "hi": "Peter Parker (Spider-Man)"
     },
-    "image": "https://images.unsplash.com/photo-1604200213928-ba3cf4fc8436?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST3NpaVvwLTpAdg2xKBjKMzgcbjb4bw1-clRYgb1ZtXw&s=10",
     "franchise": "Marvel Comics",
     "biography": {
       "vi": "Chàng sinh viên New York tốt bụng sở hữu giác quan nhện và kỹ năng bắn tơ, luôn khắc ghi bài học 'Quyền lực càng lớn thì trách nhiệm càng cao'.",
       "en": "A kind-hearted New York student with spider-sense and web-shooting abilities, who always remembers the lesson 'With great power comes great responsibility.'",
-      "hi": "न्यूयॉर्क का एक दयालु छात्र जिसके पास स्पाइडर-सेंस और वेब-शूटिंग क्षमताएं हैं, जो हमेशा 'महान शक्ति के साथ महान जिम्मेदारी आती है' का पाठ याद रखता है।"
+      "hi": "A kind-hearted New York student with spider-sense and web-shooting abilities, who always remembers the lesson 'With great power comes great responsibility.'"
     },
     "traits": [
-      {
-        "vi": "Giác quan nhện",
-        "en": "Spider-sense",
-        "hi": "स्पाइडर-सेंस"
-      },
-      {
-        "vi": "Bắn tơ linh hoạt",
-        "en": "Agile web-slinging",
-        "hi": "फुर्तीली वेब-स्लिंगिंग"
-      },
-      {
-        "vi": "Hài hước",
-        "en": "Humorous",
-        "hi": "हास्यप्रिय"
-      },
-      {
-        "vi": "Trách nhiệm cao cả",
-        "en": "Strong sense of responsibility",
-        "hi": "उच्च जिम्मेदारी की भावना"
-      }
-    ]
+      "Giác quan nhện",
+      "Bắn tơ linh hoạt",
+      "Hài hước",
+      "Trách nhiệm cao cả"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST3NpaVvwLTpAdg2xKBjKMzgcbjb4bw1-clRYgb1ZtXw&s=10"
   },
   {
     "id": "comics-char-004",
@@ -1633,37 +1269,22 @@
     "name": {
       "vi": "Diana Prince (Wonder Woman)",
       "en": "Diana Prince (Wonder Woman)",
-      "hi": "डायना प्रिंस (वंडर वुमन)"
+      "hi": "Diana Prince (Wonder Woman)"
     },
-    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKMlDB3UlsVPSqWFKOI3aLj523MvHi7rHt54SKiqDxUw&s=10",
     "franchise": "DC Comics",
     "biography": {
       "vi": "Công chúa chiến binh Amazon đảo Themyscira, đại sứ hòa bình mang theo Dây Thòng Lọng Sự Thật và khiên giáo chiến trận bảo vệ bình đẳng và chính nghĩa.",
       "en": "The Amazon warrior princess of the island of Themyscira, an ambassador of peace who carries the Lasso of Truth and shield to defend equality and justice.",
-      "hi": "थेमिस्किरा द्वीप की अमेज़न योद्धा राजकुमारी, शांति की दूत, जो लैसो ऑफ ट्रुथ और युद्ध कवच लेकर समानता और न्याय की रक्षा करती है।"
+      "hi": "The Amazon warrior princess of the island of Themyscira, an ambassador of peace who carries the Lasso of Truth and shield to defend equality and justice."
     },
     "traits": [
-      {
-        "vi": "Chiến binh bất khuất",
-        "en": "Unyielding warrior",
-        "hi": "अदम्य योद्धा"
-      },
-      {
-        "vi": "Dây thòng lọng sự thật",
-        "en": "Lasso of Truth",
-        "hi": "लैसो ऑफ ट्रुथ"
-      },
-      {
-        "vi": "Bình đẳng",
-        "en": "Equality",
-        "hi": "समानता"
-      },
-      {
-        "vi": "Sức mạnh thần thánh",
-        "en": "Divine strength",
-        "hi": "दैवीय शक्ति"
-      }
-    ]
+      "Chiến binh bất khuất",
+      "Dây thòng lọng sự thật",
+      "Bình đẳng",
+      "Sức mạnh thần thánh"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKMlDB3UlsVPSqWFKOI3aLj523MvHi7rHt54SKiqDxUw&s=10"
   },
   {
     "id": "comics-char-005",
@@ -1671,37 +1292,22 @@
     "name": {
       "vi": "Logan (Wolverine)",
       "en": "Logan (Wolverine)",
-      "hi": "लोगान (वूल्वरिन)"
+      "hi": "Logan (Wolverine)"
     },
-    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpYudHdB4h2FY4BPdsw0wzhAFUXPkKiGlaBEsIoRb_vQ&s",
     "franchise": "X-Men",
     "biography": {
       "vi": "Dị nhân mang khung xương hợp kim Adamantium bất hoại cùng móng vuốt sắc bén, sở hữu khả năng tự chữa lành siêu tốc và quá khứ bí ẩn đẫm máu.",
       "en": "A mutant with an indestructible Adamantium skeleton and sharp claws, possessing rapid self-healing abilities and a mysterious, blood-soaked past.",
-      "hi": "एक म्यूटेंट जिसके पास अविनाशी एडामेंटियम कंकाल और तेज़ पंजे हैं, जो तेज़ी से खुद को ठीक करने की क्षमता और एक रहस्यमय, खून से सने अतीत को समेटे हुए है।"
+      "hi": "A mutant with an indestructible Adamantium skeleton and sharp claws, possessing rapid self-healing abilities and a mysterious, blood-soaked past."
     },
     "traits": [
-      {
-        "vi": "Móng vuốt Adamantium",
-        "en": "Adamantium claws",
-        "hi": "एडामेंटियम पंजे"
-      },
-      {
-        "vi": "Hồi phục tức thì",
-        "en": "Instant healing",
-        "hi": "तुरंत उपचार"
-      },
-      {
-        "vi": "Bản năng săn mồi",
-        "en": "Predatory instinct",
-        "hi": "शिकारी वृत्ति"
-      },
-      {
-        "vi": "Trực giác hoang dã",
-        "en": "Feral intuition",
-        "hi": "जंगली सहज ज्ञान"
-      }
-    ]
+      "Móng vuốt Adamantium",
+      "Hồi phục tức thì",
+      "Bản năng săn mồi",
+      "Trực giác hoang dã"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpYudHdB4h2FY4BPdsw0wzhAFUXPkKiGlaBEsIoRb_vQ&s"
   },
   {
     "id": "comics-char-006",
@@ -1709,27 +1315,20 @@
     "name": {
       "vi": "Wolverine (Logan)",
       "en": "Wolverine (Logan)",
-      "hi": "वॉल्वरिन (लोगन)"
+      "hi": "Wolverine (Logan)"
     },
-    "image": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEAwpI-lsMDkr5IA09GC3WsfaLbpRdbBFzrkKyc8CPUQ&s=10",
     "franchise": "X-Men",
     "biography": {
       "vi": "Dị nhân mang khung xương kim loại Adamantium bất hoại và móng vuốt sắc nhọn, sở hữu khả năng hồi phục siêu phàm và bản năng dã thú.",
       "en": "A mutant with an indestructible Adamantium skeleton and razor claws, endowed with a legendary healing factor and feral instincts.",
-      "hi": "अविनाशी एडामेंटियम कंकाल और तेज पंजों वाला म्यूटेंट योद्धा।"
+      "hi": "A mutant with an indestructible Adamantium skeleton and razor claws, endowed with a legendary healing factor and feral instincts."
     },
     "traits": [
-      {
-        "vi": "Móng vuốt Adamantium",
-        "en": "Adamantium Claws",
-        "hi": "एडामेंटियम पंजे"
-      },
-      {
-        "vi": "Hồi phục vết thương",
-        "en": "Healing Factor",
-        "hi": "हीलिंग पावर"
-      }
-    ]
+      "Móng vuốt Adamantium",
+      "Hồi phục vết thương"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEAwpI-lsMDkr5IA09GC3WsfaLbpRdbBFzrkKyc8CPUQ&s=10"
   },
   {
     "id": "comics-char-007",
@@ -1737,27 +1336,20 @@
     "name": {
       "vi": "The Joker",
       "en": "The Joker",
-      "hi": "द जोकर"
+      "hi": "The Joker"
     },
-    "image": "https://images.unsplash.com/photo-1563089145-599997674d42?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS96kToe5M-x-CHKx6cYQzpWgFeH1h6dkEsvA6ZZCbqaQ&s=10",
     "franchise": "Batman",
     "biography": {
       "vi": "Hoàng Tử Tội Phạm Gotham với nụ cười ma quái vĩnh cửu, kẻ thù truyền kiếp đại diện cho sự hỗn loạn tuyệt đối đối đầu Batman.",
       "en": "The Clown Prince of Crime in Gotham, a theatrical psychopathic mastermind representing pure chaos opposite Batman.",
-      "hi": "गोथम का सबसे कुख्यात विलेन और अराजकता का प्रतीक।"
+      "hi": "The Clown Prince of Crime in Gotham, a theatrical psychopathic mastermind representing pure chaos opposite Batman."
     },
     "traits": [
-      {
-        "vi": "Thiên tài hỗn loạn",
-        "en": "Master of Chaos",
-        "hi": "अराजकता का मास्टर"
-      },
-      {
-        "vi": "Khó lường",
-        "en": "Unpredictable",
-        "hi": "अप्रत्याशित"
-      }
-    ]
+      "Thiên tài hỗn loạn",
+      "Khó lường"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS96kToe5M-x-CHKx6cYQzpWgFeH1h6dkEsvA6ZZCbqaQ&s=10"
   },
   {
     "id": "comics-char-008",
@@ -1793,27 +1385,20 @@
     "name": {
       "vi": "Clark Kent (Superman)",
       "en": "Superman",
-      "hi": "सुपरमैन"
+      "hi": "Superman"
     },
-    "image": "https://images.unsplash.com/photo-1563089145-599997674d42?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_qGeooXhT4jb-wurP02XpTb1C8z70bHBkasXmGlCrqw&s=10",
     "franchise": "DC Comics",
     "biography": {
       "vi": "Người Đàn Ông Thép đến từ hành tinh Krypton, biểu tượng bất diệt của công lý và hy vọng dưới ánh mặt trời vàng.",
       "en": "The Last Son of Krypton soaring the skies as Earth's beacon of absolute truth and justice.",
-      "hi": "क्रिप्टन का बेटा और दुनिया का सबसे शक्तिशाली रक्षक।"
+      "hi": "The Last Son of Krypton soaring the skies as Earth's beacon of absolute truth and justice."
     },
     "traits": [
-      {
-        "vi": "Bay lượn siêu thanh",
-        "en": "Supersonic Flight",
-        "hi": "उड़ान"
-      },
-      {
-        "vi": "Thị giác nhiệt Laser",
-        "en": "Heat Vision",
-        "hi": "लेजर दृष्टि"
-      }
-    ]
+      "Bay lượn siêu thanh",
+      "Thị giác nhiệt Laser"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_qGeooXhT4jb-wurP02XpTb1C8z70bHBkasXmGlCrqw&s=10"
   },
   {
     "id": "comics-char-010",
@@ -1821,27 +1406,20 @@
     "name": {
       "vi": "Diana Prince (Wonder Woman)",
       "en": "Wonder Woman",
-      "hi": "वंडर वुमन"
+      "hi": "Wonder Woman"
     },
-    "image": "https://images.unsplash.com/photo-1635805737707-575885ab0820?w=500&auto=format&fit=crop&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKMlDB3UlsVPSqWFKOI3aLj523MvHi7rHt54SKiqDxUw&s=10",
     "franchise": "DC Comics",
     "biography": {
       "vi": "Công chúa người Amazon của đảo Themyscira mang Thòng Lọng Sự Thật Lasso of Truth và vòng tay hộ thể bất hoại.",
       "en": "Amazonian warrior princess championing peace and truth with the Lasso of Truth.",
-      "hi": "अमेजन की योद्धा राजकुमारी और न्याय की देवी।"
+      "hi": "Amazonian warrior princess championing peace and truth with the Lasso of Truth."
     },
     "traits": [
-      {
-        "vi": "Thòng lọng sự thật",
-        "en": "Lasso of Truth",
-        "hi": "सत्य का फंदा"
-      },
-      {
-        "vi": "Vòng tay hộ thân",
-        "en": "Bracelets of Submission",
-        "hi": "कवच कंगन"
-      }
-    ]
+      "Thòng lọng sự thật",
+      "Vòng tay hộ thân"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKMlDB3UlsVPSqWFKOI3aLj523MvHi7rHt54SKiqDxUw&s=10"
   },
   {
     "id": "manga-char-001",

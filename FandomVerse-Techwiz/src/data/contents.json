@@ -187,22 +187,21 @@
     "title": {
       "vi": "Vũ Trụ Điện Ảnh Marvel (MCU): Tương Lai Đa Vũ Trụ Sau Sự Trở Lại Của Robert Downey Jr.",
       "en": "The Marvel Cinematic Universe (MCU): The Multiverse's Future After Robert Downey Jr.'s Return",
-      "hi": "मार्वल सिनेमैटिक यूनिवर्स (एमसीयू): रॉबर्ट डाउनी जूनियर की वापसी के बाद मल्टीवर्स का भविष्य"
+      "hi": "The Marvel Cinematic Universe (MCU): The Multiverse's Future After Robert Downey Jr.'s Return"
     },
     "shortDescription": {
       "vi": "Phân tích cú lội ngược dòng bất ngờ khi Robert Downey Jr. tái xuất MCU với vai diễn phản diện huyền thoại Doctor Doom.",
       "en": "An analysis of the stunning turnaround as Robert Downey Jr. returns to the MCU in the legendary villain role of Doctor Doom.",
-      "hi": "रॉबर्ट डाउनी जूनियर की एमसीयू में डॉक्टर डूम के प्रसिद्ध खलनायक के रूप में चौंकाने वाली वापसी का विश्लेषण।"
+      "hi": "An analysis of the stunning turnaround as Robert Downey Jr. returns to the MCU in the legendary villain role of Doctor Doom."
     },
     "body": {
-      "vi": "Tại San Diego Comic-Con, Marvel Studios đã tạo nên một cơn địa chấn truyền thông khi công bố Robert Downey Jr. — người từng mở đầu kỷ nguyên MCU với vai Iron Man — sẽ trở lại với tư cách Victor Von Doom trong hai phần phim Avengers tiếp theo.\n\nQuyết định táo bạo này của Kevin Feige và anh em đạo diễn Russo hứa hẹn sẽ đưa cốt truyện Secret Wars lên một tầm cao mới. Người hâm mộ trên khắp thế giới đang sôi nổi bàn tán về nguồn gốc biến thể của Doom: Liệu đây là một Tony Stark sa ngã từ dòng thời gian khác, hay là một hóa thân hoàn toàn mới để đối đầu với các Avengers?",
-      "en": "At San Diego Comic-Con, Marvel Studios created a media earthquake by announcing that Robert Downey Jr. — who once launched the MCU era as Iron Man — will return as Victor Von Doom in the next two Avengers films.\n\nThis bold decision by Kevin Feige and the Russo brothers promises to elevate the Secret Wars storyline to new heights. Fans around the world are buzzing over the origin of this variant of Doom: is he a fallen Tony Stark from another timeline, or an entirely new incarnation set to face off against the Avengers?",
-      "hi": "सैन डिएगो कॉमिक-कॉन में, मार्वल स्टूडियोज़ ने यह घोषणा करके मीडिया में हलचल मचा दी कि रॉबर्ट डाउनी जूनियर — जिन्होंने आयरन मैन के रूप में एमसीयू युग की शुरुआत की थी — अगली दो एवेंजर्स फिल्मों में विक्टर वॉन डूम के रूप में वापसी करेंगे।\n\nकेविन फीगी और रूसो ब्रदर्स के इस साहसिक फैसले से सीक्रेट वॉर्स की कहानी को नई ऊंचाइयों तक ले जाने की उम्मीद है। दुनिया भर के प्रशंसक डूम के इस वेरिएंट की उत्पत्ति को लेकर उत्साहित हैं: क्या यह किसी अन्य टाइमलाइन से गिरा हुआ टोनी स्टार्क है, या एवेंजर्स का सामना करने के लिए एक बिल्कुल नया अवतार?"
+      "vi": "Phân tích cú lội ngược dòng bất ngờ khi Robert Downey Jr. tái xuất MCU với vai diễn phản diện huyền thoại Doctor Doom.\n\nPhân tích cú lội ngược dòng bất ngờ khi Robert Downey Jr. tái xuất MCU với vai diễn phản diện huyền thoại Doctor Doom. Chi tiết diễn biến và phân tích chuyên sâu sẽ được liên tục cập nhật theo các diễn biến mới nhất từ tác giả và studio sản xuất.",
+      "en": "An analysis of the stunning turnaround as Robert Downey Jr. returns to the MCU in the legendary villain role of Doctor Doom.",
+      "hi": "An analysis of the stunning turnaround as Robert Downey Jr. returns to the MCU in the legendary villain role of Doctor Doom."
     },
-    "thumbnail": "https://images.unsplash.com/photo-1635863138275-d9b33299680b?w=600&auto=format&fit=crop&q=80",
+    "thumbnail": "http://localhost:5173/#/category/anime",
     "images": [
-      "https://images.unsplash.com/photo-1635863138275-d9b33299680b?w=1000&auto=format&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=1000&auto=format&fit=crop&q=80"
+      "http://localhost:5173/#/category/anime"
     ],
     "mediaUrl": null,
     "subTags": [
@@ -211,7 +210,10 @@
       "Doctor Doom"
     ],
     "featured": true,
-    "dateAdded": "2026-09-18"
+    "dateAdded": "2026-09-18",
+    "imageUrl": "http://localhost:5173/#/category/anime",
+    "videoUrl": null,
+    "audioUrl": null
   },
   {
     "id": "movies-video-001",
@@ -220,16 +222,22 @@
     "title": {
       "vi": "Phỏng Vấn Độc Quyền Dàn Sao Deadpool & Wolverine Tại Lễ Ra Mắt",
       "en": "Exclusive Interview with the Deadpool & Wolverine Cast at the Premiere",
-      "hi": "प्रीमियर पर डेडपूल एंड वूल्वरिन की स्टार कास्ट का विशेष साक्षात्कार"
+      "hi": "Exclusive Interview with the Deadpool & Wolverine Cast at the Premiere"
     },
     "shortDescription": {
       "vi": "Ryan Reynolds và Hugh Jackman chia sẻ về tình bạn 20 năm và những bí mật hậu trường hài hước không lên sóng.",
       "en": "Ryan Reynolds and Hugh Jackman share stories about their 20-year friendship and hilarious behind-the-scenes secrets never aired before.",
-      "hi": "रयान रेनॉल्ड्स और ह्यूग जैकमैन ने अपनी 20 साल की दोस्ती और कभी न दिखाए गए मज़ेदार बैकस्टेज राज़ साझा किए।"
+      "hi": "Ryan Reynolds and Hugh Jackman share stories about their 20-year friendship and hilarious behind-the-scenes secrets never aired before."
     },
-    "body": null,
-    "thumbnail": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&auto=format&fit=crop&q=80",
-    "images": [],
+    "body": {
+      "vi": "Ryan Reynolds và Hugh Jackman chia sẻ về tình bạn 20 năm và những bí mật hậu trường hài hước không lên sóng.\n\nRyan Reynolds và Hugh Jackman chia sẻ về tình bạn 20 năm và những bí mật hậu trường hài hước không lên sóng. Chi tiết diễn biến và phân tích chuyên sâu sẽ được liên tục cập nhật theo các diễn biến mới nhất từ tác giả và studio sản xuất.",
+      "en": "Ryan Reynolds and Hugh Jackman share stories about their 20-year friendship and hilarious behind-the-scenes secrets never aired before.",
+      "hi": "Ryan Reynolds and Hugh Jackman share stories about their 20-year friendship and hilarious behind-the-scenes secrets never aired before."
+    },
+    "thumbnail": "https://www.google.com/imgres?q=Ph%E1%BB%8Fng%20V%E1%BA%A5n%20%C4%90%E1%BB%99c%20Quy%E1%BB%81n%20D%C3%A0n%20Sao%20Deadpool%20%26%20W&imgurl=https%3A%2F%2Fcdn.brvn.vn%2Feditor%2F2024%2F08%2F342969_Deadpool-Wolverine-3_1724234711.jpg&imgrefurl=https%3A%2F%2Fwww.brandsvietnam.com%2Fcongdong%2Ftopic%2F342969-deadpool-wolverine-tu-vu-tru-sieu-anh-hung-den-vu-tru-truyen-thong-day-an-tuong&docid=UlIkoKR5mHVL_M&tbnid=nEomypp1th-X6M&vet=12ahUKEwjalpOeoJCXAxVZluEIHamUPYIQnPAOegUIrQEQAA..i&w=1200&h=1845&hcb=2&ved=2ahUKEwjalpOeoJCXAxVZluEIHamUPYIQnPAOegUIrQEQAA",
+    "images": [
+      "https://www.google.com/imgres?q=Ph%E1%BB%8Fng%20V%E1%BA%A5n%20%C4%90%E1%BB%99c%20Quy%E1%BB%81n%20D%C3%A0n%20Sao%20Deadpool%20%26%20W&imgurl=https%3A%2F%2Fcdn.brvn.vn%2Feditor%2F2024%2F08%2F342969_Deadpool-Wolverine-3_1724234711.jpg&imgrefurl=https%3A%2F%2Fwww.brandsvietnam.com%2Fcongdong%2Ftopic%2F342969-deadpool-wolverine-tu-vu-tru-sieu-anh-hung-den-vu-tru-truyen-thong-day-an-tuong&docid=UlIkoKR5mHVL_M&tbnid=nEomypp1th-X6M&vet=12ahUKEwjalpOeoJCXAxVZluEIHamUPYIQnPAOegUIrQEQAA..i&w=1200&h=1845&hcb=2&ved=2ahUKEwjalpOeoJCXAxVZluEIHamUPYIQnPAOegUIrQEQAA"
+    ],
     "mediaUrl": "https://www.youtube.com/embed/73_1biulkYk",
     "subTags": [
       "Interview",
@@ -237,7 +245,10 @@
       "Wolverine"
     ],
     "featured": false,
-    "dateAdded": "2026-08-05"
+    "dateAdded": "2026-08-05",
+    "imageUrl": "https://www.google.com/imgres?q=Ph%E1%BB%8Fng%20V%E1%BA%A5n%20%C4%90%E1%BB%99c%20Quy%E1%BB%81n%20D%C3%A0n%20Sao%20Deadpool%20%26%20W&imgurl=https%3A%2F%2Fcdn.brvn.vn%2Feditor%2F2024%2F08%2F342969_Deadpool-Wolverine-3_1724234711.jpg&imgrefurl=https%3A%2F%2Fwww.brandsvietnam.com%2Fcongdong%2Ftopic%2F342969-deadpool-wolverine-tu-vu-tru-sieu-anh-hung-den-vu-tru-truyen-thong-day-an-tuong&docid=UlIkoKR5mHVL_M&tbnid=nEomypp1th-X6M&vet=12ahUKEwjalpOeoJCXAxVZluEIHamUPYIQnPAOegUIrQEQAA..i&w=1200&h=1845&hcb=2&ved=2ahUKEwjalpOeoJCXAxVZluEIHamUPYIQnPAOegUIrQEQAA",
+    "videoUrl": null,
+    "audioUrl": null
   },
   {
     "id": "tvshows-article-001",
@@ -246,21 +257,21 @@
     "title": {
       "vi": "Stranger Things Season 5: Những Dự Đoán Trước Giờ Khép Lại Cuộc Chiến Thị Trấn Hawkins",
       "en": "Stranger Things Season 5: Predictions Before the Battle for Hawkins Comes to a Close",
-      "hi": "स्ट्रेंजर थिंग्स सीज़न 5: हॉकिन्स की लड़ाई खत्म होने से पहले की भविष्यवाणियां"
+      "hi": "Stranger Things Season 5: Predictions Before the Battle for Hawkins Comes to a Close"
     },
     "shortDescription": {
       "vi": "Tổng hợp mọi giả thuyết và manh mối quan trọng về số phận của Eleven, Vecna và thế giới Upside Down trong mùa phim cuối.",
       "en": "A roundup of every major theory and clue about the fates of Eleven, Vecna, and the Upside Down in the final season.",
-      "hi": "अंतिम सीज़न में इलेवन, वेक्ना और अपसाइड डाउन की दुनिया के भाग्य से जुड़े हर बड़े सिद्धांत और सुराग का संकलन।"
+      "hi": "A roundup of every major theory and clue about the fates of Eleven, Vecna, and the Upside Down in the final season."
     },
     "body": {
-      "vi": "Sau gần một thập kỷ gắn bó cùng người xem, series truyền hình ăn khách bậc nhất lịch sử Netflix của anh em nhà Duffer đang tiến vào chặng kết. Thị trấn Hawkins giờ đây đã không còn an toàn khi cánh cổng ranh giới giữa hai thực tại đã bị xé toạc.\n\nCác tình tiết then chốt như quá khứ của Will Byers, nguồn gốc thực sự của thế giới đảo ngược và kế hoạch báo thù của Vecna đều sẽ được giải quyết trong 8 tập phim có kinh phí khổng lồ này. Đây chắc chắn sẽ là một bữa tiệc cảm xúc đầy hoài niệm cho những người hâm mộ văn hóa thập niên 80.",
-      "en": "After nearly a decade with viewers, the Duffer Brothers' record-breaking Netflix series is heading into its final stretch. The town of Hawkins is no longer safe now that the barrier between the two realities has been torn apart.\n\nKey plot threads — Will Byers' past, the true origin of the Upside Down, and Vecna's plan for revenge — will all be resolved across these eight massively budgeted episodes. This is sure to be an emotional, nostalgia-packed farewell for fans of 80s culture.",
-      "hi": "लगभग एक दशक तक दर्शकों से जुड़े रहने के बाद, डफर ब्रदर्स की नेटफ्लिक्स की सबसे सफल सीरीज़ अपने अंतिम पड़ाव में प्रवेश कर रही है। हॉकिन्स कस्बा अब सुरक्षित नहीं रहा, क्योंकि दो वास्तविकताओं के बीच की सीमा फट चुकी है।\n\nविल बायर्स का अतीत, अपसाइड डाउन दुनिया की असली उत्पत्ति और वेक्ना की बदले की योजना जैसे अहम पहलू इन आठ बड़े बजट वाले एपिसोड्स में सुलझाए जाएंगे। यह 80 के दशक की संस्कृति के प्रशंसकों के लिए यादों से भरा एक भावनात्मक विदाई साबित होगा।"
+      "vi": "Tổng hợp mọi giả thuyết và manh mối quan trọng về số phận của Eleven, Vecna và thế giới Upside Down trong mùa phim cuối.\n\nTổng hợp mọi giả thuyết và manh mối quan trọng về số phận của Eleven, Vecna và thế giới Upside Down trong mùa phim cuối. Chi tiết diễn biến và phân tích chuyên sâu sẽ được liên tục cập nhật theo các diễn biến mới nhất từ tác giả và studio sản xuất.",
+      "en": "A roundup of every major theory and clue about the fates of Eleven, Vecna, and the Upside Down in the final season.",
+      "hi": "A roundup of every major theory and clue about the fates of Eleven, Vecna, and the Upside Down in the final season."
     },
-    "thumbnail": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&auto=format&fit=crop&q=80",
+    "thumbnail": "https://www.google.com/imgres?q=Stranger%20Things%20Season%205%3A%20Nh%E1%BB%AFng%20D%E1%BB%B1%20%C4%90o%C3%A1n%20Tr%C6%B0&imgurl=https%3A%2F%2Ftintuc.dienthoaigiakho.vn%2Fwp-content%2Fuploads%2F2025%2F10%2Fstranger-things-5-khi-nao-chieu.5-1.jpg&imgrefurl=https%3A%2F%2Fdienthoaigiakho.vn%2Ftin-cong-nghe%2Fstranger-things-5-khi-nao-chieu%2F&docid=wrccXm3N6_VZ0M&tbnid=ogS21UQ6MpJjeM&vet=12ahUKEwiDo_axoJCXAxXNjuEIHeArLwkQnPAOegUI1QIQAA..i&w=800&h=1000&hcb=2&ved=2ahUKEwiDo_axoJCXAxXNjuEIHeArLwkQnPAOegUI1QIQAA",
     "images": [
-      "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=1000&auto=format&fit=crop&q=80"
+      "https://www.google.com/imgres?q=Stranger%20Things%20Season%205%3A%20Nh%E1%BB%AFng%20D%E1%BB%B1%20%C4%90o%C3%A1n%20Tr%C6%B0&imgurl=https%3A%2F%2Ftintuc.dienthoaigiakho.vn%2Fwp-content%2Fuploads%2F2025%2F10%2Fstranger-things-5-khi-nao-chieu.5-1.jpg&imgrefurl=https%3A%2F%2Fdienthoaigiakho.vn%2Ftin-cong-nghe%2Fstranger-things-5-khi-nao-chieu%2F&docid=wrccXm3N6_VZ0M&tbnid=ogS21UQ6MpJjeM&vet=12ahUKEwiDo_axoJCXAxXNjuEIHeArLwkQnPAOegUI1QIQAA..i&w=800&h=1000&hcb=2&ved=2ahUKEwiDo_axoJCXAxXNjuEIHeArLwkQnPAOegUI1QIQAA"
     ],
     "mediaUrl": null,
     "subTags": [
@@ -269,7 +280,10 @@
       "Sci-Fi"
     ],
     "featured": true,
-    "dateAdded": "2026-09-12"
+    "dateAdded": "2026-09-12",
+    "imageUrl": "https://www.google.com/imgres?q=Stranger%20Things%20Season%205%3A%20Nh%E1%BB%AFng%20D%E1%BB%B1%20%C4%90o%C3%A1n%20Tr%C6%B0&imgurl=https%3A%2F%2Ftintuc.dienthoaigiakho.vn%2Fwp-content%2Fuploads%2F2025%2F10%2Fstranger-things-5-khi-nao-chieu.5-1.jpg&imgrefurl=https%3A%2F%2Fdienthoaigiakho.vn%2Ftin-cong-nghe%2Fstranger-things-5-khi-nao-chieu%2F&docid=wrccXm3N6_VZ0M&tbnid=ogS21UQ6MpJjeM&vet=12ahUKEwiDo_axoJCXAxXNjuEIHeArLwkQnPAOegUI1QIQAA..i&w=800&h=1000&hcb=2&ved=2ahUKEwiDo_axoJCXAxXNjuEIHeArLwkQnPAOegUI1QIQAA",
+    "videoUrl": null,
+    "audioUrl": null
   },
   {
     "id": "tvshows-gallery-001",
@@ -278,18 +292,21 @@
     "title": {
       "vi": "Trang Phục Cổ Điển Tuyệt Đẹp Trong Peaky Blinders Qua Các Mùa",
       "en": "The Stunning Classic Fashion of Peaky Blinders Across the Seasons",
-      "hi": "पीकी ब्लाइंडर्स के सभी सीज़न में शानदार क्लासिक फैशन"
+      "hi": "The Stunning Classic Fashion of Peaky Blinders Across the Seasons"
     },
     "shortDescription": {
       "vi": "Bộ sưu tập ảnh chi tiết về những bộ vest tweed 3 mảnh, áo măng-tô len và mũ nồi làm nên phong cách quý ông đường phố Anh Quốc.",
       "en": "A detailed photo collection of three-piece tweed suits, wool overcoats, and flat caps that defined the British street-gentleman style.",
-      "hi": "थ्री-पीस ट्वीड सूट, ऊनी ओवरकोट और फ्लैट कैप की विस्तृत तस्वीरों का संग्रह, जिन्होंने ब्रिटिश स्ट्रीट-जेंटलमैन स्टाइल को गढ़ा।"
+      "hi": "A detailed photo collection of three-piece tweed suits, wool overcoats, and flat caps that defined the British street-gentleman style."
     },
-    "body": null,
-    "thumbnail": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=600&auto=format&fit=crop&q=80",
+    "body": {
+      "vi": "Bộ sưu tập ảnh chi tiết về những bộ vest tweed 3 mảnh, áo măng-tô len và mũ nồi làm nên phong cách quý ông đường phố Anh Quốc.\n\nBộ sưu tập ảnh chi tiết về những bộ vest tweed 3 mảnh, áo măng-tô len và mũ nồi làm nên phong cách quý ông đường phố Anh Quốc. Chi tiết diễn biến và phân tích chuyên sâu sẽ được liên tục cập nhật theo các diễn biến mới nhất từ tác giả và studio sản xuất.",
+      "en": "A detailed photo collection of three-piece tweed suits, wool overcoats, and flat caps that defined the British street-gentleman style.",
+      "hi": "A detailed photo collection of three-piece tweed suits, wool overcoats, and flat caps that defined the British street-gentleman style."
+    },
+    "thumbnail": "https://www.google.com/imgres?q=Peaky%20Blinders%2C%20Fashion%2C%20Tweed&imgurl=https%3A%2F%2Fcdn.webshopapp.com%2Fshops%2F268192%2Ffiles%2F493690279%2F640x800x1%2Fmens-tailored-suit-3-piece-suit-classic-black-spec.jpg&imgrefurl=https%3A%2F%2Fwww.shelbybrothers.com%2Fen%2Fthomas-suit-classic-black-speckle.html&docid=PXwF5t5qsyRU1M&tbnid=zaqu4j50N5BrrM&vet=12ahUKEwib0b31oJCXAxXZjuEIHRESCXIQnPAOegUI3AEQAA..i&w=640&h=800&hcb=2&ved=2ahUKEwib0b31oJCXAxXZjuEIHRESCXIQnPAOegUI3AEQAA",
     "images": [
-      "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=1200&auto=format&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1200&auto=format&fit=crop&q=80"
+      "https://www.google.com/imgres?q=Peaky%20Blinders%2C%20Fashion%2C%20Tweed&imgurl=https%3A%2F%2Fcdn.webshopapp.com%2Fshops%2F268192%2Ffiles%2F493690279%2F640x800x1%2Fmens-tailored-suit-3-piece-suit-classic-black-spec.jpg&imgrefurl=https%3A%2F%2Fwww.shelbybrothers.com%2Fen%2Fthomas-suit-classic-black-speckle.html&docid=PXwF5t5qsyRU1M&tbnid=zaqu4j50N5BrrM&vet=12ahUKEwib0b31oJCXAxXZjuEIHRESCXIQnPAOegUI3AEQAA..i&w=640&h=800&hcb=2&ved=2ahUKEwib0b31oJCXAxXZjuEIHRESCXIQnPAOegUI3AEQAA"
     ],
     "mediaUrl": null,
     "subTags": [
@@ -298,7 +315,10 @@
       "Tweed"
     ],
     "featured": false,
-    "dateAdded": "2026-07-30"
+    "dateAdded": "2026-07-30",
+    "imageUrl": "https://www.google.com/imgres?q=Peaky%20Blinders%2C%20Fashion%2C%20Tweed&imgurl=https%3A%2F%2Fcdn.webshopapp.com%2Fshops%2F268192%2Ffiles%2F493690279%2F640x800x1%2Fmens-tailored-suit-3-piece-suit-classic-black-spec.jpg&imgrefurl=https%3A%2F%2Fwww.shelbybrothers.com%2Fen%2Fthomas-suit-classic-black-speckle.html&docid=PXwF5t5qsyRU1M&tbnid=zaqu4j50N5BrrM&vet=12ahUKEwib0b31oJCXAxXZjuEIHRESCXIQnPAOegUI3AEQAA..i&w=640&h=800&hcb=2&ved=2ahUKEwib0b31oJCXAxXZjuEIHRESCXIQnPAOegUI3AEQAA",
+    "videoUrl": null,
+    "audioUrl": null
   },
   {
     "id": "kpop-article-001",
@@ -307,22 +327,21 @@
     "title": {
       "vi": "Làn Sóng K-Pop Thế Hệ Mới: Sức Mạnh Công Nghệ Và Tương Tác Fandom Đa Chiều",
       "en": "The New Generation of K-Pop: The Power of Technology and Multidimensional Fandom Interaction",
-      "hi": "के-पॉप की नई लहर: तकनीक की ताकत और बहुआयामी फैंडम इंटरैक्शन"
+      "hi": "The New Generation of K-Pop: The Power of Technology and Multidimensional Fandom Interaction"
     },
     "shortDescription": {
       "vi": "Cách các nhóm nhạc thần tượng tận dụng nền tảng số, metaverse và lightstick thông minh để kết nối hàng chục triệu người hâm mộ toàn cầu.",
       "en": "How idol groups leverage digital platforms, the metaverse, and smart lightsticks to connect with tens of millions of fans worldwide.",
-      "hi": "आइडल ग्रुप कैसे डिजिटल प्लेटफॉर्म, मेटावर्स और स्मार्ट लाइटस्टिक का उपयोग करके दुनिया भर के करोड़ों प्रशंसकों से जुड़ते हैं।"
+      "hi": "How idol groups leverage digital platforms, the metaverse, and smart lightsticks to connect with tens of millions of fans worldwide."
     },
     "body": {
-      "vi": "K-Pop từ lâu đã vượt ra khỏi ranh giới của một thể loại âm nhạc đơn thuần để trở thành một hệ sinh thái văn hóa công nghệ cao. Với sự hỗ trợ của các ứng dụng kết nối trực tiếp như Weverse, Bubble, ranh giới giữa thần tượng và người hâm mộ đã được thu hẹp tối đa.\n\nBên cạnh đó, các sản phẩm merchandise thông minh như lightstick đồng bộ Bluetooth tại sân vận động và các album thực tế tăng cường (AR) đã mang lại trải nghiệm tương tác chưa từng có. Người hâm mộ không chỉ lắng nghe âm nhạc mà còn là những người đồng kiến tạo nên các chiến dịch quảng bá mang tầm quốc tế.",
-      "en": "K-Pop has long transcended being a mere music genre to become a high-tech cultural ecosystem. With the support of direct-connection apps like Weverse and Bubble, the boundary between idols and fans has been narrowed to the minimum.\n\nBeyond that, smart merchandise such as Bluetooth-synced lightsticks at stadium concerts and augmented reality (AR) albums have delivered unprecedented interactive experiences. Fans are no longer just listening to music — they are co-creators of international-scale promotional campaigns.",
-      "hi": "के-पॉप लंबे समय से केवल एक संगीत विधा की सीमाओं को पार कर एक हाई-टेक सांस्कृतिक पारिस्थितिकी तंत्र बन चुका है। Weverse और Bubble जैसे सीधे संपर्क वाले ऐप्स की मदद से आइडल्स और प्रशंसकों के बीच की दूरी न्यूनतम हो गई है।\n\nइसके अलावा, स्टेडियम कॉन्सर्ट में ब्लूटूथ-सिंक्ड लाइटस्टिक और ऑगमेंटेड रियलिटी (एआर) एल्बम जैसे स्मार्ट मर्चेंडाइज़ ने अभूतपूर्व इंटरैक्टिव अनुभव प्रदान किए हैं। प्रशंसक अब सिर्फ संगीत नहीं सुनते, बल्कि अंतरराष्ट्रीय स्तर के प्रचार अभियानों के सह-निर्माता भी बन गए हैं।"
+      "vi": "Cách các nhóm nhạc thần tượng tận dụng nền tảng số, metaverse và lightstick thông minh để kết nối hàng chục triệu người hâm mộ toàn cầu.\n\nCách các nhóm nhạc thần tượng tận dụng nền tảng số, metaverse và lightstick thông minh để kết nối hàng chục triệu người hâm mộ toàn cầu. Chi tiết diễn biến và phân tích chuyên sâu sẽ được liên tục cập nhật theo các diễn biến mới nhất từ tác giả và studio sản xuất.",
+      "en": "How idol groups leverage digital platforms, the metaverse, and smart lightsticks to connect with tens of millions of fans worldwide.",
+      "hi": "How idol groups leverage digital platforms, the metaverse, and smart lightsticks to connect with tens of millions of fans worldwide."
     },
-    "thumbnail": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=600&auto=format&fit=crop&q=80",
+    "thumbnail": "https://c-korea.vn/locating-hallyu-on-the-world-map/?lang=en",
     "images": [
-      "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=1000&auto=format&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=1000&auto=format&fit=crop&q=80"
+      "https://c-korea.vn/locating-hallyu-on-the-world-map/?lang=en"
     ],
     "mediaUrl": null,
     "subTags": [
@@ -331,7 +350,10 @@
       "Music"
     ],
     "featured": true,
-    "dateAdded": "2026-09-16"
+    "dateAdded": "2026-09-16",
+    "imageUrl": "https://c-korea.vn/locating-hallyu-on-the-world-map/?lang=en",
+    "videoUrl": null,
+    "audioUrl": null
   },
   {
     "id": "kpop-audio-001",

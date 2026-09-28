@@ -160,46 +160,6 @@
     }
   },
   {
-    "id": "anime-event-009",
-    "category": "anime",
-    "title": {
-      "vi": "Anime Expo North America (AX) 2027",
-      "en": "Anime Expo North America (AX) 2027",
-      "hi": "एनीमे एक्सपो नॉर्थ अमेरिका 2027"
-    },
-    "date": "2027-07-02",
-    "location": {
-      "vi": "Los Angeles Convention Center, California, Hoa Kỳ",
-      "en": "Los Angeles Convention Center, California, USA",
-      "hi": "लॉस एंजिल्स, अमेरिका"
-    },
-    "description": {
-      "vi": "Lễ hội văn hóa anime lớn nhất Bắc Mỹ với hơn 100,000 người tham gia và các buổi công chiếu phim độc quyền.",
-      "en": "North America's largest celebration of Japanese pop culture welcoming over 100,000 fans.",
-      "hi": "उत्तरी अमेरिका का सबसे बड़ा एनीमे उत्सव जिसमें 100,000 से अधिक प्रशंसक शामिल होते हैं।"
-    }
-  },
-  {
-    "id": "anime-event-010",
-    "category": "anime",
-    "title": {
-      "vi": "Vietnam Cosplay Championship Summer 2026",
-      "en": "Vietnam Cosplay Championship Summer 2026",
-      "hi": "वियतनाम कॉसप्ले चैंपियनशिप समर 2026"
-    },
-    "date": "2026-07-15",
-    "location": {
-      "vi": "Trung tâm Hội chợ và Triển lãm Sài Gòn (SECC), TP.HCM",
-      "en": "SECC, Ho Chi Minh City, Vietnam",
-      "hi": "हो ची मिन्ह सिटी, वियतनाम"
-    },
-    "description": {
-      "vi": "Đại hội tranh tài cosplay toàn quốc tìm kiếm đại diện Việt Nam tham dự World Cosplay Summit tại Nhật Bản.",
-      "en": "National cosplay tournament selecting Vietnam's delegates for the World Cosplay Summit in Japan.",
-      "hi": "विश्व कॉसप्ले समिट के लिए वियतनाम के प्रतिनिधियों का चयन।"
-    }
-  },
-  {
     "id": "gaming-event-001",
     "category": "gaming",
     "title": {
@@ -217,46 +177,6 @@
       "vi": "Triển lãm trò chơi điện tử châu Á đỉnh cao với các bản demo bom tấn nhập vai, công nghệ VR/AR thế hệ mới và các giải đấu eSports kịch tính.",
       "en": "Asia's premier video game exhibition featuring blockbuster RPG demos, next-generation VR/AR technology, and thrilling eSports tournaments.",
       "hi": "एशिया का प्रमुख वीडियो गेम प्रदर्शनी, जिसमें बड़े आरपीजी डेमो, अगली पीढ़ी की वीआर/एआर तकनीक और रोमांचक ईस्पोर्ट्स टूर्नामेंट शामिल हैं।"
-    }
-  },
-  {
-    "id": "gaming-event-002",
-    "category": "gaming",
-    "title": {
-      "vi": "The Game Awards 2026",
-      "en": "The Game Awards 2026",
-      "hi": "द गेम अवार्ड्स 2026"
-    },
-    "date": "2026-12-10",
-    "location": {
-      "vi": "Peacock Theater, Los Angeles, Hoa Kỳ",
-      "en": "Peacock Theater, Los Angeles, USA",
-      "hi": "पीकॉक थिएटर, लॉस एंजिल्स, अमेरिका"
-    },
-    "description": {
-      "vi": "Đêm trao giải danh giá nhất của làng game thế giới, vinh danh tựa game của năm (GOTY) và công chiếu các trailer bất ngờ.",
-      "en": "The most prestigious award ceremony in the global gaming world, honoring the Game of the Year (GOTY) and unveiling surprise trailers.",
-      "hi": "वैश्विक गेमिंग जगत का सबसे प्रतिष्ठित पुरस्कार समारोह, जो गेम ऑफ द ईयर (जीओटीवाई) को सम्मानित करता है और चौंकाने वाले ट्रेलर पेश करता है।"
-    }
-  },
-  {
-    "id": "gaming-event-003",
-    "category": "gaming",
-    "title": {
-      "vi": "Gamescom Cologne 2026",
-      "en": "Gamescom Cologne 2026",
-      "hi": "गेम्सकॉम कोलोन 2026"
-    },
-    "date": "2026-08-22",
-    "location": {
-      "vi": "Koelnmesse, Cologne, Đức",
-      "en": "Koelnmesse, Cologne, Germany",
-      "hi": "कोल्नमेस्से, कोलोन, जर्मनी"
-    },
-    "description": {
-      "vi": "Hội chợ thương mại trò chơi điện tử lớn nhất châu Âu với hàng ngàn gian hàng trải nghiệm trực tiếp cho cộng đồng game thủ.",
-      "en": "Europe's largest video game trade fair, featuring thousands of hands-on booths for the gaming community to experience firsthand.",
-      "hi": "यूरोप का सबसे बड़ा वीडियो गेम ट्रेड फेयर, जिसमें गेमिंग समुदाय के लिए हज़ारों हैंड्स-ऑन बूथ शामिल हैं।"
     }
   },
   {
