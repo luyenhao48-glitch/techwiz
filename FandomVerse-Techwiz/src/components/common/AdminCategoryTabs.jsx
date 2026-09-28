@@ -1,4 +1,5 @@
 import React from 'react';
+import { useLanguage } from '../../context/LanguageContext.jsx';
 
 const CATEGORY_ICONS = {
   all: 'bi-grid-fill',
@@ -29,6 +30,9 @@ export default function AdminCategoryTabs({
   itemCounts = {},
   totalCount = 0,
 }) {
+  const { language } = useLanguage();
+  const isEn = language === 'en';
+
   return (
     <div className="fv-admin-category-tabs-container mb-4">
       <div className="fv-admin-category-tabs">
@@ -37,6 +41,9 @@ export default function AdminCategoryTabs({
           const count = cat.id === 'all' ? totalCount : (itemCounts[cat.id] ?? 0);
           const icon = CATEGORY_ICONS[cat.id] || 'bi-tag';
           const accentColor = CATEGORY_COLORS[cat.id] || '#00f5d4';
+          const displayLabel = cat.id === 'all'
+            ? (isEn ? 'All' : 'Tất cả')
+            : cat.label.replace('Tất cả danh mục', isEn ? 'All' : 'Tất cả');
 
           return (
             <button
@@ -57,7 +64,7 @@ export default function AdminCategoryTabs({
                 className={`bi ${icon} me-1.5`}
                 style={{ color: isSelected ? accentColor : 'inherit' }}
               ></i>
-              <span className="fv-cat-tab-label">{cat.label.replace('Tất cả danh mục', 'Tất cả')}</span>
+              <span className="fv-cat-tab-label">{displayLabel}</span>
               <span
                 className={`fv-cat-tab-badge ${isSelected ? 'active-badge' : ''}`}
                 style={
