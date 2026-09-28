@@ -41,10 +41,10 @@ npm install
 # 2. Khởi chạy máy chủ phát triển (Dev server)
 npm run dev
 
-# 3. Mở trình duyệt tại địa chỉ
+# 3. Mở trình duyệt tại địa chỉ    
 http://localhost:5173
 ```
-
+.....
 ### Đóng Gói Sản Phẩm (Production Build)
 ```bash
 npm run build
