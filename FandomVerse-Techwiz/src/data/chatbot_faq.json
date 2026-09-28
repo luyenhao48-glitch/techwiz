@@ -1,0 +1,287 @@
+[
+  {
+    "id": "faq-001",
+    "keywords": [
+      { "vi": "merchandise", "en": "merchandise", "hi": "merchandise" },
+      { "vi": "shop", "en": "shop", "hi": "दुकान" },
+      { "vi": "mua", "en": "buy", "hi": "खरीदें" },
+      { "vi": "giỏ hàng", "en": "cart", "hi": "कार्ट" },
+      { "vi": "cart", "en": "cart", "hi": "कार्ट" },
+      { "vi": "sản phẩm", "en": "product", "hi": "उत्पाद" },
+      { "vi": "figure", "en": "figure", "hi": "फिगर" },
+      { "vi": "áo", "en": "shirt", "hi": "शर्ट" }
+    ],
+    "question": {
+      "vi": "Làm thế nào để xem và mua vật phẩm lưu niệm (Merchandise)?",
+      "en": "How can I view and buy merchandise?",
+      "hi": "मैं मर्चेंडाइज़ (यादगार वस्तुएं) कैसे देख और खरीद सकता हूं?"
+    },
+    "answer": {
+      "vi": "Bạn có thể duyệt qua hàng chục mô hình figure, trang phục và đồ sưu tầm chính hãng tại trang Merchandise. Hãy bấm 'Thêm vào giỏ' để xem tổng thanh toán tạm tính!",
+      "en": "You can browse dozens of official figures, apparel, and collectibles on the Merchandise page. Click 'Add to Cart' to see your estimated total!",
+      "hi": "आप मर्चेंडाइज़ पेज पर दर्जनों आधिकारिक फिगर, परिधान और कलेक्टिबल्स ब्राउज़ कर सकते हैं। अनुमानित कुल राशि देखने के लिए 'कार्ट में जोड़ें' पर क्लिक करें!"
+    },
+    "link": "#/merchandise"
+  },
+  {
+    "id": "faq-002",
+    "keywords": [
+      { "vi": "anime", "en": "anime", "hi": "anime" },
+      { "vi": "hoạt hình", "en": "animation", "hi": "एनीमे" },
+      { "vi": "luffy", "en": "luffy", "hi": "लूफी" },
+      { "vi": "naruto", "en": "naruto", "hi": "नारुतो" },
+      { "vi": "goku", "en": "goku", "hi": "गोकू" },
+      { "vi": "one piece", "en": "one piece", "hi": "वन पीस" },
+      { "vi": "demon slayer", "en": "demon slayer", "hi": "डेमन स्लेयर" }
+    ],
+    "question": {
+      "vi": "FandomVerse có những nội dung gì về Anime?",
+      "en": "What anime content does FandomVerse have?",
+      "hi": "फैंडमवर्स पर एनीमे से जुड़ी क्या सामग्री उपलब्ध है?"
+    },
+    "answer": {
+      "vi": "Chuyên mục Anime tập hợp các bài viết chuyên sâu về One Piece, Demon Slayer, hồ sơ các nhân vật huyền thoại và lịch sự kiện Anime Expo hấp dẫn.",
+      "en": "The Anime section gathers in-depth articles about One Piece and Demon Slayer, profiles of legendary characters, and an exciting Anime Expo event calendar.",
+      "hi": "एनीमे सेक्शन में वन पीस और डेमन स्लेयर पर गहन लेख, प्रसिद्ध पात्रों की प्रोफाइल और रोमांचक एनीमे एक्सपो इवेंट कैलेंडर शामिल हैं।"
+    },
+    "link": "#/category/anime"
+  },
+  {
+    "id": "faq-003",
+    "keywords": [
+      { "vi": "gaming", "en": "gaming", "hi": "gaming" },
+      { "vi": "game", "en": "game", "hi": "गेम" },
+      { "vi": "trò chơi", "en": "games", "hi": "खेल" },
+      { "vi": "tgs", "en": "tgs", "hi": "tgs" },
+      { "vi": "elden ring", "en": "elden ring", "hi": "एल्डन रिंग" },
+      { "vi": "zelda", "en": "zelda", "hi": "ज़ेल्डा" },
+      { "vi": "kratos", "en": "kratos", "hi": "क्रैटोस" },
+      { "vi": "geralt", "en": "geralt", "hi": "गेराल्ट" }
+    ],
+    "question": {
+      "vi": "Tôi muốn cập nhật tin tức về Game và eSports?",
+      "en": "I want to keep up with Gaming and eSports news?",
+      "hi": "मैं गेमिंग और ईस्पोर्ट्स से जुड़ी खबरें कैसे जान सकता हूं?"
+    },
+    "answer": {
+      "vi": "Hãy ghé thăm Category Gaming để khám phá các bài phân tích game bom tấn AAA, hồ sơ danh tướng game và lịch tổ chức Tokyo Game Show hay The Game Awards!",
+      "en": "Visit the Gaming category to explore in-depth analyses of blockbuster AAA games, profiles of legendary game characters, and the schedule for Tokyo Game Show and The Game Awards!",
+      "hi": "बड़े एएए गेम्स के गहन विश्लेषण, प्रसिद्ध गेम पात्रों की प्रोफाइल और टोक्यो गेम शो व द गेम अवार्ड्स के शेड्यूल जानने के लिए गेमिंग कैटेगरी पर जाएं!"
+    },
+    "link": "#/category/gaming"
+  },
+  {
+    "id": "faq-004",
+    "keywords": [
+      { "vi": "trailer", "en": "trailer", "hi": "trailer" },
+      { "vi": "teaser", "en": "teaser", "hi": "टीज़र" },
+      { "vi": "video", "en": "video", "hi": "वीडियो" },
+      { "vi": "phim mới", "en": "new movie", "hi": "नई फिल्म" },
+      { "vi": "xem trước", "en": "preview", "hi": "प्रीव्यू" }
+    ],
+    "question": {
+      "vi": "Xem các đoạn Trailer mới nhất ở đâu?",
+      "en": "Where can I watch the latest trailers?",
+      "hi": "नवीनतम ट्रेलर कहां देखें?"
+    },
+    "answer": {
+      "vi": "Trung tâm Trailers tổng hợp mọi video giới thiệu phim, game và anime mới nhất. Bạn có thể lọc theo trạng thái Sắp chiếu (Upcoming) hoặc Đã ra mắt (Released).",
+      "en": "The Trailers hub compiles all the latest preview videos for movies, games, and anime. You can filter by Upcoming or Released status.",
+      "hi": "ट्रेलर्स हब में फिल्मों, गेम्स और एनीमे के सभी नवीनतम प्रीव्यू वीडियो शामिल हैं। आप अपकमिंग या रिलीज़्ड स्थिति के अनुसार फ़िल्टर कर सकते हैं।"
+    },
+    "link": "#/trailers"
+  },
+  {
+    "id": "faq-005",
+    "keywords": [
+      { "vi": "bookmark", "en": "bookmark", "hi": "bookmark" },
+      { "vi": "lưu", "en": "save", "hi": "सेव" },
+      { "vi": "yêu thích", "en": "favorite", "hi": "पसंदीदा" },
+      { "vi": "ghi chú", "en": "note", "hi": "नोट" },
+      { "vi": "note", "en": "note", "hi": "नोट" },
+      { "vi": "export", "en": "export", "hi": "एक्सपोर्ट" },
+      { "vi": "xuất", "en": "export file", "hi": "फ़ाइल एक्सपोर्ट" }
+    ],
+    "question": {
+      "vi": "Cách lưu bài viết yêu thích và ghi chú cá nhân?",
+      "en": "How do I save favorite articles and personal notes?",
+      "hi": "पसंदीदा लेख और व्यक्तिगत नोट्स कैसे सेव करें?"
+    },
+    "answer": {
+      "vi": "Bấm vào biểu tượng trái tim trên các thẻ bài viết để lưu vào Bookmark (LocalStorage). Bạn có thể vào trang Bookmarks để viết ghi chú riêng và xuất danh sách ra file .txt.",
+      "en": "Click the heart icon on article cards to save them to your Bookmarks (LocalStorage). You can go to the Bookmarks page to write your own notes and export the list as a .txt file.",
+      "hi": "लेख कार्ड पर दिल के आइकन पर क्लिक करके उन्हें बुकमार्क (लोकलस्टोरेज) में सेव करें। आप बुकमार्क्स पेज पर जाकर अपने नोट्स लिख सकते हैं और सूची को .txt फ़ाइल के रूप में एक्सपोर्ट कर सकते हैं।"
+    },
+    "link": "#/bookmarks"
+  },
+  {
+    "id": "faq-006",
+    "keywords": [
+      { "vi": "kpop", "en": "kpop", "hi": "kpop" },
+      { "vi": "bts", "en": "bts", "hi": "bts" },
+      { "vi": "blackpink", "en": "blackpink", "hi": "ब्लैकपिंक" },
+      { "vi": "iu", "en": "iu", "hi": "आईयू" },
+      { "vi": "thần tượng", "en": "idol", "hi": "आइडल" },
+      { "vi": "idol", "en": "idol", "hi": "आइडल" },
+      { "vi": "lightstick", "en": "lightstick", "hi": "लाइटस्टिक" }
+    ],
+    "question": {
+      "vi": "Vũ trụ K-Pop có gì nổi bật?",
+      "en": "What's notable in the K-Pop universe?",
+      "hi": "के-पॉप की दुनिया में क्या खास है?"
+    },
+    "answer": {
+      "vi": "Khám phá thế giới thần tượng Hallyu với hồ sơ nghệ sĩ BTS, BLACKPINK, các bài phân tích văn hóa fandom đa chiều và thông tin đại nhạc hội MAMA Awards.",
+      "en": "Explore the world of Hallyu idols with profiles of BTS, BLACKPINK, multidimensional fandom culture analyses, and information on the MAMA Awards concert.",
+      "hi": "बीटीएस, ब्लैकपिंक की प्रोफाइल, बहुआयामी फैंडम संस्कृति विश्लेषण और मामा अवार्ड्स कॉन्सर्ट की जानकारी के साथ हैल्यू आइडल्स की दुनिया को जानें।"
+    },
+    "link": "#/category/kpop"
+  },
+  {
+    "id": "faq-007",
+    "keywords": [
+      { "vi": "movies", "en": "movies", "hi": "movies" },
+      { "vi": "phim ảnh", "en": "film", "hi": "फिल्म" },
+      { "vi": "mcu", "en": "mcu", "hi": "mcu" },
+      { "vi": "marvel", "en": "marvel", "hi": "मार्वल" },
+      { "vi": "star wars", "en": "star wars", "hi": "स्टार वार्स" },
+      { "vi": "iron man", "en": "iron man", "hi": "आयरन मैन" },
+      { "vi": "hollywood", "en": "hollywood", "hi": "हॉलीवुड" }
+    ],
+    "question": {
+      "vi": "Khám phá chuyên mục Điện ảnh (Movies)?",
+      "en": "Explore the Movies section?",
+      "hi": "मूवीज़ सेक्शन के बारे में जानें?"
+    },
+    "answer": {
+      "vi": "Chuyên mục Movies mang đến thông tin về bom tấn Marvel MCU, vũ trụ Star Wars, Chúa Nhẫn và các lễ hội điện ảnh danh giá.",
+      "en": "The Movies section brings you information on Marvel MCU blockbusters, the Star Wars universe, The Lord of the Rings, and prestigious film festivals.",
+      "hi": "मूवीज़ सेक्शन में मार्वल एमसीयू की ब्लॉकबस्टर फिल्में, स्टार वार्स ब्रह्मांड, द लॉर्ड ऑफ द रिंग्स और प्रतिष्ठित फिल्म समारोहों की जानकारी मिलती है।"
+    },
+    "link": "#/category/movies"
+  },
+  {
+    "id": "faq-008",
+    "keywords": [
+      { "vi": "tvshows", "en": "tv shows", "hi": "tv shows" },
+      { "vi": "phim bộ", "en": "series", "hi": "सीरीज़" },
+      { "vi": "stranger things", "en": "stranger things", "hi": "स्ट्रेंजर थिंग्स" },
+      { "vi": "peaky blinders", "en": "peaky blinders", "hi": "पीकी ब्लाइंडर्स" },
+      { "vi": "game of thrones", "en": "game of thrones", "hi": "गेम ऑफ थ्रोन्स" }
+    ],
+    "question": {
+      "vi": "Có những series truyền hình (TV Shows) nào?",
+      "en": "What TV shows are available?",
+      "hi": "कौन-कौन सी टीवी सीरीज़ उपलब्ध हैं?"
+    },
+    "answer": {
+      "vi": "Cập nhật thông tin về Stranger Things mùa cuối, gia tộc Peaky Blinders, Game of Thrones và giải thưởng Emmy truyền hình danh giá.",
+      "en": "Get the latest updates on Stranger Things' final season, the Peaky Blinders family, Game of Thrones, and the prestigious television Emmy Awards.",
+      "hi": "स्ट्रेंजर थिंग्स के अंतिम सीज़न, पीकी ब्लाइंडर्स परिवार, गेम ऑफ थ्रोन्स और प्रतिष्ठित टेलीविज़न एमी अवार्ड्स की नवीनतम जानकारी पाएं।"
+    },
+    "link": "#/category/tvshows"
+  },
+  {
+    "id": "faq-009",
+    "keywords": [
+      { "vi": "comics", "en": "comics", "hi": "comics" },
+      { "vi": "truyện tranh", "en": "comic books", "hi": "कॉमिक्स" },
+      { "vi": "batman", "en": "batman", "hi": "बैटमैन" },
+      { "vi": "superman", "en": "superman", "hi": "सुपरमैन" },
+      { "vi": "spider-man", "en": "spider-man", "hi": "स्पाइडर-मैन" },
+      { "vi": "dc", "en": "dc", "hi": "dc" }
+    ],
+    "question": {
+      "vi": "Tìm hiểu thế giới Comics phương Tây?",
+      "en": "Learn about the world of Western comics?",
+      "hi": "पश्चिमी कॉमिक्स की दुनिया के बारे में जानें?"
+    },
+    "answer": {
+      "vi": "Ghé thăm chuyên mục Comics để chiêm ngưỡng các bộ cover kinh điển của Alex Ross, bài viết về Batman The Dark Knight Returns và sự kiện San Diego Comic-Con.",
+      "en": "Visit the Comics section to admire classic covers by Alex Ross, read about Batman: The Dark Knight Returns, and learn about San Diego Comic-Con.",
+      "hi": "एलेक्स रॉस के क्लासिक कवर देखने, बैटमैन: द डार्क नाइट रिटर्न्स पर लेख पढ़ने और सैन डिएगो कॉमिक-कॉन के बारे में जानने के लिए कॉमिक्स सेक्शन पर जाएं।"
+    },
+    "link": "#/category/comics"
+  },
+  {
+    "id": "faq-010",
+    "keywords": [
+      { "vi": "manga", "en": "manga", "hi": "manga" },
+      { "vi": "berserk", "en": "berserk", "hi": "बर्सर्क" },
+      { "vi": "zoro", "en": "zoro", "hi": "ज़ोरो" },
+      { "vi": "saitama", "en": "saitama", "hi": "सैतामा" },
+      { "vi": "death note", "en": "death note", "hi": "डेथ नोट" },
+      { "vi": "shonen jump", "en": "shonen jump", "hi": "शोनेन जंप" }
+    ],
+    "question": {
+      "vi": "Vũ trụ Manga Nhật Bản có gì đặc sắc?",
+      "en": "What's special about the world of Japanese Manga?",
+      "hi": "जापानी मंगा की दुनिया में क्या खास है?"
+    },
+    "answer": {
+      "vi": "Thưởng thức nét vẽ tuyệt mỹ của cố họa sĩ Kentaro Miura trong Berserk, so sánh Manga và Webtoon, cùng hồ sơ các nhân vật mang tính biểu tượng.",
+      "en": "Enjoy the beautiful artwork of the late Kentaro Miura in Berserk, a comparison between Manga and Webtoon, and profiles of iconic characters.",
+      "hi": "बर्सर्क में दिवंगत कलाकार केंतारो मीउरा की खूबसूरत कलाकृति, मंगा और वेबटून की तुलना, और प्रतिष्ठित पात्रों की प्रोफाइल का आनंद लें।"
+    },
+    "link": "#/category/manga"
+  },
+  {
+    "id": "faq-011",
+    "keywords": [
+      { "vi": "liên hệ", "en": "contact", "hi": "संपर्क" },
+      { "vi": "contact", "en": "contact", "hi": "contact" },
+      { "vi": "địa chỉ", "en": "address", "hi": "पता" },
+      { "vi": "bản đồ", "en": "map", "hi": "नक्शा" },
+      { "vi": "map", "en": "map", "hi": "मैप" },
+      { "vi": "gps", "en": "gps", "hi": "gps" }
+    ],
+    "question": {
+      "vi": "Làm thế nào để liên hệ với ban quản trị FandomVerse?",
+      "en": "How can I contact the FandomVerse administrators?",
+      "hi": "फैंडमवर्स के प्रशासकों से कैसे संपर्क करें?"
+    },
+    "answer": {
+      "vi": "Bạn có thể vào trang Liên hệ (Contact Us) để xem địa chỉ trụ sở, tọa độ GPS chính xác và bản đồ Google Maps tương tác.",
+      "en": "You can visit the Contact Us page to see our headquarters address, precise GPS coordinates, and an interactive Google Maps view.",
+      "hi": "आप हमारे मुख्यालय का पता, सटीक जीपीएस निर्देशांक और इंटरैक्टिव गूगल मैप्स देखने के लिए संपर्क करें (Contact Us) पेज पर जा सकते हैं।"
+    },
+    "link": "#/contact"
+  },
+  {
+    "id": "faq-012",
+    "keywords": [
+      { "vi": "giới thiệu", "en": "about", "hi": "परिचय" },
+      { "vi": "about", "en": "about", "hi": "about" },
+      { "vi": "dự án", "en": "project", "hi": "प्रोजेक्ट" },
+      { "vi": "fandomverse", "en": "fandomverse", "hi": "फैंडमवर्स" },
+      { "vi": "techwir", "en": "techwiz", "hi": "टेकवीज़" },
+      { "vi": "aptech", "en": "aptech", "hi": "एप्टेक" }
+    ],
+    "question": {
+      "vi": "FandomVerse là gì?",
+      "en": "What is FandomVerse?",
+      "hi": "फैंडमवर्स क्या है?"
+    },
+    "answer": {
+      "vi": "FandomVerse là nền tảng thông tin tập trung, kết nối 7 vũ trụ fandom lớn nhất toàn cầu, được phát triển theo tiêu chuẩn Web Innovation Unleashed của TechWir.",
+      "en": "FandomVerse is a centralized information platform connecting the world's 7 biggest fandom universes, developed under TechWir's Web Innovation Unleashed standard.",
+      "hi": "फैंडमवर्स एक केंद्रीकृत जानकारी मंच है, जो दुनिया के 7 सबसे बड़े फैंडम ब्रह्मांडों को जोड़ता है, जिसे टेकवीर के वेब इनोवेशन अनलीश्ड मानक के तहत विकसित किया गया है।"
+    },
+    "link": "#/about"
+  },
+  {
+    "id": "faq-fallback",
+    "keywords": [],
+    "question": {
+      "vi": "Tôi cần hỗ trợ thông tin khác",
+      "en": "I need help with something else",
+      "hi": "मुझे किसी और जानकारी में मदद चाहिए"
+    },
+    "answer": {
+      "vi": "Xin lỗi, tôi chưa hiểu rõ câu hỏi của bạn. Bạn có thể bấm chọn một trong các câu hỏi gợi ý bên dưới hoặc tìm hiểu về Anime, Gaming, Merchandise, Trailers nhé!",
+      "en": "Sorry, I didn't quite understand your question. You can click one of the suggested questions below, or ask about Anime, Gaming, Merchandise, or Trailers!",
+      "hi": "माफ़ करें, मुझे आपका सवाल ठीक से समझ नहीं आया। आप नीचे दिए गए सुझाए गए सवालों में से किसी एक पर क्लिक कर सकते हैं, या एनीमे, गेमिंग, मर्चेंडाइज़, ट्रेलर्स के बारे में पूछ सकते हैं!"
+    },
+    "link": null
+  }
+]

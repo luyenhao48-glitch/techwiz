@@ -1,0 +1,2142 @@
+[
+  {
+    "id": "anime-char-001",
+    "category": "anime",
+    "name": {
+      "vi": "Monkey D. Luffy",
+      "en": "Monkey D. Luffy",
+      "hi": "मंकी डी. लूफी"
+    },
+    "image": "/image/luffy.jpg",
+    "franchise": "One Piece",
+    "biography": {
+      "vi": "Thuyền trưởng băng hải tặc Mũ Rơm với ước mơ tìm thấy kho báu vĩ đại One Piece và trở thành Vua Hải Tặc. Cậu sở hữu sức mạnh co giãn cao su từ trái ác quỷ Hito Hito no Mi, Model: Nika.",
+      "en": "Captain of the Straw Hat Pirates who dreams of finding the great treasure One Piece and becoming the Pirate King. He possesses rubber-stretching powers from the Devil Fruit Hito Hito no Mi, Model: Nika.",
+      "hi": "स्ट्रॉ हैट पाइरेट्स का कप्तान, जो महान खजाना वन पीस खोजने और पाइरेट किंग बनने का सपना देखता है। उसके पास डेविल फ्रूट हितो हितो नो मी, मॉडल: निका से मिली रबर जैसी खिंचने की शक्ति है।"
+    },
+    "traits": [
+      {
+        "vi": "Lạc quan",
+        "en": "Optimistic",
+        "hi": "आशावादी"
+      },
+      {
+        "vi": "Dũng cảm",
+        "en": "Brave",
+        "hi": "बहादुर"
+      },
+      {
+        "vi": "Ham ăn",
+        "en": "Big eater",
+        "hi": "पेटू"
+      },
+      {
+        "vi": "Haki Bá Vương",
+        "en": "Conqueror's Haki",
+        "hi": "कॉन्करर्स हाकी"
+      }
+    ]
+  },
+  {
+    "id": "anime-char-002",
+    "category": "anime",
+    "name": {
+      "vi": "Naruto Uzumaki",
+      "en": "Naruto Uzumaki",
+      "hi": "नारुतो उज़ुमाकी"
+    },
+    "image": "/image/naruto_1.jpg",
+    "franchise": "Naruto",
+    "biography": {
+      "vi": "Ninja làng Lá mang trong mình Cửu Vĩ Kurama, vượt qua định kiến và nỗi cô đơn thời thơ ấu bằng ý chí kiên định để trở thành Hokage Đệ Thất vĩ đại bảo vệ nhẫn giới.",
+      "en": "A ninja of the Hidden Leaf Village who carries the Nine-Tails Kurama within him, overcoming prejudice and childhood loneliness with unwavering will to become the great Seventh Hokage who protects the ninja world.",
+      "hi": "हिडन लीफ विलेज का निंजा जिसके भीतर नाइन-टेल्स कुरामा वास करता है, जिसने अपने अडिग संकल्प से पूर्वाग्रह और बचपन के अकेलेपन को पार कर महान सातवें होकागे के रूप में निंजा दुनिया की रक्षा की।"
+    },
+    "traits": [
+      {
+        "vi": "Bền bỉ",
+        "en": "Persistent",
+        "hi": "दृढ़"
+      },
+      {
+        "vi": "Trung thành",
+        "en": "Loyal",
+        "hi": "वफादार"
+      },
+      {
+        "vi": "Ý chí Hỏa Quốc",
+        "en": "Will of Fire",
+        "hi": "विल ऑफ फायर"
+      },
+      {
+        "vi": "Hiền Nhân Thuật",
+        "en": "Sage Mode",
+        "hi": "सेज मोड"
+      }
+    ]
+  },
+  {
+    "id": "anime-char-003",
+    "category": "anime",
+    "name": {
+      "vi": "Goku",
+      "en": "Goku",
+      "hi": "गोकू"
+    },
+    "image": "/image/goku.jpg",
+    "franchise": "Dragon Ball",
+    "biography": {
+      "vi": "Chiến binh người Saiyan sống tại Trái Đất, luôn khao khát vượt qua giới hạn của bản thân thông qua rèn luyện không ngừng và đối đầu với những đối thủ mạnh nhất vũ trụ.",
+      "en": "A Saiyan warrior living on Earth who constantly strives to surpass his own limits through relentless training and battles against the strongest opponents in the universe.",
+      "hi": "पृथ्वी पर रहने वाला एक सैयान योद्धा, जो निरंतर प्रशिक्षण और ब्रह्मांड के सबसे शक्तिशाली प्रतिद्वंद्वियों से भिड़कर हमेशा अपनी सीमाओं को पार करने की चाह रखता है।"
+    },
+    "traits": [
+      {
+        "vi": "Vô tư",
+        "en": "Carefree",
+        "hi": "निश्छल"
+      },
+      {
+        "vi": "Thượng võ",
+        "en": "Warrior spirit",
+        "hi": "योद्धा भावना"
+      },
+      {
+        "vi": "Bản Năng Vô Cực",
+        "en": "Ultra Instinct",
+        "hi": "अल्ट्रा इंस्टिंक्ट"
+      },
+      {
+        "vi": "Kamehameha",
+        "en": "Kamehameha",
+        "hi": "कामेहामेहा"
+      }
+    ]
+  },
+  {
+    "id": "anime-char-004",
+    "category": "anime",
+    "name": {
+      "vi": "Levi Ackerman",
+      "en": "Levi Ackerman",
+      "hi": "लेवी एकरमैन"
+    },
+    "image": "/image/levi.jpg",
+    "franchise": "Attack on Titan",
+    "biography": {
+      "vi": "Đại đội trưởng Quân Trinh Sát, được mệnh danh là chiến binh mạnh nhất của nhân loại với kỹ năng sử dụng bộ cơ động 3D điêu luyện và khả năng hạ gục Titan chớp nhoáng.",
+      "en": "Captain of the Survey Corps, known as humanity's strongest soldier, with masterful skill in the 3D Maneuver Gear and the ability to take down Titans in an instant.",
+      "hi": "सर्वे कोर का कप्तान, जिसे मानवता का सबसे शक्तिशाली सैनिक कहा जाता है, जो 3डी मैन्युवर गियर में माहिर है और पल भर में टाइटन्स को गिरा सकता है।"
+    },
+    "traits": [
+      {
+        "vi": "Lạnh lùng",
+        "en": "Cold-mannered",
+        "hi": "ठंडे स्वभाव का"
+      },
+      {
+        "vi": "Kỷ luật",
+        "en": "Disciplined",
+        "hi": "अनुशासित"
+      },
+      {
+        "vi": "Ưa sạch sẽ",
+        "en": "Cleanliness freak",
+        "hi": "सफाई पसंद"
+      },
+      {
+        "vi": "Chiến binh siêu hạng",
+        "en": "Elite soldier",
+        "hi": "विशिष्ट सैनिक"
+      }
+    ]
+  },
+  {
+    "id": "anime-char-005",
+    "category": "anime",
+    "name": {
+      "vi": "Tanjiro Kamado",
+      "en": "Tanjiro Kamado",
+      "hi": "तंजिरो कामाडो"
+    },
+    "image": "/image/tanjiro.jpg",
+    "franchise": "Demon Slayer",
+    "biography": {
+      "vi": "Thợ săn quỷ mang tấm lòng nhân hậu, dấn thân vào hành trình nguy hiểm để tìm cách biến em gái Nezuko trở lại thành người và tiêu diệt chúa quỷ Muzan.",
+      "en": "A kind-hearted demon slayer who embarks on a dangerous journey to find a way to turn his sister Nezuko back into a human and defeat the demon lord Muzan.",
+      "hi": "दयालु हृदय वाला डेमन स्लेयर, जो अपनी बहन नेज़ुको को फिर से इंसान बनाने और डेमन लॉर्ड मुज़ान को हराने के लिए एक खतरनाक यात्रा पर निकलता है।"
+    },
+    "traits": [
+      {
+        "vi": "Nhân hậu",
+        "en": "Kind-hearted",
+        "hi": "दयालु"
+      },
+      {
+        "vi": "Kiên định",
+        "en": "Resolute",
+        "hi": "दृढ़"
+      },
+      {
+        "vi": "Hơi thở của Nước",
+        "en": "Water Breathing",
+        "hi": "वाटर ब्रीदिंग"
+      },
+      {
+        "vi": "Điệu múa Hỏa Thần",
+        "en": "Hinokami Kagura",
+        "hi": "हिनोकामी कागुरा"
+      }
+    ]
+  },
+  {
+    "id": "anime-char-006",
+    "category": "anime",
+    "name": {
+      "vi": "Frieren",
+      "en": "Frieren",
+      "hi": "Frieren"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnpAruoxoSFMyA1e_2_-X_OUKkW7Y0zfcZIAy2XhipXA&s=10",
+    "franchise": "Frieren: Beyond Journey's End",
+    "biography": {
+      "vi": "Nữ pháp sư elf sống hơn một nghìn năm từng trong đội ngũ tiêu diệt Ma Vương, lên đường học hỏi ý nghĩa của những khoảnh khắc và tình cảm con người.",
+      "en": "An elf mage living over a millennium who was part of the Hero Party that defeated the Demon King, now traveling to understand human hearts.",
+      "hi": "An elf mage living over a millennium who was part of the Hero Party that defeated the Demon King, now traveling to understand human hearts."
+    },
+    "traits": [
+      "Thông thái",
+      "Pháp thuật cổ đại",
+      "Trầm tĩnh"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnpAruoxoSFMyA1e_2_-X_OUKkW7Y0zfcZIAy2XhipXA&s=10"
+  },
+  {
+    "id": "anime-char-007",
+    "category": "anime",
+    "name": {
+      "vi": "Satoru Gojo",
+      "en": "Satoru Gojo",
+      "hi": "Satoru Gojo"
+    },
+    "image": "data:image/jpeg;base64,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",
+    "franchise": "Jujutsu Kaisen",
+    "biography": {
+      "vi": "Chú thuật sư mạnh nhất thời hiện đại sở hữu Lục Nhãn (Six Eyes) và thuật thức Vô Hạ Hạn (Limitless), người bảo vệ thế hệ trẻ với nụ cười tự tin.",
+      "en": "The strongest modern jujutsu sorcerer who wields the Six Eyes and the Limitless technique, mentoring students with effortless charm.",
+      "hi": "The strongest modern jujutsu sorcerer who wields the Six Eyes and the Limitless technique, mentoring students with effortless charm."
+    },
+    "traits": [
+      "Bất khả xâm phạm",
+      "Vô Lượng Không Xứ",
+      "Tự tin"
+    ],
+    "avatarUrl": "data:image/jpeg;base64,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"
+  },
+  {
+    "id": "anime-char-008",
+    "category": "anime",
+    "name": {
+      "vi": "Eren Yeager",
+      "en": "Eren Yeager",
+      "hi": "Eren Yeager"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkyLfGwEnQYJbdBoe0b34CHQtvhgN8WIasi5NlGYe13g&s=10",
+    "franchise": "Attack on Titan",
+    "biography": {
+      "vi": "Cậu bé đảo Paradis khát khao tự do tột cùng, người nắm giữ sức mạnh Thủy Tổ Titan và khởi động cuộc rung chấn địa cầu.",
+      "en": "Paradis youth driven by an uncompromising hunger for freedom, wielding the Founding Titan to initiate the Rumbling.",
+      "hi": "Paradis youth driven by an uncompromising hunger for freedom, wielding the Founding Titan to initiate the Rumbling."
+    },
+    "traits": [
+      "Titan Thủy Tổ",
+      "Ý chí tự do"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkyLfGwEnQYJbdBoe0b34CHQtvhgN8WIasi5NlGYe13g&s=10"
+  },
+  {
+    "id": "anime-char-011",
+    "category": "anime",
+    "name": {
+      "vi": "Roronoa Zoro",
+      "en": "Roronoa Zoro",
+      "hi": "Roronoa Zoro"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAWV7XNbQ8eeHJE1mQB7efcZejYwZEHPCoLPPEB3yrNw&s=10",
+    "franchise": "One Piece",
+    "biography": {
+      "vi": "Tam Kiếm Sĩ phái Santoryu của băng Mũ Rơm với lời thề trở thành Đệ Nhất Kiếm Hào thế giới.",
+      "en": "The Straw Hat Pirates' master of the Three-Sword Style, aiming to become the world's greatest swordsman.",
+      "hi": "The Straw Hat Pirates' master of the Three-Sword Style, aiming to become the world's greatest swordsman."
+    },
+    "traits": [
+      "Tam Kiếm Phái",
+      "Ý chí Asura"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAWV7XNbQ8eeHJE1mQB7efcZejYwZEHPCoLPPEB3yrNw&s=10"
+  },
+  {
+    "id": "anime-char-012",
+    "category": "anime",
+    "name": {
+      "vi": "Denji",
+      "en": "Denji",
+      "hi": "Denji"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmO2q_5I05mfuBS6ouhNwDp3A4mF3OBznKfDT-NMnryg&s=10",
+    "franchise": "Chainsaw Man",
+    "biography": {
+      "vi": "Chàng trai hòa làm một với Quỷ Cưa Pochita, biến lưỡi cưa máy thành vũ khí hủy diệt để bảo vệ những ước muốn bình dị.",
+      "en": "A boy fused with the chainsaw devil Pochita, revving chainsaws from his body to defend simple everyday joys.",
+      "hi": "A boy fused with the chainsaw devil Pochita, revving chainsaws from his body to defend simple everyday joys."
+    },
+    "traits": [
+      "Quỷ Cưa",
+      "Bất tử"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmO2q_5I05mfuBS6ouhNwDp3A4mF3OBznKfDT-NMnryg&s=10"
+  },
+  {
+    "id": "gaming-char-001",
+    "category": "gaming",
+    "name": {
+      "vi": "Geralt of Rivia",
+      "en": "Geralt of Rivia",
+      "hi": "Geralt of Rivia"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh7C2KmFH23JM8lAY1lSMbiQR5j4DnXmRUm2AzUcqAiQ&s=10",
+    "franchise": "The Witcher",
+    "biography": {
+      "vi": "Thợ săn quái vật đột biến lang thang khắp lục địa, sử dụng song kiếm thép và bạc cùng các dấu ấn phép thuật ma thuật để giải quyết các mối đe dọa siêu nhiên.",
+      "en": "A mutated monster hunter who wanders the continent, using twin steel and silver swords along with magical Signs to deal with supernatural threats.",
+      "hi": "A mutated monster hunter who wanders the continent, using twin steel and silver swords along with magical Signs to deal with supernatural threats."
+    },
+    "traits": [
+      "Thực tế",
+      "Trầm tĩnh",
+      "Kinh nghiệm",
+      "Kiếm pháp thượng thừa"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh7C2KmFH23JM8lAY1lSMbiQR5j4DnXmRUm2AzUcqAiQ&s=10"
+  },
+  {
+    "id": "gaming-char-002",
+    "category": "gaming",
+    "name": {
+      "vi": "Kratos",
+      "en": "Kratos",
+      "hi": "Kratos"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDG02ImkLqcNvpMoUtINXZa3IxpWaZdAPrMe07X6hZ1w&s=10",
+    "franchise": "God of War",
+    "biography": {
+      "vi": "Chiến thần Sparta mang quá khứ bi kịch, sau khi đánh bại đỉnh Olympus đã lui về vùng Bắc Âu tìm kiếm sự cứu rỗi và dạy dỗ con trai Atreus trở thành một vị thần nhân từ.",
+      "en": "The Spartan God of War with a tragic past, who after defeating Olympus retreated to the Norse lands seeking redemption and raising his son Atreus to become a kind god.",
+      "hi": "The Spartan God of War with a tragic past, who after defeating Olympus retreated to the Norse lands seeking redemption and raising his son Atreus to become a kind god."
+    },
+    "traits": [
+      "Mạnh mẽ",
+      "Nghiêm nghị",
+      "Bảo vệ gia đình",
+      "Rìu Leviathan"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDG02ImkLqcNvpMoUtINXZa3IxpWaZdAPrMe07X6hZ1w&s=10"
+  },
+  {
+    "id": "gaming-char-003",
+    "category": "gaming",
+    "name": {
+      "vi": "Link",
+      "en": "Link",
+      "hi": "Link"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUBJRBvkhZkZbQxauYJelbcoTkB8ifX1LGlYEgL7zKg&s=10",
+    "franchise": "The Legend of Zelda",
+    "biography": {
+      "vi": "Hiệp sĩ dũng cảm được chọn bởi Tam Hợp Kiếm Master Sword để bảo vệ vương quốc Hyrule và công chúa Zelda khỏi thế lực tà ác của Ganon.",
+      "en": "A brave knight chosen by the Master Sword to protect the kingdom of Hyrule and Princess Zelda from the evil forces of Ganon.",
+      "hi": "A brave knight chosen by the Master Sword to protect the kingdom of Hyrule and Princess Zelda from the evil forces of Ganon."
+    },
+    "traits": [
+      "Trầm lặng",
+      "Can trường",
+      "Bậc thầy giải đố",
+      "Biểu tượng Can Đảm"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUBJRBvkhZkZbQxauYJelbcoTkB8ifX1LGlYEgL7zKg&s=10"
+  },
+  {
+    "id": "gaming-char-004",
+    "category": "gaming",
+    "name": {
+      "vi": "Master Chief (John-117)",
+      "en": "Master Chief (John-117)",
+      "hi": "Master Chief (John-117)"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGZUpSdejDH67237Sji9JnA5OkvnBPoPxQSp6u0RCVA&s=10",
+    "franchise": "Halo",
+    "biography": {
+      "vi": "Chiến binh siêu chiến sĩ Spartan-II huyền thoại của UNSC, ngọn hải đăng hy vọng của nhân loại trong cuộc chiến chống lại đế chế Covenant và ký sinh trùng Flood.",
+      "en": "UNSC's legendary Spartan-II super-soldier, a beacon of hope for humanity in the war against the Covenant empire and the Flood parasite.",
+      "hi": "UNSC's legendary Spartan-II super-soldier, a beacon of hope for humanity in the war against the Covenant empire and the Flood parasite."
+    },
+    "traits": [
+      "Quyết đoán",
+      "Kỷ luật thép",
+      "May mắn phi thường",
+      "Áo giáp Mjolnir"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGZUpSdejDH67237Sji9JnA5OkvnBPoPxQSp6u0RCVA&s=10"
+  },
+  {
+    "id": "gaming-char-005",
+    "category": "gaming",
+    "name": {
+      "vi": "Lara Croft",
+      "en": "Lara Croft",
+      "hi": "Lara Croft"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo101ocJvoyZRe3S99syOuRufqaVMjRYjtJ2cKZyUZSw&s=10",
+    "franchise": "Tomb Raider",
+    "biography": {
+      "vi": "Nhà khảo cổ học người Anh thông minh và sắc sảo, dấn thân vào các di tích cổ xưa bí ẩn nhất thế giới để khám phá sự thật lịch sử và giải mã các lời nguyền cổ đại.",
+      "en": "A brilliant and sharp British archaeologist who ventures into the world's most mysterious ancient ruins to uncover historical truths and decipher ancient curses.",
+      "hi": "A brilliant and sharp British archaeologist who ventures into the world's most mysterious ancient ruins to uncover historical truths and decipher ancient curses."
+    },
+    "traits": [
+      "Thông minh",
+      "Nhạy bén",
+      "Bắn cung điêu luyện",
+      "Kỹ năng sinh tồn"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo101ocJvoyZRe3S99syOuRufqaVMjRYjtJ2cKZyUZSw&s=10"
+  },
+  {
+    "id": "gaming-char-006",
+    "category": "gaming",
+    "name": {
+      "vi": "Jinx",
+      "en": "Jinx",
+      "hi": "Jinx"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmWDXdqN5FXwwh76uR_Lc1S8jaE4mAnDJyu6WERzJI_w&s=10",
+    "franchise": "League of Legends",
+    "biography": {
+      "vi": "Nữ xạ thủ nổi loạn của Zaun với khẩu súng phóng lựu Fishbones và tình yêu cuồng nhiệt với những vụ nổ rực rỡ sắc màu.",
+      "en": "Zaun's manic, impulsive marksman armed with Fishbones rocket launcher, creating vibrant chaos wherever she goes.",
+      "hi": "Zaun's manic, impulsive marksman armed with Fishbones rocket launcher, creating vibrant chaos wherever she goes."
+    },
+    "traits": [
+      "Điên loạn",
+      "Thiên tài chế tạo",
+      "Nhanh nhẹn"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmWDXdqN5FXwwh76uR_Lc1S8jaE4mAnDJyu6WERzJI_w&s=10"
+  },
+  {
+    "id": "gaming-char-007",
+    "category": "gaming",
+    "name": {
+      "vi": "Thiên Mệnh Nhân (Destined One)",
+      "en": "The Destined One (Sun Wukong)",
+      "hi": "The Destined One (Sun Wukong)"
+    },
+    "image": "data:image/jpeg;base64,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",
+    "franchise": "Black Myth: Wukong",
+    "biography": {
+      "vi": "Chiến hầu gánh vác sứ mệnh thu thập sáu căn lục đạo của Tề Thiên Đại Thánh để giải phóng hoa quả sơn và đối đầu thiên đình.",
+      "en": "A brave monkey warrior destined to gather Sun Wukong's scattered relics to unravel an ancient myth and free his people.",
+      "hi": "A brave monkey warrior destined to gather Sun Wukong's scattered relics to unravel an ancient myth and free his people."
+    },
+    "traits": [
+      "Biến hóa 72 phép",
+      "Thiết Bảng Như Ý",
+      "Kiên cường"
+    ],
+    "avatarUrl": "data:image/jpeg;base64,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"
+  },
+  {
+    "id": "gaming-char-009",
+    "category": "gaming",
+    "name": {
+      "vi": "Malenia, Blade of Miquella",
+      "en": "Malenia",
+      "hi": "Malenia"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGVy2NbBU9okU4sxupd0Xn8q_cz32uZSmcvZd4O2rMdg&s=10",
+    "franchise": "Elden Ring",
+    "biography": {
+      "vi": "Nữ kiếm sĩ bán thần bất bại của vùng đất Lands Between với kỹ năng Múa Nước (Waterfowl Dance) và đóa hoa Scarlet Aeonia hủy diệt.",
+      "en": "The undefeated demigod swordstress of the Lands Between, wielding the Waterfowl Dance and Scarlet Rot.",
+      "hi": "The undefeated demigod swordstress of the Lands Between, wielding the Waterfowl Dance and Scarlet Rot."
+    },
+    "traits": [
+      "Kiếm Thần Bất Bại",
+      "Múa Nước"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGVy2NbBU9okU4sxupd0Xn8q_cz32uZSmcvZd4O2rMdg&s=10"
+  },
+  {
+    "id": "gaming-char-011",
+    "category": "gaming",
+    "name": {
+      "vi": "Cloud Strife",
+      "en": "Cloud Strife",
+      "hi": "Cloud Strife"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVgUob9H78olK4cyTA8ZNdnbzWempGHGl2wOM01jt-nQ&s=10",
+    "franchise": "Final Fantasy VII",
+    "biography": {
+      "vi": "Cựu chiến binh SOLDIER vác thanh đại đao Buster Sword bảo vệ hành tinh Gaia khỏi thảm họa Sephiroth.",
+      "en": "Ex-SOLDIER mercenary wielding the iconic Buster Sword to protect planet Gaia from Sephiroth.",
+      "hi": "Ex-SOLDIER mercenary wielding the iconic Buster Sword to protect planet Gaia from Sephiroth."
+    },
+    "traits": [
+      "Buster Sword",
+      "Giới Hạn Limit Break"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVgUob9H78olK4cyTA8ZNdnbzWempGHGl2wOM01jt-nQ&s=10"
+  },
+  {
+    "id": "gaming-char-012",
+    "category": "gaming",
+    "name": {
+      "vi": "Atsu",
+      "en": "Atsu",
+      "hi": "Atsu"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM-adjiHYDugkuNCmp0-z-sr8k10skxVMdHtftWm_7hA&s=10",
+    "franchise": "Ghost of Yōtei",
+    "biography": {
+      "vi": "Nữ kiếm sĩ lang bạt vùng Ezo năm 1603 mang theo mối hận thù gia tộc và kỹ thuật song kiếm điêu luyện.",
+      "en": "A lone ronin wandering Hokkaido in 1603 wielding twin blades and hunting targets across Mount Yōtei.",
+      "hi": "A lone ronin wandering Hokkaido in 1603 wielding twin blades and hunting targets across Mount Yōtei."
+    },
+    "traits": [
+      "Song Kiếm",
+      "Báo thù"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM-adjiHYDugkuNCmp0-z-sr8k10skxVMdHtftWm_7hA&s=10"
+  },
+  {
+    "id": "movies-char-001",
+    "category": "movies",
+    "name": {
+      "vi": "Tony Stark (Iron Man)",
+      "en": "Tony Stark (Iron Man)",
+      "hi": "टोनी स्टार्क (आयरन मैन)"
+    },
+    "image": "https://images.unsplash.com/photo-1635863138275-d9b33299680b?w=500&auto=format&fit=crop&q=80",
+    "franchise": "Marvel Cinematic Universe",
+    "biography": {
+      "vi": "Thiên tài, tỷ phú, nhà từ thiện với bộ giáp công nghệ tối tân tự chế tạo, linh hồn dẫn dắt biệt đội Avengers trong công cuộc bảo vệ Trái Đất và vũ trụ.",
+      "en": "A genius, billionaire, philanthropist with a self-built cutting-edge armored suit, the guiding spirit of the Avengers in protecting Earth and the universe.",
+      "hi": "एक प्रतिभाशाली, अरबपति परोपकारी, जिसने खुद अत्याधुनिक तकनीक वाला कवच बनाया, जो पृथ्वी और ब्रह्मांड की रक्षा में एवेंजर्स का मार्गदर्शक है।"
+    },
+    "traits": [
+      {
+        "vi": "Thiên tài cơ khí",
+        "en": "Mechanical genius",
+        "hi": "यांत्रिक प्रतिभा"
+      },
+      {
+        "vi": "Hài hước",
+        "en": "Witty",
+        "hi": "विनोदी"
+      },
+      {
+        "vi": "Quả cảm",
+        "en": "Courageous",
+        "hi": "साहसी"
+      },
+      {
+        "vi": "Hi sinh vì đại nghĩa",
+        "en": "Self-sacrificing for the greater good",
+        "hi": "महान उद्देश्य के लिए बलिदान"
+      }
+    ]
+  },
+  {
+    "id": "movies-char-002",
+    "category": "movies",
+    "name": {
+      "vi": "Luke Skywalker",
+      "en": "Luke Skywalker",
+      "hi": "ल्यूक स्काईवॉकर"
+    },
+    "image": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=500&auto=format&fit=crop&q=80",
+    "franchise": "Star Wars",
+    "biography": {
+      "vi": "Hiệp sĩ Jedi huyền thoại từ hành tinh Tatooine, người đã dẫn đầu liên minh nổi dậy đánh bại Đế chế Thiên hà và cảm hóa cha mình là Darth Vader trở lại phe Ánh Sáng.",
+      "en": "A legendary Jedi Knight from the planet Tatooine who led the Rebel Alliance to defeat the Galactic Empire and redeemed his father, Darth Vader, back to the Light Side.",
+      "hi": "टैटूइन ग्रह का एक महान जेडाई नाइट, जिसने रिबेल एलायंस का नेतृत्व कर गैलेक्टिक एम्पायर को हराया और अपने पिता डार्थ वेडर को फिर से लाइट साइड में वापस लाया।"
+    },
+    "traits": [
+      {
+        "vi": "Thấu cảm",
+        "en": "Empathetic",
+        "hi": "सहानुभूतिशील"
+      },
+      {
+        "vi": "Lòng trắc ẩn",
+        "en": "Compassionate",
+        "hi": "दयालु"
+      },
+      {
+        "vi": "Thần Lực mạnh mẽ",
+        "en": "Powerful in the Force",
+        "hi": "फोर्स में शक्तिशाली"
+      },
+      {
+        "vi": "Kiếm ánh sáng",
+        "en": "Lightsaber",
+        "hi": "लाइटसेबर"
+      }
+    ]
+  },
+  {
+    "id": "movies-char-003",
+    "category": "movies",
+    "name": {
+      "vi": "Harry Potter",
+      "en": "Harry Potter",
+      "hi": "हैरी पॉटर"
+    },
+    "image": "https://images.unsplash.com/photo-1598153346810-860daa814c4b?w=500&auto=format&fit=crop&q=80",
+    "franchise": "Wizarding World",
+    "biography": {
+      "vi": "Cậu bé sống sót sau lời nguyền chết chóc, phù thủy quả cảm của nhà Gryffindor đã cùng bạn bè đánh bại Chúa tể Hắc ám Voldemort.",
+      "en": "The Boy Who Lived through the Killing Curse, a brave Gryffindor wizard who, together with his friends, defeated the Dark Lord Voldemort.",
+      "hi": "मृत्यु के श्राप से बच निकला लड़का, ग्रिफिंडोर का एक बहादुर जादूगर, जिसने अपने दोस्तों के साथ मिलकर डार्क लॉर्ड वोल्डेमॉर्ट को हराया।"
+    },
+    "traits": [
+      {
+        "vi": "Dũng cảm",
+        "en": "Brave",
+        "hi": "बहादुर"
+      },
+      {
+        "vi": "Trung thực",
+        "en": "Honest",
+        "hi": "ईमानदार"
+      },
+      {
+        "vi": "Tình bạn sâu sắc",
+        "en": "Deep friendship",
+        "hi": "गहरी दोस्ती"
+      },
+      {
+        "vi": "Bùa Hộ Mệnh",
+        "en": "Patronus Charm",
+        "hi": "पैट्रोनस चार्म"
+      }
+    ]
+  },
+  {
+    "id": "movies-char-004",
+    "category": "movies",
+    "name": {
+      "vi": "Neo (Thomas Anderson)",
+      "en": "Neo (Thomas Anderson)",
+      "hi": "नियो (थॉमस एंडरसन)"
+    },
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=500&auto=format&fit=crop&q=80",
+    "franchise": "The Matrix",
+    "biography": {
+      "vi": "Hacker được tiên tri là 'Người Được Chọn' (The One), thức tỉnh khỏi thực tại ảo Ma Trận để dẫn dắt nhân loại giành lại tự do trước sự thống trị của máy móc.",
+      "en": "A hacker prophesied as 'The One,' who awakens from the virtual reality of the Matrix to lead humanity in reclaiming freedom from the domination of machines.",
+      "hi": "एक हैकर जिसे भविष्यवाणी में 'द वन' कहा गया है, जो मैट्रिक्स की आभासी वास्तविकता से जागकर मशीनों के प्रभुत्व से मानवता को आज़ाद कराने का नेतृत्व करता है।"
+    },
+    "traits": [
+      {
+        "vi": "Bẻ cong thực tại",
+        "en": "Reality-bending",
+        "hi": "वास्तविकता को मोड़ने वाला"
+      },
+      {
+        "vi": "Bậc thầy võ thuật",
+        "en": "Martial arts master",
+        "hi": "मार्शल आर्ट्स का उस्ताद"
+      },
+      {
+        "vi": "Giác ngộ",
+        "en": "Enlightened",
+        "hi": "प्रबुद्ध"
+      },
+      {
+        "vi": "Tầm nhìn xa",
+        "en": "Visionary",
+        "hi": "दूरदर्शी"
+      }
+    ]
+  },
+  {
+    "id": "movies-char-005",
+    "category": "movies",
+    "name": {
+      "vi": "Aragorn",
+      "en": "Aragorn",
+      "hi": "अरागोर्न"
+    },
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=500&auto=format&fit=crop&q=80",
+    "franchise": "The Lord of the Rings",
+    "biography": {
+      "vi": "Hậu duệ cuối cùng của dòng dõi hoàng tộc Isildur, vượt qua nghi ngại về bản thân để dẫn dắt Trung Địa chiến thắng chúa tể Sauron và lên ngôi Vua xứ Gondor.",
+      "en": "The last descendant of Isildur's royal bloodline, who overcomes his self-doubt to lead Middle-earth to victory over the dark lord Sauron and ascend to the throne of Gondor.",
+      "hi": "इसिल्दुर के शाही वंश का अंतिम वंशज, जो अपने आत्म-संदेह पर काबू पाकर मिडल-अर्थ को अंधकार के स्वामी सौरोन पर विजय दिलाता है और गोंडोर का राजा बनता है।"
+    },
+    "traits": [
+      {
+        "vi": "Khí chất vương giả",
+        "en": "Regal bearing",
+        "hi": "राजसी व्यक्तित्व"
+      },
+      {
+        "vi": "Kiếm pháp cừ khôi",
+        "en": "Excellent swordsmanship",
+        "hi": "उत्कृष्ट तलवारबाज़ी"
+      },
+      {
+        "vi": "Thủy chung",
+        "en": "Loyal",
+        "hi": "वफादार"
+      },
+      {
+        "vi": "Lãnh đạo truyền cảm hứng",
+        "en": "Inspiring leadership",
+        "hi": "प्रेरक नेतृत्व"
+      }
+    ]
+  },
+  {
+    "id": "movies-char-006",
+    "category": "movies",
+    "name": {
+      "vi": "Paul Atreides",
+      "en": "Paul Atreides",
+      "hi": "पॉल एट्रेइड्स"
+    },
+    "image": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=500&auto=format&fit=crop&q=80",
+    "franchise": "Dune",
+    "biography": {
+      "vi": "Người thừa kế gia tộc Atreides, người được dân du mục Fremen tôn xưng là Muad'Dib và đấng cứu thế Kwisatz Haderach dẫn dắt cuộc thánh chiến vũ trụ.",
+      "en": "The duke of House Atreides chosen by destiny and the desert Fremen as Muad'Dib, rising as the Kwisatz Haderach.",
+      "hi": "हाउस एट्रेइड्स का उत्तराधिकारी और फ्रेमेन का मसीहा मुआद'दिब।"
+    },
+    "traits": [
+      {
+        "vi": "Thấu thị tương lai",
+        "en": "Prescience",
+        "hi": "दूरदर्शिता"
+      },
+      {
+        "vi": "Khí chất thủ lĩnh",
+        "en": "Leader",
+        "hi": "नेता"
+      },
+      {
+        "vi": "Tiếng nói The Voice",
+        "en": "The Voice",
+        "hi": "द वॉयस"
+      }
+    ]
+  },
+  {
+    "id": "movies-char-007",
+    "category": "movies",
+    "name": {
+      "vi": "Stephen Strange (Doctor Strange)",
+      "en": "Doctor Strange",
+      "hi": "डॉक्टर स्ट्रेंज"
+    },
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=500&auto=format&fit=crop&q=80",
+    "franchise": "Marvel Cinematic Universe",
+    "biography": {
+      "vi": "Phù Thủy Tối Thượng bảo vệ Đa Vũ Trụ Marvel bằng con mắt Agamotto và những câu thần chú bẻ cong không thời gian phức tạp.",
+      "en": "Master of the Mystic Arts and protector of the Marvel Multiverse, wielding the Eye of Agamotto and reality-bending spells.",
+      "hi": "रहस्यमय कलाओं का मास्टर और मार्वल मल्टीवर्स का संरक्षक।"
+    },
+    "traits": [
+      {
+        "vi": "Phép thuật tối thượng",
+        "en": "Mystic Arts",
+        "hi": "रहस्यमयी जादू"
+      },
+      {
+        "vi": "Bảo vệ đa vũ trụ",
+        "en": "Multiverse Guardian",
+        "hi": "मल्टीवर्स रक्षक"
+      }
+    ]
+  },
+  {
+    "id": "movies-char-009",
+    "category": "movies",
+    "name": {
+      "vi": "Miles Morales",
+      "en": "Miles Morales",
+      "hi": "माइल्स मोरालेस"
+    },
+    "image": "https://images.unsplash.com/photo-1635805737707-575885ab0820?w=500&auto=format&fit=crop&q=80",
+    "franchise": "Spider-Verse",
+    "biography": {
+      "vi": "Người Nhện thiếu niên Brooklyn sở hữu nọc độc điện Venom Strike và khả năng tàng hình độc nhất vô nhị.",
+      "en": "Brooklyn teenager Spider-Man commanding bio-electric Venom blasts and camouflage invisibility.",
+      "hi": "इलेक्ट्रिक शॉक और अदृश्य होने की शक्ति वाला युवा स्पाइडर-मैन।"
+    },
+    "traits": [
+      {
+        "vi": "Venom Strike",
+        "en": "Venom Strike",
+        "hi": "वेनम स्ट्राइक"
+      },
+      {
+        "vi": "Tàng hình",
+        "en": "Camouflage",
+        "hi": "अदृश्य होना"
+      }
+    ]
+  },
+  {
+    "id": "movies-char-010",
+    "category": "movies",
+    "name": {
+      "vi": "Chani",
+      "en": "Chani",
+      "hi": "चानी"
+    },
+    "image": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=500&auto=format&fit=crop&q=80",
+    "franchise": "Dune",
+    "biography": {
+      "vi": "Nữ chiến binh Fremen quả cảm của sa mạc Arrakis, người luôn đấu tranh cho tự do thực sự của bộ tộc.",
+      "en": "Fierce Fremen desert warrior fighting for Arrakis independence with a laser-focused heart.",
+      "hi": "अर्राकिस के रेगिस्तान की निडर महिला योद्धा।"
+    },
+    "traits": [
+      {
+        "vi": "Chiến binh Sa Mạc",
+        "en": "Fremen Fedaykin",
+        "hi": "रेगिस्तानी योद्धा"
+      },
+      {
+        "vi": "Mắt xanh Ibad",
+        "en": "Eyes of Ibad",
+        "hi": "नीली आंखें"
+      }
+    ]
+  },
+  {
+    "id": "movies-char-011",
+    "category": "movies",
+    "name": {
+      "vi": "Jake Sully (Toruk Makto)",
+      "en": "Jake Sully",
+      "hi": "जेक सुली"
+    },
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=500&auto=format&fit=crop&q=80",
+    "franchise": "Avatar",
+    "biography": {
+      "vi": "Thủ lĩnh bộ tộc Na'vi từng cưỡi đại bàng Toruk bảo vệ hành tinh Pandora khỏi sự xâm lăng của loài người.",
+      "en": "Former Marine who embraced Na'vi identity, riding the Great Leonopteryx as Toruk Makto to defend Pandora.",
+      "hi": "पैंडोरा की रक्षा करने वाला तोरुक माक्तो।"
+    },
+    "traits": [
+      {
+        "vi": "Toruk Makto",
+        "en": "Toruk Makto",
+        "hi": "तोरुक माक्तो"
+      },
+      {
+        "vi": "Thủ lĩnh Omaticaya",
+        "en": "Clan Leader",
+        "hi": "कबीला सरदार"
+      }
+    ]
+  },
+  {
+    "id": "tvshows-char-001",
+    "category": "tvshows",
+    "name": {
+      "vi": "Jon Snow",
+      "en": "Jon Snow",
+      "hi": "जॉन स्नो"
+    },
+    "image": "https://images.unsplash.com/photo-1514539079130-25950c84af65?w=500&auto=format&fit=crop&q=80",
+    "franchise": "Game of Thrones",
+    "biography": {
+      "vi": "Người chỉ huy Đội Tuần Đêm tại Bức Tường phương Bắc, người thực sự mang dòng máu hoàng gia Targaryen và tập hợp các gia tộc chống lại Đội quân Bóng Trắng.",
+      "en": "Commander of the Night's Watch at the Wall in the North, who truly carries Targaryen royal blood and unites the houses against the Army of the White Walkers.",
+      "hi": "उत्तर की दीवार पर नाइट्स वॉच का सेनापति, जो असल में टारगेरियन शाही रक्त का वारिस है और व्हाइट वॉकर्स की सेना के खिलाफ सभी घरानों को एकजुट करता है।"
+    },
+    "traits": [
+      {
+        "vi": "Chính trực",
+        "en": "Righteous",
+        "hi": "सच्चरित्र"
+      },
+      {
+        "vi": "Danh dự",
+        "en": "Honorable",
+        "hi": "सम्मानित"
+      },
+      {
+        "vi": "Kiếm Longclaw",
+        "en": "Longclaw sword",
+        "hi": "लॉन्गक्लॉ तलवार"
+      },
+      {
+        "vi": "Thủ lĩnh bẩm sinh",
+        "en": "Natural-born leader",
+        "hi": "जन्मजात नेता"
+      }
+    ]
+  },
+  {
+    "id": "tvshows-char-002",
+    "category": "tvshows",
+    "name": {
+      "vi": "Walter White (Heisenberg)",
+      "en": "Walter White (Heisenberg)",
+      "hi": "वाल्टर व्हाइट (हाइज़ेनबर्ग)"
+    },
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=500&auto=format&fit=crop&q=80",
+    "franchise": "Breaking Bad",
+    "biography": {
+      "vi": "Giáo viên hóa học trung học bình thường chuyển mình thành trùm ma túy Heisenberg tàn nhẫn sau biến cố ung thư phổi, dần để bản ngã tham vọng nuốt chửng đạo đức.",
+      "en": "An ordinary high school chemistry teacher who transforms into the ruthless drug kingpin Heisenberg after a lung cancer diagnosis, gradually letting his ambitious ego consume his morals.",
+      "hi": "एक साधारण हाई स्कूल केमिस्ट्री शिक्षक, जो फेफड़ों के कैंसर की घटना के बाद निर्दयी ड्रग किंगपिन हाइज़ेनबर्ग में बदल जाता है, धीरे-धीरे उसकी महत्वाकांक्षा उसकी नैतिकता को निगल जाती है।"
+    },
+    "traits": [
+      {
+        "vi": "Thiên tài hóa học",
+        "en": "Chemistry genius",
+        "hi": "रसायन विज्ञान का प्रतिभाशाली"
+      },
+      {
+        "vi": "Mưu mô",
+        "en": "Cunning",
+        "hi": "चालाक"
+      },
+      {
+        "vi": "Quyết đoán",
+        "en": "Decisive",
+        "hi": "दृढ़निश्चयी"
+      },
+      {
+        "vi": "Thao túng tâm lý",
+        "en": "Master manipulator",
+        "hi": "मनोवैज्ञानिक हेरफेर में माहिर"
+      }
+    ]
+  },
+  {
+    "id": "tvshows-char-003",
+    "category": "tvshows",
+    "name": {
+      "vi": "Eleven (Jane Hopper)",
+      "en": "Eleven (Jane Hopper)",
+      "hi": "इलेवन (जेन हॉपर)"
+    },
+    "image": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=500&auto=format&fit=crop&q=80",
+    "franchise": "Stranger Things",
+    "biography": {
+      "vi": "Cô bé sở hữu năng lực tâm linh viễn di chuyển và ngoại cảm sau các thí nghiệm tại phòng thí nghiệm Hawkins, bức tường thành bảo vệ thị trấn khỏi thế giới Upside Down.",
+      "en": "A girl with telekinetic and psychic powers gained from experiments at the Hawkins lab, the last line of defense protecting the town from the Upside Down.",
+      "hi": "हॉकिन्स लैब के प्रयोगों से टेलीकाइनेटिक और मानसिक शक्तियां पाई हुई एक लड़की, जो शहर को अपसाइड डाउन से बचाने वाली आखिरी सुरक्षा दीवार है।"
+    },
+    "traits": [
+      {
+        "vi": "Năng lực tâm linh",
+        "en": "Psychic powers",
+        "hi": "मानसिक शक्तियां"
+      },
+      {
+        "vi": "Tình cảm",
+        "en": "Affectionate",
+        "hi": "स्नेही"
+      },
+      {
+        "vi": "Yêu bánh Waffle",
+        "en": "Loves waffles",
+        "hi": "वैफल्स पसंद"
+      },
+      {
+        "vi": "Dũng cảm",
+        "en": "Brave",
+        "hi": "बहादुर"
+      }
+    ]
+  },
+  {
+    "id": "tvshows-char-004",
+    "category": "tvshows",
+    "name": {
+      "vi": "Thomas Shelby",
+      "en": "Thomas Shelby",
+      "hi": "थॉमस शेल्बी"
+    },
+    "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=500&auto=format&fit=crop&q=80",
+    "franchise": "Peaky Blinders",
+    "biography": {
+      "vi": "Thủ lĩnh lạnh lùng và túc trí đa mưu của băng đảng Peaky Blinders tại Birmingham, biến một tổ chức cá cược đường phố thành tập đoàn quyền lực toàn vương quốc Anh.",
+      "en": "The cold and cunning leader of the Peaky Blinders gang in Birmingham, who turns a street betting operation into a powerful empire across the United Kingdom.",
+      "hi": "बर्मिंघम में पीकी ब्लाइंडर्स गैंग का ठंडा और चालाक नेता, जिसने एक सड़क सट्टेबाजी संगठन को पूरे यूनाइटेड किंगडम में एक शक्तिशाली साम्राज्य में बदल दिया।"
+    },
+    "traits": [
+      {
+        "vi": "Chiến lược gia",
+        "en": "Strategist",
+        "hi": "रणनीतिकार"
+      },
+      {
+        "vi": "Bình tĩnh kỳ lạ",
+        "en": "Eerily calm",
+        "hi": "अजीब तरह से शांत"
+      },
+      {
+        "vi": "Lạnh lùng",
+        "en": "Cold-mannered",
+        "hi": "ठंडे स्वभाव का"
+      },
+      {
+        "vi": "Thương gia tài ba",
+        "en": "Brilliant businessman",
+        "hi": "शानदार व्यवसायी"
+      }
+    ]
+  },
+  {
+    "id": "tvshows-char-005",
+    "category": "tvshows",
+    "name": {
+      "vi": "Sherlock Holmes",
+      "en": "Sherlock Holmes",
+      "hi": "शर्लक होम्स"
+    },
+    "image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=500&auto=format&fit=crop&q=80",
+    "franchise": "Sherlock",
+    "biography": {
+      "vi": "Thám tử tư vấn duy nhất trên thế giới với bộ óc phân tích siêu việt, sử dụng Cung điện Ký ức (Mind Palace) để giải mã những vụ án hóc búa nhất thành phố London.",
+      "en": "The world's only consulting detective, with a superior analytical mind, using his Mind Palace to solve London's most baffling cases.",
+      "hi": "दुनिया का इकलौता कंसल्टिंग डिटेक्टिव, जिसके पास असाधारण विश्लेषणात्मक दिमाग है, जो अपने माइंड पैलेस का उपयोग करके लंदन के सबसे उलझे हुए मामलों को सुलझाता है।"
+    },
+    "traits": [
+      {
+        "vi": "Quan sát tinh tế",
+        "en": "Keen observation",
+        "hi": "सूक्ष्म अवलोकन"
+      },
+      {
+        "vi": "Suy luận logic",
+        "en": "Logical deduction",
+        "hi": "तार्किक निष्कर्ष"
+      },
+      {
+        "vi": "Cung điện ký ức",
+        "en": "Mind Palace",
+        "hi": "माइंड पैलेस"
+      },
+      {
+        "vi": "Khác biệt",
+        "en": "Eccentric",
+        "hi": "विलक्षण"
+      }
+    ]
+  },
+  {
+    "id": "tvshows-char-006",
+    "category": "tvshows",
+    "name": {
+      "vi": "Vi (Violet)",
+      "en": "Vi (Violet)",
+      "hi": "वी (वायलेट)"
+    },
+    "image": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=500&auto=format&fit=crop&q=80",
+    "franchise": "Arcane",
+    "biography": {
+      "vi": "Đấu sĩ đường phố quả cảm xứ Zaun với đôi găng tay Hextech khổng lồ, luôn chiến đấu để bảo vệ em gái Jinx và những người cô yêu quý.",
+      "en": "Zaun's fiercely protective street brawler equipped with massive Hextech gauntlets, fighting for sisterhood and justice.",
+      "hi": "ज़ाउन की साहसी मुक्केबाज जिसके पास हेक्सटेक दस्ताने हैं।"
+    },
+    "traits": [
+      {
+        "vi": "Găng tay Hextech",
+        "en": "Hextech Gauntlets",
+        "hi": "हेक्सटेक दस्ताने"
+      },
+      {
+        "vi": "Bền bỉ",
+        "en": "Tough",
+        "hi": "कठोर"
+      }
+    ]
+  },
+  {
+    "id": "tvshows-char-007",
+    "category": "tvshows",
+    "name": {
+      "vi": "Daemon Targaryen",
+      "en": "Daemon Targaryen",
+      "hi": "डेमन टारगैरियन"
+    },
+    "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=500&auto=format&fit=crop&q=80",
+    "franchise": "House of the Dragon",
+    "biography": {
+      "vi": "Hoàng tử Rogue khét tiếng cưỡi rồng Caraxes, chiến binh kiêu hùng khó lường của gia tộc Rồng trong cuộc chiến tranh vương quyền.",
+      "en": "The unpredictable Rogue Prince and rider of the blood wyrm Caraxes, a fierce Targaryen warrior during the civil war.",
+      "hi": "रक्त ड्रैगन कैराक्सेस का सवार और दुर्जेय योद्धा राजकुमार।"
+    },
+    "traits": [
+      {
+        "vi": "Cưỡi rồng Caraxes",
+        "en": "Dragonrider",
+        "hi": "ड्रैगन राइडर"
+      },
+      {
+        "vi": "Kiếm Thép Valyrian",
+        "en": "Dark Sister",
+        "hi": "डार्क सिस्टर"
+      }
+    ]
+  },
+  {
+    "id": "tvshows-char-009",
+    "category": "tvshows",
+    "name": {
+      "vi": "Rhaenyra Targaryen",
+      "en": "Rhaenyra Targaryen",
+      "hi": "रेनिरा टारगैरियन"
+    },
+    "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=500&auto=format&fit=crop&q=80",
+    "franchise": "House of the Dragon",
+    "biography": {
+      "vi": "Nữ vương hợp pháp của Bảy Vương Quốc, người cưỡi rồng Syrax chiến đấu giành lại Ngai Sắt cho nhánh Đen.",
+      "en": "The rightful Queen of the Seven Kingdoms riding Syrax in the fierce Dance of the Dragons civil war.",
+      "hi": "सात राज्यों की रानी और ड्रैगन सिराक्स की सवार।"
+    },
+    "traits": [
+      {
+        "vi": "Nữ vương Ngai Sắt",
+        "en": "Rightful Queen",
+        "hi": "सच्ची रानी"
+      },
+      {
+        "vi": "Cưỡi rồng Syrax",
+        "en": "Syrax Rider",
+        "hi": "सिराक्स राइडर"
+      }
+    ]
+  },
+  {
+    "id": "tvshows-char-010",
+    "category": "tvshows",
+    "name": {
+      "vi": "Lucy MacLean",
+      "en": "Lucy MacLean",
+      "hi": "लूसी मैकलियन"
+    },
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=500&auto=format&fit=crop&q=80",
+    "franchise": "Fallout",
+    "biography": {
+      "vi": "Cô gái lạc quan bước ra từ hầm trú ẩn Vault 33 đối mặt với sự tàn nhẫn và kỳ dị của thế giới sa mạc hậu tận thế.",
+      "en": "An optimistic Vault 33 dweller forced onto the violent irradiated wasteland to rescue her father.",
+      "hi": "वॉल्ट 33 से बाहर आकर खतरनाक दुनिया का सामना करने वाली लड़की।"
+    },
+    "traits": [
+      {
+        "vi": "Cư dân Vault 33",
+        "en": "Vault Dweller",
+        "hi": "वॉल्ट निवासी"
+      },
+      {
+        "vi": "Pip-Boy",
+        "en": "Pip-Boy 3000",
+        "hi": "पिप-बॉय"
+      }
+    ]
+  },
+  {
+    "id": "tvshows-char-011",
+    "category": "tvshows",
+    "name": {
+      "vi": "Seong Gi-hun (Player 456)",
+      "en": "Seong Gi-hun",
+      "hi": "सियोंग गी-हुन"
+    },
+    "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=500&auto=format&fit=crop&q=80",
+    "franchise": "Squid Game",
+    "biography": {
+      "vi": "Người chiến thắng duy nhất của trò chơi con mực, từ chối số tiền khổng lồ để tìm cách hủy diệt trò chơi tàn bạo.",
+      "en": "Winner of the deadly Squid Game who turns down a life of luxury to dismantle the twisted game.",
+      "hi": "स्क्विड गेम का विजेता जो व्यवस्था को खत्म करना चाहता है।"
+    },
+    "traits": [
+      {
+        "vi": "Người chơi 456",
+        "en": "Player 456",
+        "hi": "खिलाड़ी 456"
+      },
+      {
+        "vi": "Ý chí chính nghĩa",
+        "en": "Moral Conscience",
+        "hi": "नैतिक साहस"
+      }
+    ]
+  },
+  {
+    "id": "kpop-char-001",
+    "category": "kpop",
+    "name": {
+      "vi": "RM (Kim Nam-joon)",
+      "en": "RM (Kim Nam-joon)",
+      "hi": "आरएम (किम नाम-जून)"
+    },
+    "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=500&auto=format&fit=crop&q=80",
+    "franchise": "BTS",
+    "biography": {
+      "vi": "Trưởng nhóm và nhà sản xuất âm nhạc tài ba của nhóm nhạc hiện tượng toàn cầu BTS, đại diện cho tiếng nói thế hệ trẻ với các bài phát biểu truyền cảm hứng tại Liên Hợp Quốc.",
+      "en": "Leader and talented music producer of the global phenomenon BTS, representing the voice of a young generation with inspiring speeches at the United Nations.",
+      "hi": "वैश्विक सनसनी बीटीएस का नेता और प्रतिभाशाली संगीत निर्माता, जो संयुक्त राष्ट्र में अपने प्रेरक भाषणों के साथ युवा पीढ़ी की आवाज़ का प्रतिनिधित्व करता है।"
+    },
+    "traits": [
+      {
+        "vi": "Lãnh đạo xuất chúng",
+        "en": "Exceptional leader",
+        "hi": "असाधारण नेता"
+      },
+      {
+        "vi": "Sáng tác sâu sắc",
+        "en": "Deeply thoughtful songwriter",
+        "hi": "गहरा गीतकार"
+      },
+      {
+        "vi": "Thông thái",
+        "en": "Wise",
+        "hi": "बुद्धिमान"
+      },
+      {
+        "vi": "Rapper tài ba",
+        "en": "Talented rapper",
+        "hi": "प्रतिभाशाली रैपर"
+      }
+    ]
+  },
+  {
+    "id": "kpop-char-002",
+    "category": "kpop",
+    "name": {
+      "vi": "Jennie Kim",
+      "en": "Jennie Kim",
+      "hi": "जेनी किम"
+    },
+    "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=500&auto=format&fit=crop&q=80",
+    "franchise": "BLACKPINK",
+    "biography": {
+      "vi": "Thành viên đa tài của nhóm nữ kỷ lục BLACKPINK, được mệnh danh là 'Human Chanel' với phong cách thời trang dẫn đầu xu hướng và thần thái sân khấu cuốn hút.",
+      "en": "A multi-talented member of the record-breaking girl group BLACKPINK, dubbed 'Human Chanel' for her trend-setting fashion style and captivating stage presence.",
+      "hi": "रिकॉर्ड तोड़ने वाले गर्ल ग्रुप ब्लैकपिंक की बहुमुखी प्रतिभा वाली सदस्य, जिसे उसकी ट्रेंडसेटिंग फैशन स्टाइल और मंच पर आकर्षक उपस्थिति के कारण 'ह्यूमन शनैल' कहा जाता है।"
+    },
+    "traits": [
+      {
+        "vi": "Biểu tượng thời trang",
+        "en": "Fashion icon",
+        "hi": "फैशन आइकन"
+      },
+      {
+        "vi": "Rapper lôi cuốn",
+        "en": "Charismatic rapper",
+        "hi": "आकर्षक रैपर"
+      },
+      {
+        "vi": "Vocal quyến rũ",
+        "en": "Alluring vocals",
+        "hi": "मोहक आवाज़"
+      },
+      {
+        "vi": "Visual sang trọng",
+        "en": "Elegant visual",
+        "hi": "शानदार विज़ुअल"
+      }
+    ]
+  },
+  {
+    "id": "kpop-char-003",
+    "category": "kpop",
+    "name": {
+      "vi": "G-Dragon (Kwon Ji-yong)",
+      "en": "G-Dragon (Kwon Ji-yong)",
+      "hi": "जी-ड्रैगन (क्वोन जी-योंग)"
+    },
+    "image": "https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?w=500&auto=format&fit=crop&q=80",
+    "franchise": "BIGBANG",
+    "biography": {
+      "vi": "Ông hoàng K-Pop, nhà tiên phong mở đường cho văn hóa âm nhạc Hallyu vươn tầm quốc tế với khả năng sáng tác đỉnh cao và phong cách thời trang đột phá không giới hạn.",
+      "en": "The King of K-Pop, a pioneer who paved the way for Hallyu music culture to reach international scale with top-tier songwriting ability and boundlessly groundbreaking fashion style.",
+      "hi": "के-पॉप का राजा, जिसने अपनी शीर्ष स्तरीय गीत-लेखन क्षमता और असीमित रूप से क्रांतिकारी फैशन स्टाइल के साथ हैल्यू संगीत संस्कृति को अंतरराष्ट्रीय स्तर तक पहुंचाने का मार्ग प्रशस्त किया।"
+    },
+    "traits": [
+      {
+        "vi": "Biểu tượng K-Pop",
+        "en": "K-Pop icon",
+        "hi": "के-पॉप आइकन"
+      },
+      {
+        "vi": "Nhạc sĩ thiên tài",
+        "en": "Musical genius",
+        "hi": "संगीत प्रतिभा"
+      },
+      {
+        "vi": "Đột phá",
+        "en": "Groundbreaking",
+        "hi": "क्रांतिकारी"
+      },
+      {
+        "vi": "Phong cách độc bản",
+        "en": "Unique style",
+        "hi": "अद्वितीय शैली"
+      }
+    ]
+  },
+  {
+    "id": "kpop-char-004",
+    "category": "kpop",
+    "name": {
+      "vi": "IU (Lee Ji-eun)",
+      "en": "IU (Lee Ji-eun)",
+      "hi": "आईयू (ली जी-यून)"
+    },
+    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=500&auto=format&fit=crop&q=80",
+    "franchise": "Solo Artists",
+    "biography": {
+      "vi": "Nghệ sĩ solo hàng đầu Hàn Quốc, được yêu mến với biệt danh 'Em gái quốc dân', sở hữu chất giọng trong trẻo 3 nốt cao và gia tài nhạc số bất bại trên mọi bảng xếp hạng.",
+      "en": "South Korea's top solo artist, affectionately known as the 'Nation's Little Sister,' with a clear three-octave vocal range and an unbeatable digital music catalog across every chart.",
+      "hi": "दक्षिण कोरिया की शीर्ष एकल कलाकार, जिसे प्यार से 'नेशन्स लिटिल सिस्टर' कहा जाता है, जिसकी स्पष्ट तीन-सप्तक आवाज़ और हर चार्ट पर अजेय डिजिटल संगीत कैटलॉग है।"
+    },
+    "traits": [
+      {
+        "vi": "Giọng hát thiên phú",
+        "en": "Gifted voice",
+        "hi": "प्रतिभाशाली आवाज़"
+      },
+      {
+        "vi": "Nhạc sĩ tinh tế",
+        "en": "Refined songwriter",
+        "hi": "परिष्कृत गीतकार"
+      },
+      {
+        "vi": "Diễn xuất ấn tượng",
+        "en": "Impressive acting",
+        "hi": "प्रभावशाली अभिनय"
+      },
+      {
+        "vi": "Nhân ái",
+        "en": "Compassionate",
+        "hi": "दयालु"
+      }
+    ]
+  },
+  {
+    "id": "kpop-char-005",
+    "category": "kpop",
+    "name": {
+      "vi": "Taeyeon (Kim Tae-yeon)",
+      "en": "Taeyeon (Kim Tae-yeon)",
+      "hi": "तेयोन (किम ते-योन)"
+    },
+    "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=500&auto=format&fit=crop&q=80",
+    "franchise": "Girls' Generation (SNSD)",
+    "biography": {
+      "vi": "Trưởng nhóm huyền thoại của nhóm nữ quốc dân SNSD, giọng ca vàng của K-Pop với kỹ thuật thanh nhạc đỉnh cao và sự nghiệp solo rực rỡ kéo dài qua nhiều thế hệ.",
+      "en": "Legendary leader of the nation's girl group SNSD, K-Pop's golden voice with top-tier vocal technique and a brilliant solo career spanning generations.",
+      "hi": "राष्ट्र के गर्ल ग्रुप एसएनएसडी की महान नेता, के-पॉप की सुनहरी आवाज़, जिसकी शीर्ष स्तरीय गायन तकनीक और शानदार एकल करियर कई पीढ़ियों तक फैला हुआ है।"
+    },
+    "traits": [
+      {
+        "vi": "Vocalist hàng đầu",
+        "en": "Top vocalist",
+        "hi": "शीर्ष गायिका"
+      },
+      {
+        "vi": "Giàu cảm xúc",
+        "en": "Deeply emotive",
+        "hi": "भावनात्मक रूप से गहरी"
+      },
+      {
+        "vi": "Nghệ sĩ bền bỉ",
+        "en": "Enduring artist",
+        "hi": "स्थायी कलाकार"
+      },
+      {
+        "vi": "Truyền cảm hứng",
+        "en": "Inspiring",
+        "hi": "प्रेरणादायक"
+      }
+    ]
+  },
+  {
+    "id": "kpop-char-006",
+    "category": "kpop",
+    "name": {
+      "vi": "Hanni",
+      "en": "Hanni",
+      "hi": "हन्नी"
+    },
+    "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=500&auto=format&fit=crop&q=80",
+    "franchise": "NewJeans",
+    "biography": {
+      "vi": "Thành viên gốc Việt tài năng của nhóm nhạc hiện tượng NewJeans, nổi tiếng với chất giọng mật ngọt, khả năng sáng tác và visual Y2K cuốn hút.",
+      "en": "Talented member of phenomenon group NewJeans, loved for honey-smooth vocals, lyricism, and iconic Y2K fashion.",
+      "hi": "न्यूजीन्स की प्रतिभाशाली सदस्य, अपनी मधुर आवाज और स्टाइल के लिए प्रसिद्ध।"
+    },
+    "traits": [
+      {
+        "vi": "Giọng ca ngọt ngào",
+        "en": "Honey Vocals",
+        "hi": "मधुर आवाज"
+      },
+      {
+        "vi": "Biểu tượng thời trang",
+        "en": "Fashion Icon",
+        "hi": "फैशन आइकन"
+      }
+    ]
+  },
+  {
+    "id": "kpop-char-007",
+    "category": "kpop",
+    "name": {
+      "vi": "Karina",
+      "en": "Karina",
+      "hi": "करीना"
+    },
+    "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=500&auto=format&fit=crop&q=80",
+    "franchise": "aespa",
+    "biography": {
+      "vi": "Trưởng nhóm quyền lực của aespa với tỷ lệ gương mặt hoàn hảo như nhân vật đồ họa CGI, vũ đạo sắc bén và khí chất dẫn đầu thế hệ mới.",
+      "en": "Charismatic leader of aespa known for unreal CGI-like proportions, sharp choreography, and commanding stage power.",
+      "hi": "एस्पा की करिश्माई लीडर, अपनी शानदार कोरियोग्राफी के लिए प्रसिद्ध।"
+    },
+    "traits": [
+      {
+        "vi": "Visual đồ họa",
+        "en": "CGI Visual",
+        "hi": "सीजीआई लुक"
+      },
+      {
+        "vi": "Trưởng nhóm",
+        "en": "Leader",
+        "hi": "लीडर"
+      }
+    ]
+  },
+  {
+    "id": "kpop-char-008",
+    "category": "kpop",
+    "name": {
+      "vi": "Jungkook",
+      "en": "Jungkook",
+      "hi": "जंगकुक"
+    },
+    "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=500&auto=format&fit=crop&q=80",
+    "franchise": "BTS",
+    "biography": {
+      "vi": "Em út vàng (Golden Maknae) của BTS, ca sĩ solo phá kỷ lục tỷ lượt nghe Spotify với bản hit Seven.",
+      "en": "BTS's Golden Maknae whose record-shattering solo debut 'Seven' made pop history worldwide.",
+      "hi": "बीटीएस का सबसे लोकप्रिय गायक और डांसर।"
+    },
+    "traits": [
+      {
+        "vi": "Giọng ca vàng",
+        "en": "Golden Vocals",
+        "hi": "स्वर्ण आवाज"
+      },
+      {
+        "vi": "Vũ đạo hoàn hảo",
+        "en": "Main Dancer",
+        "hi": "शानदार डांसर"
+      }
+    ]
+  },
+  {
+    "id": "kpop-char-010",
+    "category": "kpop",
+    "name": {
+      "vi": "Felix",
+      "en": "Felix",
+      "hi": "फेलिक्स"
+    },
+    "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=500&auto=format&fit=crop&q=80",
+    "franchise": "Stray Kids",
+    "biography": {
+      "vi": "Chàng trai người Úc gốc Hàn sở hữu chất giọng trầm ấm sâu thẳm (Deep Cave Voice) và visual cổ tích cuốn hút.",
+      "en": "Stray Kids sensation known for angelic freckles and his signature thunderous deep bass voice.",
+      "hi": "अपनी गहरी आवाज और शानदार डांस के लिए मशहूर आइडल।"
+    },
+    "traits": [
+      {
+        "vi": "Giọng trầm Deep Bass",
+        "en": "Cave Voice",
+        "hi": "गहरी आवाज"
+      },
+      {
+        "vi": "Visual thiên thần",
+        "en": "Angel Visual",
+        "hi": "परी जैसा चेहरा"
+      }
+    ]
+  },
+  {
+    "id": "kpop-char-011",
+    "category": "kpop",
+    "name": {
+      "vi": "Jang Wonyoung",
+      "en": "Jang Wonyoung",
+      "hi": "जांग वोनयॉन्ग"
+    },
+    "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=500&auto=format&fit=crop&q=80",
+    "franchise": "IVE",
+    "biography": {
+      "vi": "Center quốc dân của thế hệ Gen 4 với chiều cao ấn tượng, phong thái công chúa và tinh thần 'Lucky Vicky'.",
+      "en": "Gen 4's quintessential center revered for doll-like elegance and unshakeable positivity.",
+      "hi": "जेन 4 की सबसे लोकप्रिय राजकुमारी जैसी आइडल।"
+    },
+    "traits": [
+      {
+        "vi": "Center Quốc Dân",
+        "en": "Nation's Center",
+        "hi": "देश का सेंटर"
+      },
+      {
+        "vi": "Lucky Vicky",
+        "en": "Positive Mindset",
+        "hi": "सकारात्मक सोच"
+      }
+    ]
+  },
+  {
+    "id": "comics-char-001",
+    "category": "comics",
+    "name": {
+      "vi": "Bruce Wayne (Batman)",
+      "en": "Bruce Wayne (Batman)",
+      "hi": "ब्रूस वेन (बैटमैन)"
+    },
+    "image": "https://images.unsplash.com/photo-1509281373149-e957c6296406?w=500&auto=format&fit=crop&q=80",
+    "franchise": "DC Comics",
+    "biography": {
+      "vi": "Hiệp sĩ bóng đêm thành phố Gotham, dùng trí tuệ thiên tài, võ thuật đỉnh cao và kho vũ khí công nghệ cao để chống lại cái ác mà không cần siêu năng lực thần thánh.",
+      "en": "Gotham City's Dark Knight, who uses genius intellect, top-tier martial arts, and a high-tech arsenal to fight evil without any divine superpowers.",
+      "hi": "गोथम शहर का डार्क नाइट, जो बिना किसी दैवीय महाशक्ति के, अपनी प्रतिभाशाली बुद्धि, उत्कृष्ट मार्शल आर्ट्स और हाई-टेक शस्त्रागार से बुराई से लड़ता है।"
+    },
+    "traits": [
+      {
+        "vi": "Thám tử vĩ đại",
+        "en": "Great detective",
+        "hi": "महान जासूस"
+      },
+      {
+        "vi": "Ý chí phi thường",
+        "en": "Extraordinary willpower",
+        "hi": "असाधारण इच्छाशक्ति"
+      },
+      {
+        "vi": "Chiến lược gia vô song",
+        "en": "Unmatched strategist",
+        "hi": "अद्वितीय रणनीतिकार"
+      },
+      {
+        "vi": "Kỷ luật thép",
+        "en": "Iron discipline",
+        "hi": "लौह अनुशासन"
+      }
+    ]
+  },
+  {
+    "id": "comics-char-002",
+    "category": "comics",
+    "name": {
+      "vi": "Clark Kent (Superman)",
+      "en": "Clark Kent (Superman)",
+      "hi": "क्लार्क केंट (सुपरमैन)"
+    },
+    "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=500&auto=format&fit=crop&q=80",
+    "franchise": "DC Comics",
+    "biography": {
+      "vi": "Người con cuối cùng của hành tinh Krypton mang tên Kal-El, lớn lên dưới mặt trời vàng Trái Đất và trở thành biểu tượng tối cao của chân lý, công lý và hy vọng nhân loại.",
+      "en": "The last son of the planet Krypton, named Kal-El, who grew up under Earth's yellow sun and became the supreme symbol of truth, justice, and hope for humanity.",
+      "hi": "क्रिप्टन ग्रह का अंतिम पुत्र, जिसका नाम काल-एल है, जो पृथ्वी के पीले सूरज के नीचे बड़ा हुआ और सत्य, न्याय व मानवता की आशा का सर्वोच्च प्रतीक बना।"
+    },
+    "traits": [
+      {
+        "vi": "Bất tử",
+        "en": "Near-invulnerable",
+        "hi": "लगभग अमर"
+      },
+      {
+        "vi": "Sức mạnh vô song",
+        "en": "Unmatched strength",
+        "hi": "अद्वितीय शक्ति"
+      },
+      {
+        "vi": "Tia nhiệt quang",
+        "en": "Heat vision",
+        "hi": "हीट विज़न"
+      },
+      {
+        "vi": "Trái tim nhân hậu",
+        "en": "Kind heart",
+        "hi": "दयालु हृदय"
+      }
+    ]
+  },
+  {
+    "id": "comics-char-003",
+    "category": "comics",
+    "name": {
+      "vi": "Peter Parker (Spider-Man)",
+      "en": "Peter Parker (Spider-Man)",
+      "hi": "पीटर पार्कर (स्पाइडर-मैन)"
+    },
+    "image": "https://images.unsplash.com/photo-1604200213928-ba3cf4fc8436?w=500&auto=format&fit=crop&q=80",
+    "franchise": "Marvel Comics",
+    "biography": {
+      "vi": "Chàng sinh viên New York tốt bụng sở hữu giác quan nhện và kỹ năng bắn tơ, luôn khắc ghi bài học 'Quyền lực càng lớn thì trách nhiệm càng cao'.",
+      "en": "A kind-hearted New York student with spider-sense and web-shooting abilities, who always remembers the lesson 'With great power comes great responsibility.'",
+      "hi": "न्यूयॉर्क का एक दयालु छात्र जिसके पास स्पाइडर-सेंस और वेब-शूटिंग क्षमताएं हैं, जो हमेशा 'महान शक्ति के साथ महान जिम्मेदारी आती है' का पाठ याद रखता है।"
+    },
+    "traits": [
+      {
+        "vi": "Giác quan nhện",
+        "en": "Spider-sense",
+        "hi": "स्पाइडर-सेंस"
+      },
+      {
+        "vi": "Bắn tơ linh hoạt",
+        "en": "Agile web-slinging",
+        "hi": "फुर्तीली वेब-स्लिंगिंग"
+      },
+      {
+        "vi": "Hài hước",
+        "en": "Humorous",
+        "hi": "हास्यप्रिय"
+      },
+      {
+        "vi": "Trách nhiệm cao cả",
+        "en": "Strong sense of responsibility",
+        "hi": "उच्च जिम्मेदारी की भावना"
+      }
+    ]
+  },
+  {
+    "id": "comics-char-004",
+    "category": "comics",
+    "name": {
+      "vi": "Diana Prince (Wonder Woman)",
+      "en": "Diana Prince (Wonder Woman)",
+      "hi": "डायना प्रिंस (वंडर वुमन)"
+    },
+    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=500&auto=format&fit=crop&q=80",
+    "franchise": "DC Comics",
+    "biography": {
+      "vi": "Công chúa chiến binh Amazon đảo Themyscira, đại sứ hòa bình mang theo Dây Thòng Lọng Sự Thật và khiên giáo chiến trận bảo vệ bình đẳng và chính nghĩa.",
+      "en": "The Amazon warrior princess of the island of Themyscira, an ambassador of peace who carries the Lasso of Truth and shield to defend equality and justice.",
+      "hi": "थेमिस्किरा द्वीप की अमेज़न योद्धा राजकुमारी, शांति की दूत, जो लैसो ऑफ ट्रुथ और युद्ध कवच लेकर समानता और न्याय की रक्षा करती है।"
+    },
+    "traits": [
+      {
+        "vi": "Chiến binh bất khuất",
+        "en": "Unyielding warrior",
+        "hi": "अदम्य योद्धा"
+      },
+      {
+        "vi": "Dây thòng lọng sự thật",
+        "en": "Lasso of Truth",
+        "hi": "लैसो ऑफ ट्रुथ"
+      },
+      {
+        "vi": "Bình đẳng",
+        "en": "Equality",
+        "hi": "समानता"
+      },
+      {
+        "vi": "Sức mạnh thần thánh",
+        "en": "Divine strength",
+        "hi": "दैवीय शक्ति"
+      }
+    ]
+  },
+  {
+    "id": "comics-char-005",
+    "category": "comics",
+    "name": {
+      "vi": "Logan (Wolverine)",
+      "en": "Logan (Wolverine)",
+      "hi": "लोगान (वूल्वरिन)"
+    },
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=500&auto=format&fit=crop&q=80",
+    "franchise": "X-Men",
+    "biography": {
+      "vi": "Dị nhân mang khung xương hợp kim Adamantium bất hoại cùng móng vuốt sắc bén, sở hữu khả năng tự chữa lành siêu tốc và quá khứ bí ẩn đẫm máu.",
+      "en": "A mutant with an indestructible Adamantium skeleton and sharp claws, possessing rapid self-healing abilities and a mysterious, blood-soaked past.",
+      "hi": "एक म्यूटेंट जिसके पास अविनाशी एडामेंटियम कंकाल और तेज़ पंजे हैं, जो तेज़ी से खुद को ठीक करने की क्षमता और एक रहस्यमय, खून से सने अतीत को समेटे हुए है।"
+    },
+    "traits": [
+      {
+        "vi": "Móng vuốt Adamantium",
+        "en": "Adamantium claws",
+        "hi": "एडामेंटियम पंजे"
+      },
+      {
+        "vi": "Hồi phục tức thì",
+        "en": "Instant healing",
+        "hi": "तुरंत उपचार"
+      },
+      {
+        "vi": "Bản năng săn mồi",
+        "en": "Predatory instinct",
+        "hi": "शिकारी वृत्ति"
+      },
+      {
+        "vi": "Trực giác hoang dã",
+        "en": "Feral intuition",
+        "hi": "जंगली सहज ज्ञान"
+      }
+    ]
+  },
+  {
+    "id": "comics-char-006",
+    "category": "comics",
+    "name": {
+      "vi": "Wolverine (Logan)",
+      "en": "Wolverine (Logan)",
+      "hi": "वॉल्वरिन (लोगन)"
+    },
+    "image": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=500&auto=format&fit=crop&q=80",
+    "franchise": "X-Men",
+    "biography": {
+      "vi": "Dị nhân mang khung xương kim loại Adamantium bất hoại và móng vuốt sắc nhọn, sở hữu khả năng hồi phục siêu phàm và bản năng dã thú.",
+      "en": "A mutant with an indestructible Adamantium skeleton and razor claws, endowed with a legendary healing factor and feral instincts.",
+      "hi": "अविनाशी एडामेंटियम कंकाल और तेज पंजों वाला म्यूटेंट योद्धा।"
+    },
+    "traits": [
+      {
+        "vi": "Móng vuốt Adamantium",
+        "en": "Adamantium Claws",
+        "hi": "एडामेंटियम पंजे"
+      },
+      {
+        "vi": "Hồi phục vết thương",
+        "en": "Healing Factor",
+        "hi": "हीलिंग पावर"
+      }
+    ]
+  },
+  {
+    "id": "comics-char-007",
+    "category": "comics",
+    "name": {
+      "vi": "The Joker",
+      "en": "The Joker",
+      "hi": "द जोकर"
+    },
+    "image": "https://images.unsplash.com/photo-1563089145-599997674d42?w=500&auto=format&fit=crop&q=80",
+    "franchise": "Batman",
+    "biography": {
+      "vi": "Hoàng Tử Tội Phạm Gotham với nụ cười ma quái vĩnh cửu, kẻ thù truyền kiếp đại diện cho sự hỗn loạn tuyệt đối đối đầu Batman.",
+      "en": "The Clown Prince of Crime in Gotham, a theatrical psychopathic mastermind representing pure chaos opposite Batman.",
+      "hi": "गोथम का सबसे कुख्यात विलेन और अराजकता का प्रतीक।"
+    },
+    "traits": [
+      {
+        "vi": "Thiên tài hỗn loạn",
+        "en": "Master of Chaos",
+        "hi": "अराजकता का मास्टर"
+      },
+      {
+        "vi": "Khó lường",
+        "en": "Unpredictable",
+        "hi": "अप्रत्याशित"
+      }
+    ]
+  },
+  {
+    "id": "comics-char-008",
+    "category": "comics",
+    "name": {
+      "vi": "Peter Parker (Spider-Man)",
+      "en": "Spider-Man",
+      "hi": "स्पाइडर-मैन"
+    },
+    "image": "https://images.unsplash.com/photo-1635805737707-575885ab0820?w=500&auto=format&fit=crop&q=80",
+    "franchise": "Marvel Comics",
+    "biography": {
+      "vi": "Người Nhện thân thiện của khu phố mang giác quan nhện Spider-Sense và bài học 'Sức mạnh càng lớn, trách nhiệm càng cao'.",
+      "en": "With great power comes great responsibility: Brooklyn's webslinger swinging across Manhattan.",
+      "hi": "दुनिया का सबसे चहेता सुपरहीरो स्पाइडर-मैन।"
+    },
+    "traits": [
+      {
+        "vi": "Bắn tơ nhện",
+        "en": "Web Shooting",
+        "hi": "जाला फेंकना"
+      },
+      {
+        "vi": "Giác quan nhện",
+        "en": "Spider-Sense",
+        "hi": "स्पाइडर-सेंस"
+      }
+    ]
+  },
+  {
+    "id": "comics-char-009",
+    "category": "comics",
+    "name": {
+      "vi": "Clark Kent (Superman)",
+      "en": "Superman",
+      "hi": "सुपरमैन"
+    },
+    "image": "https://images.unsplash.com/photo-1563089145-599997674d42?w=500&auto=format&fit=crop&q=80",
+    "franchise": "DC Comics",
+    "biography": {
+      "vi": "Người Đàn Ông Thép đến từ hành tinh Krypton, biểu tượng bất diệt của công lý và hy vọng dưới ánh mặt trời vàng.",
+      "en": "The Last Son of Krypton soaring the skies as Earth's beacon of absolute truth and justice.",
+      "hi": "क्रिप्टन का बेटा और दुनिया का सबसे शक्तिशाली रक्षक।"
+    },
+    "traits": [
+      {
+        "vi": "Bay lượn siêu thanh",
+        "en": "Supersonic Flight",
+        "hi": "उड़ान"
+      },
+      {
+        "vi": "Thị giác nhiệt Laser",
+        "en": "Heat Vision",
+        "hi": "लेजर दृष्टि"
+      }
+    ]
+  },
+  {
+    "id": "comics-char-010",
+    "category": "comics",
+    "name": {
+      "vi": "Diana Prince (Wonder Woman)",
+      "en": "Wonder Woman",
+      "hi": "वंडर वुमन"
+    },
+    "image": "https://images.unsplash.com/photo-1635805737707-575885ab0820?w=500&auto=format&fit=crop&q=80",
+    "franchise": "DC Comics",
+    "biography": {
+      "vi": "Công chúa người Amazon của đảo Themyscira mang Thòng Lọng Sự Thật Lasso of Truth và vòng tay hộ thể bất hoại.",
+      "en": "Amazonian warrior princess championing peace and truth with the Lasso of Truth.",
+      "hi": "अमेजन की योद्धा राजकुमारी और न्याय की देवी।"
+    },
+    "traits": [
+      {
+        "vi": "Thòng lọng sự thật",
+        "en": "Lasso of Truth",
+        "hi": "सत्य का फंदा"
+      },
+      {
+        "vi": "Vòng tay hộ thân",
+        "en": "Bracelets of Submission",
+        "hi": "कवच कंगन"
+      }
+    ]
+  },
+  {
+    "id": "manga-char-001",
+    "category": "manga",
+    "name": {
+      "vi": "Roronoa Zoro",
+      "en": "Roronoa Zoro",
+      "hi": "रोरोनोआ ज़ोरो"
+    },
+    "image": "/image/zoro.jpg",
+    "franchise": "One Piece (Manga)",
+    "biography": {
+      "vi": "Kiếm sĩ Tam Kiếm Phái của băng Mũ Rơm, mang lời thề trở thành Đệ Nhất Kiếm Sĩ thế giới và luôn là chỗ dựa vững chắc nhất cho đồng đội trong mọi nghịch cảnh.",
+      "en": "The Three-Sword Style swordsman of the Straw Hat crew, who swore to become the world's greatest swordsman and is always the crew's most reliable pillar in every hardship.",
+      "hi": "स्ट्रॉ हैट क्रू का थ्री-स्वोर्ड स्टाइल तलवारबाज़, जिसने दुनिया का सबसे महान तलवारबाज़ बनने की कसम खाई है और हर विपत्ति में क्रू का सबसे भरोसेमंद स्तंभ है।"
+    },
+    "traits": [
+      {
+        "vi": "Tam Kiếm Phái",
+        "en": "Three-Sword Style",
+        "hi": "थ्री-स्वोर्ड स्टाइल"
+      },
+      {
+        "vi": "Ý chí thép",
+        "en": "Iron will",
+        "hi": "लौह इच्छाशक्ति"
+      },
+      {
+        "vi": "Mù phương hướng",
+        "en": "No sense of direction",
+        "hi": "दिशा का कोई भान नहीं"
+      },
+      {
+        "vi": "Trung thành tuyệt đối",
+        "en": "Absolute loyalty",
+        "hi": "पूर्ण वफादारी"
+      }
+    ]
+  },
+  {
+    "id": "manga-char-002",
+    "category": "manga",
+    "name": {
+      "vi": "Saitama",
+      "en": "Saitama",
+      "hi": "सैतामा"
+    },
+    "image": "/image/saitama.jpg",
+    "franchise": "One-Punch Man",
+    "biography": {
+      "vi": "Anh hùng làm việc vì sở thích, đạt được sức mạnh tối thượng có thể hạ gục mọi quái vật chỉ bằng một cú đấm sau chế độ tập luyện 100 cái hít đất mỗi ngày.",
+      "en": "A hero who does it for fun, having attained ultimate power that can defeat any monster with a single punch after a training routine of 100 push-ups a day.",
+      "hi": "एक हीरो जो शौक के लिए यह काम करता है, जिसने रोज़ाना 100 पुश-अप्स के प्रशिक्षण के बाद ऐसी परम शक्ति हासिल की है जो किसी भी राक्षस को एक ही घूंसे में हरा सकती है।"
+    },
+    "traits": [
+      {
+        "vi": "Sức mạnh vô hạn",
+        "en": "Limitless strength",
+        "hi": "असीमित शक्ति"
+      },
+      {
+        "vi": "Một đấm tất sát",
+        "en": "One-punch kill",
+        "hi": "एक घूंसे में खात्मा"
+      },
+      {
+        "vi": "Bình thản",
+        "en": "Unfazed",
+        "hi": "अविचलित"
+      },
+      {
+        "vi": "Săn đồ giảm giá",
+        "en": "Bargain hunter",
+        "hi": "सेल का शिकारी"
+      }
+    ]
+  },
+  {
+    "id": "manga-char-003",
+    "category": "manga",
+    "name": {
+      "vi": "Ken Kaneki",
+      "en": "Ken Kaneki",
+      "hi": "केन कानेकी"
+    },
+    "image": "/image/kentaki.jpg",
+    "franchise": "Tokyo Ghoul",
+    "biography": {
+      "vi": "Sinh viên đại học bình thường vô tình bị biến thành Ngạ Quỷ Bán Nhân Bán Quỷ, đấu tranh trong giằng xé nội tâm để tìm kiếm sự hòa hợp giữa hai giống loài.",
+      "en": "An ordinary college student accidentally turned into a half-human, half-ghoul hybrid, struggling with inner turmoil to find harmony between the two species.",
+      "hi": "एक साधारण कॉलेज छात्र जो दुर्घटनावश आधा-इंसान आधा-घूल में बदल जाता है, और दोनों प्रजातियों के बीच सामंजस्य खोजने के लिए आंतरिक उथल-पुथल से जूझता है।"
+    },
+    "traits": [
+      {
+        "vi": "Mắt chột Kagune",
+        "en": "Kagune eye",
+        "hi": "कागुने आंख"
+      },
+      {
+        "vi": "Tâm lý phức tạp",
+        "en": "Complex psyche",
+        "hi": "जटिल मनोविज्ञान"
+      },
+      {
+        "vi": "Mạnh mẽ sau bi kịch",
+        "en": "Strengthened by tragedy",
+        "hi": "त्रासदी से मजबूत हुआ"
+      },
+      {
+        "vi": "Tóc trắng",
+        "en": "White hair",
+        "hi": "सफेद बाल"
+      }
+    ]
+  },
+  {
+    "id": "manga-char-004",
+    "category": "manga",
+    "name": {
+      "vi": "Light Yagami (Kira)",
+      "en": "Light Yagami (Kira)",
+      "hi": "लाइट यागामी (किरा)"
+    },
+    "image": "/image/yagami.jpg",
+    "franchise": "Death Note",
+    "biography": {
+      "vi": "Học sinh thiên tài nhặt được cuốn sổ tử thần Death Note, bắt đầu kế hoạch thanh lọc tội phạm để xây dựng một thế giới mới không tội ác nơi cậu làm Chúa tể.",
+      "en": "A genius student who picks up the Death Note and begins a plan to purge criminals in order to build a new, crime-free world where he rules as its god.",
+      "hi": "एक प्रतिभाशाली छात्र जिसे डेथ नोट मिलता है, और वह अपराधियों को खत्म करके एक ऐसी नई अपराध-मुक्त दुनिया बनाने की योजना बनाता है, जिसमें वह खुद भगवान बनकर राज करे।"
+    },
+    "traits": [
+      {
+        "vi": "Trí tuệ thiên tài",
+        "en": "Genius intellect",
+        "hi": "प्रतिभाशाली बुद्धि"
+      },
+      {
+        "vi": "Mưu đồ thâm sâu",
+        "en": "Deep scheming",
+        "hi": "गहरी साजिश"
+      },
+      {
+        "vi": "Cuốn sổ tử thần",
+        "en": "Death Note",
+        "hi": "डेथ नोट"
+      },
+      {
+        "vi": "Tâm lý học tội phạm",
+        "en": "Criminal psychology",
+        "hi": "अपराध मनोविज्ञान"
+      }
+    ]
+  },
+  {
+    "id": "manga-char-005",
+    "category": "manga",
+    "name": {
+      "vi": "Edward Elric",
+      "en": "Edward Elric",
+      "hi": "एडवर्ड एल्रिक"
+    },
+    "image": "/image/eward.jpg",
+    "franchise": "Fullmetal Alchemist",
+    "biography": {
+      "vi": "Giả kim thuật sư trẻ tuổi nhất lịch sử quốc gia Amestris, dấn thân vào hành trình tìm kiếm Hòn Đá Triết Gia để khôi phục lại cơ thể cho người em trai Alphonse.",
+      "en": "The youngest alchemist in the history of the nation of Amestris, who embarks on a journey to find the Philosopher's Stone to restore his brother Alphonse's body.",
+      "hi": "अमेस्ट्रिस राष्ट्र के इतिहास का सबसे युवा कीमियागर, जो अपने भाई अल्फोंस के शरीर को वापस पाने के लिए फिलॉसफर्स स्टोन खोजने की यात्रा पर निकलता है।"
+    },
+    "traits": [
+      {
+        "vi": "Thuật chuyển hóa không ấn",
+        "en": "Alchemy without a transmutation circle",
+        "hi": "बिना ट्रांसम्यूटेशन सर्कल के कीमिया"
+      },
+      {
+        "vi": "Cánh tay Automail",
+        "en": "Automail arm",
+        "hi": "ऑटोमेल भुजा"
+      },
+      {
+        "vi": "Nhiệt huyết",
+        "en": "Passionate",
+        "hi": "जोशीला"
+      },
+      {
+        "vi": "Yêu thương em trai",
+        "en": "Devoted brother",
+        "hi": "समर्पित भाई"
+      }
+    ]
+  },
+  {
+    "id": "manga-char-006",
+    "category": "manga",
+    "name": {
+      "vi": "Guts",
+      "en": "Guts",
+      "hi": "Guts"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQftlxIRd4oKooNBK8EjidENxWio3Fw2dXG8BN4udNpRQ&s=10",
+    "franchise": "Berserk",
+    "biography": {
+      "vi": "Kiếm sĩ Đen vác thanh đại đao Dragon Slayer khổng lồ, chiến đấu không ngừng nghỉ chống lại định mệnh nghiệt ngã và bầy ác quỷ Tông Tộc.",
+      "en": "The Black Swordsman wielding the massive Dragon Slayer sword, defying brutal fate and demonic apostles in an unrelenting war.",
+      "hi": "The Black Swordsman wielding the massive Dragon Slayer sword, defying brutal fate and demonic apostles in an unrelenting war."
+    },
+    "traits": [
+      "Đại kiếm Dragon Slayer",
+      "Ý chí bất khuất",
+      "Giáp Berserker"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQftlxIRd4oKooNBK8EjidENxWio3Fw2dXG8BN4udNpRQ&s=10"
+  },
+  {
+    "id": "manga-char-007",
+    "category": "manga",
+    "name": {
+      "vi": "Thorfinn Karlsefni",
+      "en": "Thorfinn Karlsefni",
+      "hi": "Thorfinn Karlsefni"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOK4WKB6rpGvl6qbaq9yOW7pbUHa_a5ZDJ0kgda0DgCg&s=10",
+    "franchise": "Vinland Saga",
+    "biography": {
+      "vi": "Chiến binh Viking từng chìm trong hận thù, lột xác thành con người chuộng hòa bình với lý tưởng tìm kiếm vùng đất tự do Vinland không chiến tranh.",
+      "en": "A Viking warrior who once walked the path of blood, transforming into a steadfast pacifist seeking the land of peace: Vinland.",
+      "hi": "A Viking warrior who once walked the path of blood, transforming into a steadfast pacifist seeking the land of peace: Vinland."
+    },
+    "traits": [
+      "Song dao tốc độ",
+      "Chiến binh hòa bình"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOK4WKB6rpGvl6qbaq9yOW7pbUHa_a5ZDJ0kgda0DgCg&s=10"
+  },
+  {
+    "id": "manga-char-008",
+    "category": "manga",
+    "name": {
+      "vi": "Miyamoto Musashi",
+      "en": "Miyamoto Musashi",
+      "hi": "Miyamoto Musashi"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScvGE89KN5fMaDRyy4loba2T6OcOJ6lABn2SXlUSq9yg&s=10",
+    "franchise": "Vagabond",
+    "biography": {
+      "vi": "Huyền thoại kiếm sĩ Nhật Bản trên con đường ngộ đạo kiếm thuật, từ dã thú khát máu trở thành thiền sư bình thản.",
+      "en": "Historical sword saint on a journey from feral bloodlust to Zen philosophical self-discovery.",
+      "hi": "Historical sword saint on a journey from feral bloodlust to Zen philosophical self-discovery."
+    },
+    "traits": [
+      "Nhị Thiên Nhất Lưu",
+      "Kiếm Đạo Thiền"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScvGE89KN5fMaDRyy4loba2T6OcOJ6lABn2SXlUSq9yg&s=10"
+  },
+  {
+    "id": "manga-char-009",
+    "category": "manga",
+    "name": {
+      "vi": "Killua Zoldyck",
+      "en": "Killua Zoldyck",
+      "hi": "Killua Zoldyck"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Q9wdV7eP-NUi1YsQNuvDtrDRuSZQlpNIk2J1amWYHQ&s",
+    "franchise": "Hunter x Hunter",
+    "biography": {
+      "vi": "Thiên tài nhí gia tộc sát thủ Zoldyck có khả năng biến đổi Niệm thành dòng điện chớp nhoáng Godspeed.",
+      "en": "Prodigy assassin of the Zoldyck clan transforming transmutation Nen into lightning-fast Godspeed.",
+      "hi": "Prodigy assassin of the Zoldyck clan transforming transmutation Nen into lightning-fast Godspeed."
+    },
+    "traits": [
+      "Tốc độ thần thánh Godspeed",
+      "Móng vuốt sát thủ"
+    ],
+    "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Q9wdV7eP-NUi1YsQNuvDtrDRuSZQlpNIk2J1amWYHQ&s"
+  },
+  {
+    "id": "manga-char-010",
+    "category": "manga",
+    "name": {
+      "vi": "Taro Sakamoto",
+      "en": "Taro Sakamoto",
+      "hi": "Taro Sakamoto"
+    },
+    "image": "data:image/jpeg;base64,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",
+    "franchise": "Sakamoto Days",
+    "biography": {
+      "vi": "Sát thủ huyền thoại giải nghệ mở tiệm tạp hóa gia đình, luôn giữ lời thề không bao giờ sát sinh trước mặt vợ con.",
+      "en": "Retired legendary assassin who runs a friendly convenience store while fending off hitmen without killing.",
+      "hi": "Retired legendary assassin who runs a friendly convenience store while fending off hitmen without killing."
+    },
+    "traits": [
+      "Phản xạ thần sầu",
+      "Không giết người"
+    ],
+    "avatarUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk8BDg4OExETJhUVJk81LTVPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT//AABEIAKQA9gMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAADAAIEBQYBB//EAEMQAAEDAgQCBwUFBgUEAwEAAAEAAgMEEQUSITFBUQYTImFxgbEUMnKRoSMzUsHRJDRCYuHwFTWSorJTgsLxRGOTQ//EABkBAAIDAQAAAAAAAAAAAAAAAAECAAMEBf/EACURAAICAQQBBAMBAAAAAAAAAAABAhEDBBIhMTIUIkFREzNhI//aAAwDAQACEQMRAD8A0tL2qeF38g9FLI7KFTRZaGAW1AtfwNkcNJAsEfgxNcnAOwhWUgRkCzha6C9uVxHBFEaGFdbuuWukNFADnbJ0dtNOKYdkCpn9npnyABzm6tBPFRhSt0BxqshbG+nduG9ptvevsFj6sPfAXWJHE2VlPM7EKgSAWAH/ALTnsa2EsA8lS2dHFj4A4VCZ6VpddrQB5q8a1sbcjBYWus1T1lXGx8bBZrTpqP0Xf8Srud/MfohywNUzRONnDwT4XZSbi4sqKkfjGIy9VRxueRbM64DW+Jt9FqKPBwBeerlqpGjtw36oD5aoqLAQzNdp0I4arjSSb2Kujh+GgskbRwOjzZJGyRhxaTsTfXc/W6L7HQiASuw+lbIHBpAib71wPzR2kKB2oHdquvGhVpWYLHUvl9knfSlmhy2LCfA7eSyVd/i1JUdU+0lxdkjHAteNrhCiFr2R4pA6rOOrMVvqx9/EJNrcTNuw8fJAho+duC0eE64dEfi9SvPRV4rn914BHEhbro4978CgdISX3eDf4igQsCO1omO5pzzyNiNUEvJNigQeDfVJ2l7IWa+h2XS4W0UCRax32rPD81C0zS6cQFKrD9s34fzUYavfyNk0QFdDrRyn+ZyAN0WmP7POOT3IPFWCTCLqlYdTtqJHiQGzRwKSFi7Wy8o256UsB9yV4/3FWMLGhm2qrcIdmFQOUt/mAVaNGncmAkrsdka4WcAoMlI4yEN2Ukm7rAkIhIta6iC0n2VUkDoxdyEQpc8UmawcXjmoxB2tqmM7jQJ2g8FkMdxH2mrbDSzOIcwtyjbffxV5j+JCipHNifGJjbsu3sf1WVpYnB/tEv30h2PAH9VXORo0+G3Za0bBHTNA3tquvOpBTaN14rHgUpPvLKqzoVRWtOWQgolFSTV1XHSQtvJI4jXYDck+SFKcsh7itH0Qpw2eor3SMZZpjYLXdwc4j5BMjNLs0VJStwfD4qdlQA0ENFotXPPHfUpzpZ5m9qm7bHWZJmyEDS5HEeHHiu095WiokLi5wBaHCxYOXceaMo5jKH2R5BUOBzRRuJBY8tdbO2x3Ft/6rglqQRmps2oeRnGrgPS+vkpPBJLvYdiIj3uygOpXiNp2IDxzLiAdTfnsi1NLT19HlfUB5drE52UdW7usPmjeHDuUaod7GDVRNaG6Ga/Ec+Oo0TKd8AcDGaAHNlDmdk63sQbEfMIee17EWA4qx6QwZMXqC+BkZkYH20NzYgkfIKrMbe0A1o1I28VGIGdINw8X1495WywI3wqMDm//AJFY1rGnS2xK2WA2OFQn4vUoEJEtx4oIOpB3UqYXGnNRQO0gAdbRMv8A0TtdU0gg2UCRKw/as+E+qAw6v7nW+iLWffM+E+qBDq6XxCZEK6AgRTDm5yEb5kWL7iY/zuTDqdE5XMtsC1km8AklgDS+eYD8I9UkoY9B8DqYnzztY+5IafkLK8bJpuqejOWZ9ngNAylgHHmpzH8yraKt1Ml3B3TZNNboHXNbzKd7RnFgy6BNyZwVLGtsTr4KFW1UEFO+eVoaxo1cphpcwzusL8AsR0lrn1lc3DaR5axusjhYhwQbokYuToq5ZpMTrX1VSQ6OM2BAtn1RCS43G5QppoY8sEQOSPTQHdEgqIGxPLy/MdhkKpds6WNRiqskUhyve2++qLPplKg09Q3r72fZw/AVKqJQWA5X/wCkqJMjlH7K+r97TxWmwcsZg0UIcWy1crQGx2zkZr3cTws0i3j5Z4009Y4spoXySBpc4NGwHFXXRV0Zkp3S5Gtjje5uY657gX+RdonXRnfZsS4BpJOyrn1lW83hgbGzgZSA5w8CRZSn1Ebi2KGaMzSuysAN+8nyAJ8lMbBDC3KyO73bl2pPeSljGxpSog0UlRJEfaWNa/hl4hGlkbFC6R/utFygTujoZGvBywSOyloGz+Fh37JsM8OI1L6aJ7gxgzSmxBGugHLjrw+oG13QdyqyLBV4pLH1zaWwJvkc0aDxzX87eSlwVEdfFJC+JzHWySRvFtCPQqZJRUjWWbC1pH8Q0I897qvdXxUcr4Kx5u0BwkLdC3vI0B3RcaFU0yjxiaWpNMZ3xvf1BBc0WOYGzgfAgqtym503JRqwtfiMn2gF3yWLdBq420Kj5NRaR5FxxtyRYg+HU25/TZbDA/8AJafnr/yKxcUeou5x2/iPILZYFYYPABsMw/3FBkLGxLToo5jIepbCC2xQJD2yBzSgOCMpOj7OyM3juuObpuoEpsQGWoZ8J9UCm+8k8VKxQDr4/hPqolP70h7wniAr4R+z1HxuQxsESPWGY83OQWmxTiTLro6/JUzaX7A9Uk3o9c1M1j/APVJKRdBaNlQ2V7pjEWn8BO6mtKj07PvPi/II9lcZX2PBaTqbIxsBo5RbHgmzzNggfLKcrWC5KAUyL0hxk4fQ9XD+8S6MA4d6wwlbBI2laQaic3kcP4Qi4tiRllfWS6uOkMfIKmw5xkxKOR+riSSfJV9s2x9sf6Xg7JDWiw5IwJsUE++jDYjbTcpik7FJ22ae6rSKIzvjiH8TgPBU0NyXG/u2WjwRnWVGYbMbc+KDYURcOgLaKrljlDR7RZz72uANPqb2U/DKKCrlnkmicY3NY5u7RmIOb6qroHF81ZhwteV/WRX2L2nVvmB9Fo8GdI6iHWZhlORrXCxAGipbaNSSaQ/2CCGWKpp4vtoXZm6nUWII/wBJNu9TvaYXN7ErdfeJNimrjo2ON3MaT3hFToEoWV1e04jNTwsYXUzX55X8DoQAO+5T6OGLDMQ+zYWQVDMrpCbhjgdL+IO/cpkj2AFhkDDtoRpewH1I+agU9PPTvjnqa/radzbNBv27jS4P9+CNu7JSqi1kkaQHXswagkqvdSU1dK+aenbIwjKzOL3CPFFSyMEkcbC0m9wNEcKSnYIwMvVQxw9JOrjZFG2RrO06xFiTmGvO2/eqws6suZf7t5Zr3G35K7xsXxFgeQ2MxZnm3utHvH5Gw77LPuna7NI4jM9znuBN7Ekkj8kFySdD2uynbay1mBf5VHyzyf8ANyyHXNs7tDS/5rXYNYYRCRsXPOvxFEQs2OPAaLmjrm226G6QZTbgqvEKiWOJjWzdX1l7vPAdyDDGLk6RcuqYYrMdI3NyumCodJKG5WtB+ayUVRTxy5rPnkDiWutfN2bce9XeBPfLDB1ly5uZpJ7kE7Hni2odiotOy/4D6qJSi7pbcCPRTMZFqiPX+D81Gw+xNR8Q9FZEqKqE2p5hye5BvqLokX3NR8TkE8Ewky66OfvU9vwD1SS6Ma1U/wAA9UkrIui0gAEkzS3+IIhYL6aBNjH7VMOYBRi1WFDRxrWDXiq/pFLRxYVLLWN7Ddct7ZjwCsQBxWa6V4LieM1MbKd8QpI25rF9iX8z9FBonnVXUOqp3TO0zbNGzRyRMNOWtjdyv6LQjoLiZ36rf/qD9ECo6N1ODyxPqJYSXHRjX3PjsgXNhB2teCUkoawlzsrWjfmhPlsMrR2iqmuqHveI79lnLiihEi9o5BIwvGzwD9FqMABEL3/iIHkslhh/ZI/gHotTTVLaShbHGwzPa3MWt0t4nh6qubS7Hgm2ZusdlqahwJBDyQQbEG62XR1zjg9OZC4vy3JduT3qHSYMyJklXUhr6h4LgBq2O/Ln4qXgLj7AGHdji0/NVtmmMa7LULqaFySWOJuaV7WDmTZKEDJSCR5cX2Oa404XB/8AEIs8ImoRTg5S1lmnvy2/NC9pbI7q4c4JBIeWaaakWJufkuU7pZM5dM85JMlurABHdoj+SuBGkFp4jDHkLgbW2GmwRUlxQdFB0lzB9Ob2a4ODhztqFSS27Vr8fUrU4g2OpqY6R9yHxuJtuNrELK1LZI5nwzjLI1xFxs4d3kb+aKkiuaYwi7rW5/mtXhH+Vxa31d6lZJrryabf+lqsHfbC4Rzv6lMITNbk20tuqDEmwuqj18jw1gjs0O4G9zZXziADmJ8iqfF8PkqGwzxMLiBlda5JHDQeKWXRbhaUuSubVRwm8MWoAsTfcPJ38LD+9dHgeZzGSOAaZS6TTbVUP+HNhe32yaOMEdoOeA4b7AXvsr7Cp6XNBBBURuIj0beziANTZLEszuLXB3GdZ4fgPqgYYNZ/iHoj4z+8R2/CfVR8PPanB5j0VsTKU0X3U/xv9UI6IsX3FR8bkApyuZedFTesqG//AFg/VdQujErYqyZziBeO2vikgFdF8GgV5A4x+hRy1RYi6TFHPD+yG5cpCnkJhXEDlXMqNlSyjmoCgBB4LzvFZKiXE3OqZGucSRYEEWHK2y9JIDRmcbNGpN9lganD5qjF530gHs/WEiRztHX5c1XOaj2PGLfSM1iUjoiWN7JI1P5KGWOlkGQEiw7R22W4j6PUhd1lV9vIRpm0aPJZnJlJHI2slx545bUQZoyxJE/o3T+0VPUVNnsZESGjQEggfmtVSwtZA+FrQAHOAA+izOAPezFW5Gk5onA2FyNjf6LQBznThjGucZdnXJbm0FjYWGmu/ArHqIyll7NGmkvx2To6h0lKzKY2RhuV0j9RcDXS4QaCklhc8Q1Dmh/as9tidLXH9lSRTskMdgPZodhwe7n4BRJZKnEanqqOQxRNPbltsO7vP0HlfQuEWhKkigayZ9YSbZSwn3zwsAmUlLVyRAyBwfxdbJa/DMe18hbvUmKnFGC6OWLOBfPIO15m6NQ1b6nrCYwGtIAeNnHjxKIDkFBHTSGcZTKWkXtrr3nVSWta1gIFsxBJXXDNY9+i5ILNsOBVEuyUEuuE6Xum3KqsXxARs9nhIdI7TRXDJDKOb2vG5pRqyNmQfP8Av5pVUMdaZTIOy82aQNRbYjzuh0DDBS5Wn7SY3zd3Eo87iyE5B2j2WeJWTU5Kaih0jLT/ALA6P2p7A2UkseBYEAga8tAD5rUYM9rsJhc03HasfMqi6TxtbBSNAsASB4WUDCsYnwwCI3lptzH+Hvb+i14JOeNNmHLNQyOJt73Fz8gsu3E6uvjlc+TqYYJMmWI2OxNzr/KPmr+mr4agNMTjdwuGvaWkjuvv5LziYkzvG/bNgPFWJplkVyXk1VRRua6N+YF+V4kPaboCSct9ASR3qX0anppuk8TqaPJ9nJn037IF/ofmqGDC8SqBeChqHN/FkLR8zZaLovgWJUeLR1VTC2KMNcCDICdR3KDOqNHi+s0QH4fzUai9+bxHopGKEGeMW/8A5/motG7K+ccMw9E0SsqYtIJ7/jcguRodaeo+NyAU5VMG6x3v5JJ3mkoVm8p2U7KqQsa0AtFrKXoRcFQmRFszxbgEUFw2TFm4K59thdDkqo44XSvOVrV0Z3aAKlnl9pqMwN4ozZnJx4uVGfKsULY+OLnIZWS1FXdz9hq2H+H+pXI3NfG1zT2SNO5EtpZCh0lnZ/PnHgR+uZcWU5ZOZG9RUeEPAAssNVMyVk7eDZHD6rdEcFjsYZ1eMVQ2DnBwHiAfW606F+5oya1XBMZhWU4lA12jXHL43C2NNFYmaxeXZmNL7kAXA8AST8gsNG57Zo3RfeBwyeN9F6M5gjZSwbXeL/8AaC71C2yh79xXpZe1oHWxySQRxMc1nWENJ7u4Jsg6iNlFQj7Qi7n8GD8RPM8ApAGesc5pHYAadNr6n/x+Sj11aYqadzGuD4wCSeBJ9eKhqQColoqENppI+vkdq5rgHF3Mm6hsqhDLnhiEUIBtGNtxrp4IrKCHJmkBdM8XfJcgkpj8PN7snI7ni/1WdaqN0WbSXSYkKkyNFiRY6ctifJTzNei64ts4MLiO4KlosPmjr4ZbRiztS0nbjp4XVs3rJXz9YAGWytAPDn9VHOL5QjXJWVGIySMIp7Dhc8lDhiDXkuLnEkZncTyAUp1BODlzMAtpa5R4adkOvvO4E8FMmojEsS4OxMLRd1s50sNQByCjMm9qxItYfsqcbjYvP6a/VcxOsMMLmMNj/E4fw+Hen4bT+zUga4APd2nAcOQ8gsTb5kwlZ0p+6pfjPos9ZaHpT91S/GT9Fnl09J+pHJ1f7WarBWMmwSma9twwFo/7XED0U2naaJ144mvjvfRoDh58fNROj3+TRfE//mVZWXPllljyOmdKEVKCsmQ1LKiMuidnANjzB5EcCiB17b6GxVTLEM/XNc5kjR77d7b2PMdxUqhq+te2OcAS5bgjZ45jv5hbcWdZO+ymeNx5G4oPt4+9lvqotLpJN4j0UrEf3hnHs/mokB7cve78lrgVlbCB7NP8bkA7aI0P7tP8b0A6JyqfYxdXEkSs9JaB1zzbgE8gcghh9nuJHJOc647JspZcQcZlMVF1bNHTO6u44A7/AEVTdkcZLrNa0a9ynY88CKne9waBJqT4Kta10zg94ysabtYePeVyde25pPo2YF7Qw1aD5oJ7NaOUkdvMG49SjE3JOyBMCQHM99hzN7+7zWNdlodZnpPFlxCGb/qxZfNpv/5fRaSN7ZY2yM2cLhV2OUMteyCGmAdO2TMG32aQQSe79FdpnWVFWohuxtFL0epvaMbpmuHYYS8+WvrZegFoLg4gEjYqswbBabC2B4tJVObldKeXEDu0CsyV1ZOyjBDZGmNsBw3VPjTQKcQtcc08wBIHPT81buKo6uYVeLQsjN2Rdp3l/W3yKqyPbFs0RQe8zdi2QX46JwmI+8ikb5Zh9E6910brkXbLSRRua8PLdSBaxaRv4ogexhF3NGu3Ncp3aZbor7gAt1K1wqil9kapLcxDWucW6XAUV3WOHZGQczupvWHXMLpSsDoi5oAKrlFPlDp0UrqdktU2O32UBzO7zuB+an3XGxiJmUaniTuTzXVTIcz3Sl3bpmdzz6Kh7lc9Jzespxyjd9SP0VMuvpVWJHH1TvKzW9HxbBoe8vP+4qyUDBBbBqXvZf5klT1ycvmzq4/BDZdIXk/hKFIOrZFLa5hIdpvoNfpdOqjaB3fYfVEc0bcFIvbTGfKo5WuDpWOabgsuPBR4ffl8fyTY37Qm94bt8r3H008l2O/WTeI9F28btJowyVOith/dp/jcozipUIHs0/xOUV4VpVPsZddTSkiVnpI1Fzrdd90XJ0Gq5l/mQawFtFUEF1xE/wBCgXFKZZK3LPUG495kfBl/U96eoXtbYKeNuXNI5vYYTbThdRi+ukBf7TIxu56uNmUfME/VcX8eTM3I6CqK4LKaIyizZXxnm235qoqJKujmDZ5cwd7pGzu7x7lbUFDXyMD6uqcGH+Dq2Z/MgWHhZWUVJBCQ5sYL/wATjmd8zqrYaaS8hXP6KrDoaqWEgRmFheS18g1sddG+JKtaemjpmWYLucbucd3HmUZIrVDFGHQjbZwlMJsLpxVR0gr20VGW3NyNbb25eZTk/pGxjGomSNpY5cmf3n2vYINPieFQsyxVTb7lxBue8rKvkfJIXyG73G5P5Jt0J6dZFyzG9Y0/auDZDF8PP/y4/qE4YnQnaqi/1LF7rrRqqfQx+w+ul9G5ixCkJu2qi/1qypqmGVhLZYzbiHBYrB4GyVILgCG62Wmjja0ABoATw0ij8jepcldFhI1ju02RnzCbJNBDD9pMwDxUGd3VszKgxGuEjHNabk8eSf00buwPU0ui1mxjD2E/tAOvAEqK7pBQDYynwYsxI7MUNV+ih8iPWz+ETcYrm11Y2WBjsgYG9rTW5UHM/wDB9V1JaoRUFSMsp75WzSYDiQkjgoOqLTFCBnzA3srh7z10cbbdq5PcB/YWW6O/5s0c2OWni7dTM87R2jb47n1A8lydTBRm6OrppuWNNnakZhEz8UjfkNUZBcb1YbwjbmPi7QfQH5oo1WdmlEOXKJ452HsvHVu7+X1uPNca7tyeKfVxHq3lnuu94DgeDh+aDTv65pfpqeHgunop3HazLmVOyHAf2WcX/icoztwpNP8Au04/mco79FuMs+wXErqXzSRKz0riqrpHWijw7Kd5TlsNyNyPNWqzHTFg6yicb2GbT5KvK6izTjVyRBwenNZWyz1Ly9waCR48PDRXrYmyVQZb7KEA25u4DyGvyVX0bN6mdtt2g/X+quaHtQdZv1rnPv3E6f7bLNiXtRpk+aJCSS4rBRJFcJXLqBGvcGtJdoANVicQn/xLHooJoz1BLTm7W7nZRax8d7rQ4/Wtp6JzQQHEXPh/VZJlRQR4rTYhFDVRPgyOs0sOdwzXJJ55uXAJ4KyrNNRVMk49SYRhWKU1AW4reV2r2ujILbHVtxzsNe9R8cwyPC6yOGF8z2viEn22XM0knTQAcFJxHEcJr8Vir5aCtztP2zRKLStyuaG+9p73rzUfG8RixOqjlp6eSCOOIRhshBOhPInmrTDNwrgrgpFFS1FbUiClj6yQgnLcDQcdVHVt0Ygjqccjilylpifo4XHDggVwScqZaYdhlbQlxnNNHfg+doViM40NVQf/ALn9Fax4XTMNmxsAH4WAIZdQNl6vO7NoLNF99tgpybo4ofFlRVQzzxOjiqKJxPKoH5hUGIYPiVLC+olgHUt3c14cAPIrZGTDJWF3WgtFySWg7b8FXdIaCkjwGpqIGsv2RcMsT2gpYs8MavoxBKaSACTsulcJsCVDAN6wXAAcdOAS6wWJyPNt9Nl0n7UeBTSexN5+gUDwWvR82xeGwGrXaeS1FJpHIN7TSa/9xWUwRwbi9MSbakfMLSyymKinLRdzpXNaBxJdZczWL3nU0b/zAe1sidNLq50z7gX4AWaPkL+al07amW0lQeqbwjbv5oNHRspQ2aoIdMfdH4e4d/eplpJPeORvIe8fE8P71WSTRrQ/Qki400Pcq/qxSVRa0WincSP5X2vbwIBPiO9T2NawWY0NHIBRa9n2bZbX6lwfbnuD9Cn0+RwyIWcbiVsB/Zp/icgPUiAj2Sa2ozONxsozl3DnT7GHzSSKSIh6TmKzvS7WmpXHcSH0SSVWbwZpx+SK/o/I4YnYH3onXWhpmiKjhjZ7rWNA8gkks+PxNEuwmYlNLiF1JWAGNeS5wXMxSSUIYzpLK98gDjo6XKfAAkeipUklZj6Ofq/MSSSScynFcdFTbH4PhcEklB8Xkj0NxsNgsXWVclNjcEMbWkS1cQLje4F49PokkpI62lVydk5rGGOMFjSDQAEeYQsRnfL0bxIvN7VLW+Qy/okkouwZfBmPcmP9x3gkkoch9nD96PBNPuTeJ9AkkoQM17oy17DZzSHA9+i2Mbz1JdYXbLI7/kV1JYNb2jfoumHi9wSHV7hqSi3SSXOZ0UdTXC4sdikkgiFFTgMgqI2+6JHgBB3SSXfh4o5mTyGk2SSSVhWf/9k="
+  }
+]

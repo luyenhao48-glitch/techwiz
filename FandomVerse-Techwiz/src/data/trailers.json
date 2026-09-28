@@ -1,0 +1,1185 @@
+[
+  {
+    "id": "anime-trailer-001",
+    "category": "anime",
+    "title": {
+      "vi": "Chainsaw Man: Reze Arc Movie - Official Teaser",
+      "en": "Chainsaw Man: Reze Arc Movie - Official Teaser",
+      "hi": "चेनसॉ मैन: रेज़े आर्क मूवी - ऑफिशियल टीज़र"
+    },
+    "thumbnail": "/image/chansawman.jpg",
+    "mediaUrl": "https://www.youtube.com/embed/v4yLeNt-kCU",
+    "status": "upcoming",
+    "releaseDate": "2026-11-15"
+  },
+  {
+    "id": "anime-trailer-002",
+    "category": "anime",
+    "title": {
+      "vi": "Mobile Suit Gundam: Chiến Binh Thép Tái Xuất - Official Trailer",
+      "en": "Mobile Suit Gundam: Steel Warriors Return - Official Trailer",
+      "hi": "मोबाइल सूट गुंडम: स्टील वॉरियर्स रिटर्न - ऑफिशियल ट्रेलर"
+    },
+    "thumbnail": "/image/gundam.jpg",
+    "mediaUrl": "/GunDam.mp4",
+    "status": "released",
+    "releaseDate": "2026-09-24"
+  },
+  {
+    "id": "anime-trailer-003",
+    "category": "anime",
+    "title": {
+      "vi": "Jujutsu Kaisen: Culling Game Arc - Teaser PV",
+      "en": "Jujutsu Kaisen: Culling Game Arc - Teaser PV",
+      "hi": "जुजुत्सु कैसेन: कलिंग गेम आर्क - टीज़र पीवी"
+    },
+    "thumbnail": "/image/jujutsu.jpg",
+    "mediaUrl": "https://www.youtube.com/embed/v8bCVyq-d_M",
+    "status": "upcoming",
+    "releaseDate": "2026-10-12"
+  },
+  {
+    "id": "anime-trailer-004",
+    "category": "anime",
+    "title": {
+      "vi": "Solo Leveling Season 2: Arise from the Shadow - Official Trailer",
+      "en": "Solo Leveling Season 2: Arise from the Shadow - Official Trailer",
+      "hi": "सोलो लेवलिंग सीज़न 2: अराइज़ फ्रॉम द शैडो - ऑफिशियल ट्रेलर"
+    },
+    "thumbnail": "/image/solo.jpg",
+    "mediaUrl": "https://www.youtube.com/embed/sUjN1R-XU_c",
+    "status": "released",
+    "releaseDate": "2026-07-05"
+  },
+  {
+    "id": "anime-trailer-005",
+    "category": "anime",
+    "title": {
+      "vi": "Attack on Titan: The Last Attack Movie - 4K Theatrical Trailer",
+      "en": "Attack on Titan: The Last Attack Movie - 4K Theatrical Trailer",
+      "hi": "अटैक ऑन टाइटन: द लास्ट अटैक मूवी - 4के थिएट्रिकल ट्रेलर"
+    },
+    "thumbnail": "/image/aot.jpg",
+    "mediaUrl": "https://www.youtube.com/embed/M_OauHnAFc8",
+    "status": "upcoming",
+    "releaseDate": "2026-11-20"
+  },
+  {
+    "id": "gaming-trailer-001",
+    "category": "gaming",
+    "title": {
+      "vi": "Grand Theft Auto VI - First Look Reveal",
+      "en": "Grand Theft Auto VI - First Look Reveal",
+      "hi": "ग्रैंड थेफ्ट ऑटो VI - फर्स्ट लुक रिवील"
+    },
+    "thumbnail": "/image/gta.jpg",
+    "mediaUrl": "https://www.youtube.com/embed/QdBZY2fkU-0",
+    "status": "upcoming",
+    "releaseDate": "2026-12-01"
+  },
+  {
+    "id": "gaming-trailer-002",
+    "category": "gaming",
+    "title": {
+      "vi": "Black Myth: Wukong - Launch Gameplay Trailer",
+      "en": "Black Myth: Wukong - Launch Gameplay Trailer",
+      "hi": "ब्लैक मिथ: वुकोंग - लॉन्च गेमप्ले ट्रेलर"
+    },
+    "thumbnail": "/image/wukong.jpg",
+    "mediaUrl": "https://youtu.be/u83VdXAVq08?si=dY9OSvSM---yqCxj",
+    "status": "released",
+    "releaseDate": "2026-08-20"
+  },
+  {
+    "id": "gaming-trailer-003",
+    "category": "gaming",
+    "title": {
+      "vi": "Elden Ring: Shadow of the Erdtree - Official Gameplay Trailer",
+      "en": "Elden Ring: Shadow of the Erdtree - Official Gameplay Trailer",
+      "hi": "एल्डन रिंग: शैडो ऑफ द एर्डट्री - ऑफिशियल गेमप्ले ट्रेलर"
+    },
+    "thumbnail": "/image/eldenring.jpg",
+    "mediaUrl": "https://www.youtube.com/embed/qLZenOn7WUo",
+    "status": "released",
+    "releaseDate": "2026-06-21"
+  },
+  {
+    "id": "gaming-trailer-004",
+    "category": "gaming",
+    "title": {
+      "vi": "Ghost of Yōtei - PlayStation 5 Official Reveal Trailer",
+      "en": "Ghost of Yōtei - PlayStation 5 Official Reveal Trailer",
+      "hi": "घोस्ट ऑफ योतेई - प्लेस्टेशन 5 ऑफिशियल रिवील ट्रेलर"
+    },
+    "thumbnail": "/image/ghost.jpg",
+    "mediaUrl": "https://www.youtube.com/embed/7X8iiK4cIeg",
+    "status": "upcoming",
+    "releaseDate": "2026-11-10"
+  },
+  {
+    "id": "gaming-trailer-005",
+    "category": "gaming",
+    "title": {
+      "vi": "Monster Hunter Wilds - Official 4K Showcase Trailer",
+      "en": "Monster Hunter Wilds - Official 4K Showcase Trailer",
+      "hi": "मॉन्स्टर हंटर वाइल्ड्स - ऑफिशियल 4के शोकेस ट्रेलर"
+    },
+    "thumbnail": "/image/monterhunter.jpg",
+    "mediaUrl": "https://youtu.be/BGuMwevrAGo?si=JEBUHGzOCJbOMbgW",
+    "status": "upcoming",
+    "releaseDate": "2026-09-28"
+  },
+  {
+    "id": "gaming-trailer-006",
+    "category": "gaming",
+    "title": {
+      "vi": "Cyberpunk 2077: Phantom Liberty - Official Cinematic Trailer",
+      "en": "Cyberpunk 2077: Phantom Liberty - Official Cinematic Trailer",
+      "hi": "साइबरपंक 2077: फैंटम लिबर्टी - ऑफिशियल सिनेमैटिक ट्रेलर"
+    },
+    "thumbnail": "/image/cyper.jpg",
+    "mediaUrl": "https://youtu.be/sJbexcm4Trk?si=9hkQ5reqYU34yUE7",
+    "status": "released",
+    "releaseDate": "2026-05-18"
+  },
+  {
+    "id": "movies-trailer-001",
+    "category": "movies",
+    "title": {
+      "vi": "Avatar 3: Fire and Ash - Concept Teaser",
+      "en": "Avatar 3: Fire and Ash - Concept Teaser",
+      "hi": "अवतार 3: फायर एंड ऐश - कॉन्सेप्ट टीज़र"
+    },
+    "thumbnail": "/image/avatar_3.jpg",
+    "mediaUrl": "https://www.youtube.com/embed/d9MyW72ELq0",
+    "status": "upcoming",
+    "releaseDate": "2026-12-18"
+  },
+  {
+    "id": "movies-trailer-002",
+    "category": "movies",
+    "title": {
+      "vi": "Deadpool & Wolverine - Final Trailer",
+      "en": "Deadpool & Wolverine - Final Trailer",
+      "hi": "डेडपूल एंड वूल्वरिन - फाइनल ट्रेलर"
+    },
+    "thumbnail": "/image/deadpool.jpg",
+    "mediaUrl": "https://www.youtube.com/embed/73_1biulkYk",
+    "status": "released",
+    "releaseDate": "2026-07-26"
+  },
+  {
+    "id": "movies-trailer-003",
+    "category": "movies",
+    "title": {
+      "vi": "Avengers: Secret Wars - Multiverse Saga Official Teaser",
+      "en": "Avengers: Secret Wars - Multiverse Saga Official Teaser",
+      "hi": "एवेंजर्स: सीक्रेट वॉर्स - मल्टीवर्स सागा ऑफिशियल टीज़र"
+    },
+    "thumbnail": "/image/avenger.jpg",
+    "mediaUrl": "https://www.youtube.com/embed/TcMBFSGVi1c",
+    "status": "upcoming",
+    "releaseDate": "2026-12-25"
+  },
+  {
+    "id": "movies-trailer-004",
+    "category": "movies",
+    "title": {
+      "vi": "Spider-Man: Beyond the Spider-Verse - First Look Preview",
+      "en": "Spider-Man: Beyond the Spider-Verse - First Look Preview",
+      "hi": "स्पाइडर-मैन: बियॉन्ड द स्पाइडर-वर्स - फर्स्ट लुक प्रीव्यू"
+    },
+    "thumbnail": "/image/spider_1.jpg",
+    "mediaUrl": "https://www.youtube.com/embed/shW9i6k8cB0",
+    "status": "upcoming",
+    "releaseDate": "2026-10-15"
+  },
+  {
+    "id": "movies-trailer-005",
+    "category": "movies",
+    "title": {
+      "vi": "The Batman: Part II - The Dark Knight of Gotham Teaser",
+      "en": "The Batman: Part II - The Dark Knight of Gotham Teaser",
+      "hi": "द बैटमैन: पार्ट II - द डार्क नाइट ऑफ गोथम टीज़र"
+    },
+    "thumbnail": "/image/batmandark.jpg",
+    "mediaUrl": "https://www.youtube.com/embed/mqqft2x_Aa4",
+    "status": "upcoming",
+    "releaseDate": "2026-11-05"
+  },
+  {
+    "id": "tvshows-trailer-001",
+    "category": "tvshows",
+    "title": {
+      "vi": "Stranger Things Season 5 - The Final Adventure",
+      "en": "Stranger Things Season 5 - The Final Adventure",
+      "hi": "स्ट्रेंजर थिंग्स सीज़न 5 - द फाइनल एडवेंचर"
+    },
+    "thumbnail": "/image/Strang.jpg",
+    "mediaUrl": "https://youtu.be/tvFFMR7q9dE?si=WzaAdug984-AwnPw",
+    "status": "upcoming",
+    "releaseDate": "2026-11-28"
+  },
+  {
+    "id": "tvshows-trailer-002",
+    "category": "tvshows",
+    "title": {
+      "vi": "House of the Dragon Season 2 - War of Dragons",
+      "en": "House of the Dragon Season 2 - War of Dragons",
+      "hi": "हाउस ऑफ द ड्रैगन सीज़न 2 - वॉर ऑफ ड्रैगन्स"
+    },
+    "thumbnail": "/image/house.jpg",
+    "mediaUrl": "https://www.youtube.com/embed/DotnJ7tTA34",
+    "status": "released",
+    "releaseDate": "2026-06-16"
+  },
+  {
+    "id": "tvshows-trailer-003",
+    "category": "tvshows",
+    "title": {
+      "vi": "The Last of Us Season 2 - Official Teaser Trailer",
+      "en": "The Last of Us Season 2 - Official Teaser Trailer",
+      "hi": "द लास्ट ऑफ अस सीज़न 2 - ऑफिशियल टीज़र ट्रेलर"
+    },
+    "thumbnail": "/image/us.jpg",
+    "mediaUrl": "https://www.youtube.com/embed/xT0g_O9Qp68",
+    "status": "upcoming",
+    "releaseDate": "2026-08-30"
+  },
+  {
+    "id": "tvshows-trailer-004",
+    "category": "tvshows",
+    "title": {
+      "vi": "Arcane Season 2: Final Chapter - Official Netflix Trailer",
+      "en": "Arcane Season 2: Final Chapter - Official Netflix Trailer",
+      "hi": "आर्केन सीज़न 2: फाइनल चैप्टर - ऑफिशियल नेटफ्लिक्स ट्रेलर"
+    },
+    "thumbnail": "/image/ar.jpg",
+    "mediaUrl": "https://www.youtube.com/embed/ysQI1W-oP0g",
+    "status": "released",
+    "releaseDate": "2026-05-22"
+  },
+  {
+    "id": "tvshows-trailer-005",
+    "category": "tvshows",
+    "title": {
+      "vi": "Wednesday Season 2 - Return to Nevermore Official Teaser",
+      "en": "Wednesday Season 2 - Return to Nevermore Official Teaser",
+      "hi": "वेडनेस्डे सीज़न 2 - रिटर्न टू नेवरमोर ऑफिशियल टीज़र"
+    },
+    "thumbnail": "/image/wed.jpg",
+    "mediaUrl": "https://www.youtube.com/embed/Di310WS8zLk",
+    "status": "upcoming",
+    "releaseDate": "2026-10-08"
+  },
+  {
+    "id": "kpop-trailer-001",
+    "category": "kpop",
+    "title": {
+      "vi": "BTS 2026 Reunion Special Album - Comeback Teaser",
+      "en": "BTS 2026 Reunion Special Album - Comeback Teaser",
+      "hi": "बीटीएस 2026 रीयूनियन स्पेशल एल्बम - कमबैक टीज़र"
+    },
+    "thumbnail": "/image/bts.jpg",
+    "mediaUrl": "https://www.youtube.com/embed/WMweEpGlu_U",
+    "status": "upcoming",
+    "releaseDate": "2026-10-20"
+  },
+  {
+    "id": "kpop-trailer-002",
+    "category": "kpop",
+    "title": {
+      "vi": "BLACKPINK World Tour Finale - Official Live Film",
+      "en": "BLACKPINK World Tour Finale - Official Live Film",
+      "hi": "ब्लैकपिंक वर्ल्ड टूर फिनाले - ऑफिशियल लाइव फिल्म"
+    },
+    "thumbnail": "/image/black.jpg",
+    "mediaUrl": "https://www.youtube.com/embed/dyRsYk0LyA8",
+    "status": "released",
+    "releaseDate": "2026-05-15"
+  },
+  {
+    "id": "kpop-trailer-003",
+    "category": "kpop",
+    "title": {
+      "vi": "aespa - 'Whiplash' Official Performance MV Teaser",
+      "en": "aespa - 'Whiplash' Official Performance MV Teaser",
+      "hi": "एस्पा - 'व्हिपलैश' ऑफिशियल परफॉर्मेंस एमवी टीज़र"
+    },
+    "thumbnail": "/image/ai.jpg",
+    "mediaUrl": "https://www.youtube.com/embed/jWQx2f-CErU",
+    "status": "released",
+    "releaseDate": "2026-09-18"
+  },
+  {
+    "id": "kpop-trailer-004",
+    "category": "kpop",
+    "title": {
+      "vi": "NewJeans - 2026 Global Stage Live Film Teaser",
+      "en": "NewJeans - 2026 Global Stage Live Film Teaser",
+      "hi": "न्यूजीन्स - 2026 ग्लोबल स्टेज लाइव फिल्म टीज़र"
+    },
+    "thumbnail": "/image/newjean.jpg",
+    "mediaUrl": "https://www.youtube.com/embed/ArmDp-zijuc",
+    "status": "upcoming",
+    "releaseDate": "2026-12-10"
+  },
+  {
+    "id": "comics-trailer-001",
+    "category": "comics",
+    "title": {
+      "vi": "Superman: Legacy - Official Motion Comic Preview",
+      "en": "Superman: Legacy - Official Motion Comic Preview",
+      "hi": "सुपरमैन: लिगेसी - ऑफिशियल मोशन कॉमिक प्रीव्यू"
+    },
+    "thumbnail": "/image/superman_2.jpg",
+    "mediaUrl": "https://www.youtube.com/embed/wA_QdI06n_0",
+    "status": "upcoming",
+    "releaseDate": "2026-11-01"
+  },
+  {
+    "id": "comics-trailer-002",
+    "category": "comics",
+    "title": {
+      "vi": "X-Men '97 - Animated Series Premiere",
+      "en": "X-Men '97 - Animated Series Premiere",
+      "hi": "एक्स-मेन '97 - एनिमेटेड सीरीज़ प्रीमियर"
+    },
+    "thumbnail": "/image/xmen.jpg",
+    "mediaUrl": "https://youtu.be/-sqio1tiPGk?si=taT3JS0UiVDs27ri",
+    "status": "released",
+    "releaseDate": "2026-03-20"
+  },
+  {
+    "id": "comics-trailer-003",
+    "category": "comics",
+    "title": {
+      "vi": "Batman: The Brave and the Bold - DC Studios Official Teaser",
+      "en": "Batman: The Brave and the Bold - DC Studios Official Teaser",
+      "hi": "बैटमैन: द ब्रेव एंड द बोल्ड - डीसी स्टूडियोज़ ऑफिशियल टीज़र"
+    },
+    "thumbnail": "/image/press.jpg",
+    "mediaUrl": "https://youtu.be/mqqft2x_Aa4?si=lQpCd_uDdGvay-vF",
+    "status": "upcoming",
+    "releaseDate": "2026-12-15"
+  },
+  {
+    "id": "manga-trailer-001",
+    "category": "manga",
+    "title": {
+      "vi": "One Piece Chapter 1150 - Special Manga PV",
+      "en": "One Piece Chapter 1150 - Special Manga PV",
+      "hi": "वन पीस चैप्टर 1150 - स्पेशल मंगा पीवी"
+    },
+    "thumbnail": "/image/godvalley.jpg",
+    "mediaUrl": "https://www.youtube.com/embed/Ades3pQbeh8",
+    "status": "upcoming",
+    "releaseDate": "2026-10-31"
+  },
+  {
+    "id": "manga-trailer-002",
+    "category": "manga",
+    "title": {
+      "vi": "Berserk Memorial Edition - Manga Tribute Trailer",
+      "en": "Berserk Memorial Edition - Manga Tribute Trailer",
+      "hi": "बर्सर्क मेमोरियल एडिशन - मंगा ट्रिब्यूट ट्रेलर"
+    },
+    "thumbnail": "/image/memo.jpg",
+    "mediaUrl": "https://youtu.be/7cc1o1H2xbI?si=7peOHk-mBT-om-zq",
+    "status": "released",
+    "releaseDate": "2026-04-12"
+  },
+  {
+    "id": "manga-trailer-003",
+    "category": "manga",
+    "title": {
+      "vi": "Chainsaw Man Part 2 - Official Manga Motion PV",
+      "en": "Chainsaw Man Part 2 - Official Manga Motion PV",
+      "hi": "चेनसॉ मैन पार्ट 2 - ऑफिशियल मंगा मोशन पीवी"
+    },
+    "thumbnail": "/image/denji.jpg",
+    "mediaUrl": "https://youtu.be/dFlDRhvM4L0?si=hRAqoOqkHACTbLs3",
+    "status": "released",
+    "releaseDate": "2026-06-14"
+  },
+  {
+    "id": "anime-trailer-006",
+    "category": "anime",
+    "title": {
+      "vi": "Demon Slayer: Kimetsu no Yaiba - Vô Hạn Thành (Infinity Castle) Trilogy Movie Teaser",
+      "en": "Demon Slayer: Kimetsu no Yaiba - Infinity Castle Arc Movie Trilogy Official Teaser",
+      "hi": "डेमन स्लेयर: किमेत्सु नो याइबा - इन्फिनिटी कैसल आर्क मूवी ट्राइलॉजी टीज़र"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/rP3iT53L8wY",
+    "status": "upcoming",
+    "releaseDate": "2026-11-20"
+  },
+  {
+    "id": "anime-trailer-007",
+    "category": "anime",
+    "title": {
+      "vi": "Frieren: Pháp Sư Tiễn Táng Mùa 2 - Official Announcement PV",
+      "en": "Frieren: Beyond Journey's End Season 2 - Official Announcement PV",
+      "hi": "फ़्रीरेन: बियॉन्ड जर्नीज़ एंड सीज़न 2 - ऑफिशियल अनाउंसमेंट पीवी"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/v8bCVyq-d_M",
+    "status": "upcoming",
+    "releaseDate": "2026-12-05"
+  },
+  {
+    "id": "gaming-trailer-007",
+    "category": "gaming",
+    "title": {
+      "vi": "Death Stranding 2: On The Beach - PlayStation 5 State of Play Trailer",
+      "en": "Death Stranding 2: On The Beach - PlayStation 5 State of Play Trailer",
+      "hi": "डेथ स्ट्रैंडिंग 2: ऑन द बीच - प्लेस्टेशन 5 ट्रेलर"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/sUjN1R-XU_c",
+    "status": "upcoming",
+    "releaseDate": "2026-11-01"
+  },
+  {
+    "id": "gaming-trailer-008",
+    "category": "gaming",
+    "title": {
+      "vi": "League of Legends Worlds 2026 - Cinematic Anthem & Official Trailer",
+      "en": "League of Legends Worlds 2026 - Cinematic Anthem & Official Trailer",
+      "hi": "लीग ऑफ लीजेंड्स वर्ल्ड्स 2026 - सिनेमाई एंथम ट्रेलर"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "/video_lol.mp4",
+    "status": "released",
+    "releaseDate": "2026-09-24"
+  },
+  {
+    "id": "movies-trailer-006",
+    "category": "movies",
+    "title": {
+      "vi": "Dune Messiah - Đạo Diễn Denis Villeneuve First Official Teaser",
+      "en": "Dune Messiah - Denis Villeneuve First Official Teaser",
+      "hi": "ड्यून मसीहा - डेनिस विलेन्यूव ऑफिशियल टीज़र"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/v4yLeNt-kCU",
+    "status": "upcoming",
+    "releaseDate": "2026-12-22"
+  },
+  {
+    "id": "movies-trailer-007",
+    "category": "movies",
+    "title": {
+      "vi": "Superman (2025/2026) - DC Studios James Gunn Official Teaser",
+      "en": "Superman (2025/2026) - DC Studios James Gunn Official Teaser",
+      "hi": "सुपरमैन (2025/2026) - डीसी स्टूडियोज जेम्स गन टीज़र"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1563089145-599997674d42?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/v8bCVyq-d_M",
+    "status": "upcoming",
+    "releaseDate": "2026-10-28"
+  },
+  {
+    "id": "tvshows-trailer-006",
+    "category": "tvshows",
+    "title": {
+      "vi": "Fallout Season 2: New Vegas - Prime Video Official Teaser",
+      "en": "Fallout Season 2: New Vegas - Prime Video Official Teaser",
+      "hi": "फ़ॉलआउट सीज़न 2: न्यू वेगास - प्राइम वीडियो टीज़र"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/DOTgkyyA3e4",
+    "status": "upcoming",
+    "releaseDate": "2026-11-12"
+  },
+  {
+    "id": "tvshows-trailer-007",
+    "category": "tvshows",
+    "title": {
+      "vi": "Squid Game Season 2 - Trò Chơi Con Mực Trở Lại Official Teaser",
+      "en": "Squid Game Season 2 - The Deadly Games Return Official Teaser",
+      "hi": "स्क्विड गेम सीज़न 2 - ऑफिशियल टीज़र"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/2S24h802A8g",
+    "status": "upcoming",
+    "releaseDate": "2026-12-15"
+  },
+  {
+    "id": "kpop-trailer-005",
+    "category": "kpop",
+    "title": {
+      "vi": "Stray Kids - 'ATE' World Tour Official Concert Film Teaser",
+      "en": "Stray Kids - 'ATE' World Tour Official Concert Film Teaser",
+      "hi": "स्ट्रे किड्स - 'ATE' वर्ल्ड टूर ऑफिशियल कॉन्सर्ट फिल्म टीज़र"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/2S24h802A8g",
+    "status": "released",
+    "releaseDate": "2026-09-20"
+  },
+  {
+    "id": "kpop-trailer-006",
+    "category": "kpop",
+    "title": {
+      "vi": "IVE - 2026 World Tour 'Show What I Have' The Movie Teaser",
+      "en": "IVE - 2026 World Tour 'Show What I Have' The Movie Teaser",
+      "hi": "आईव - 2026 वर्ल्ड टूर मूवी टीज़र"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/jZUkA5m-m2c",
+    "status": "upcoming",
+    "releaseDate": "2026-10-30"
+  },
+  {
+    "id": "comics-trailer-004",
+    "category": "comics",
+    "title": {
+      "vi": "Daredevil: Born Again - Marvel Studios Official Action Preview",
+      "en": "Daredevil: Born Again - Marvel Studios Official Action Preview",
+      "hi": "डेयरडेविल: बॉर्न अगेन - मार्वल स्टूडियोज ऑफिशियल एक्शन प्रीव्यू"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/9NweqK1B_lI",
+    "status": "upcoming",
+    "releaseDate": "2026-11-25"
+  },
+  {
+    "id": "comics-trailer-005",
+    "category": "comics",
+    "title": {
+      "vi": "Marvel Zombies - Official Animated Series First Look Trailer",
+      "en": "Marvel Zombies - Official Animated Series First Look Trailer",
+      "hi": "मार्वल ज़ॉम्बीज़ - ऑफिशियल एनिमेटेड सीरीज़ ट्रेलर"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1635805737707-575885ab0820?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/v8bCVyq-d_M",
+    "status": "upcoming",
+    "releaseDate": "2026-10-18"
+  },
+  {
+    "id": "comics-trailer-006",
+    "category": "comics",
+    "title": {
+      "vi": "Teen Titans: Judas Contract - 4K Animated Anniversary Edition",
+      "en": "Teen Titans: Judas Contract - 4K Animated Anniversary Edition",
+      "hi": "टीन टाइटन्स: जूडास कॉन्ट्रैक्ट - 4के एनिमेटेड एडिशन"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1563089145-599997674d42?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/v4yLeNt-kCU",
+    "status": "released",
+    "releaseDate": "2026-08-15"
+  },
+  {
+    "id": "manga-trailer-004",
+    "category": "manga",
+    "title": {
+      "vi": "Dandadan - Official Shonen Jump Manga Animation PV",
+      "en": "Dandadan - Official Shonen Jump Manga Animation PV",
+      "hi": "दांदादान - ऑफिशियल शोनेन जंप मंगा एनिमेशन पीवी"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/rP3iT53L8wY",
+    "status": "released",
+    "releaseDate": "2026-09-15"
+  },
+  {
+    "id": "manga-trailer-005",
+    "category": "manga",
+    "title": {
+      "vi": "Vinland Saga: Baltic Sea War Arc - Special Manga Teaser PV",
+      "en": "Vinland Saga: Baltic Sea War Arc - Special Manga Teaser PV",
+      "hi": "विनलैंड सागा: बाल्टिक सी वॉर आर्क - स्पेशल मंगा टीज़र पीवी"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/Nl4X0tI-fUo",
+    "status": "upcoming",
+    "releaseDate": "2026-11-18"
+  },
+  {
+    "id": "manga-trailer-006",
+    "category": "manga",
+    "title": {
+      "vi": "Sakamoto Days - Weekly Shonen Jump Official Motion Comic PV",
+      "en": "Sakamoto Days - Weekly Shonen Jump Official Motion Comic PV",
+      "hi": "साकामोटो डेज़ - वीकली शोनेन जंप ऑफिशियल मोशन कॉमिक पीवी"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1563089145-599997674d42?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/sUjN1R-XU_c",
+    "status": "upcoming",
+    "releaseDate": "2026-12-10"
+  },
+  {
+    "id": "anime-trailer-008",
+    "category": "anime",
+    "title": {
+      "vi": "One Piece Film: Elbaf Warriors Teaser",
+      "en": "One Piece Film: Elbaf Warriors Teaser",
+      "hi": "वन पीस फिल्म: एल्बाफ वॉरियर्स टीज़र"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/v4yLeNt-kCU",
+    "status": "upcoming",
+    "releaseDate": "2026-12-18"
+  },
+  {
+    "id": "anime-trailer-009",
+    "category": "anime",
+    "title": {
+      "vi": "My Hero Academia: You're Next Movie Trailer",
+      "en": "My Hero Academia: You're Next Movie Trailer",
+      "hi": "माई हीरो एकेडेमिया: यू आर नेक्स्ट ट्रेलर"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1563089145-599997674d42?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/sUjN1R-XU_c",
+    "status": "released",
+    "releaseDate": "2026-08-10"
+  },
+  {
+    "id": "anime-trailer-010",
+    "category": "anime",
+    "title": {
+      "vi": "Spy x Family Season 3 - Official Announcement Teaser",
+      "en": "Spy x Family Season 3 - Official Announcement Teaser",
+      "hi": "स्पाई x फैमिली सीज़न 3 टीज़र"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/v8bCVyq-d_M",
+    "status": "upcoming",
+    "releaseDate": "2026-10-15"
+  },
+  {
+    "id": "anime-trailer-011",
+    "category": "anime",
+    "title": {
+      "vi": "Bleach: Huyết Chiến Ngàn Năm Part 3 Conflict PV",
+      "en": "Bleach Thousand-Year Blood War Part 3 Conflict PV",
+      "hi": "ब्लीच: थाउज़ेंड-ईयर ब्लड वॉर पार्ट 3 पीवी"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/rP3iT53L8wY",
+    "status": "released",
+    "releaseDate": "2026-09-01"
+  },
+  {
+    "id": "anime-trailer-012",
+    "category": "anime",
+    "title": {
+      "vi": "Oshi no Ko Season 2 - Tokyo Blade Arc Trailer",
+      "en": "Oshi no Ko Season 2 - Tokyo Blade Arc Trailer",
+      "hi": "ओशी नो को सीज़न 2 ट्रेलर"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/2S24h802A8g",
+    "status": "released",
+    "releaseDate": "2026-07-20"
+  },
+  {
+    "id": "anime-trailer-013",
+    "category": "anime",
+    "title": {
+      "vi": "Dragon Ball Daima - Official Worldwide Launch Trailer",
+      "en": "Dragon Ball Daima - Official Worldwide Launch Trailer",
+      "hi": "ड्रैगन बॉल दाइमा ऑफिशियल ट्रेलर"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/jZUkA5m-m2c",
+    "status": "upcoming",
+    "releaseDate": "2026-11-05"
+  },
+  {
+    "id": "gaming-trailer-009",
+    "category": "gaming",
+    "title": {
+      "vi": "Resident Evil 9: Apocalyptic Terror - Reveal Trailer",
+      "en": "Resident Evil 9: Apocalyptic Terror - Reveal Trailer",
+      "hi": "रेसिडेंट ईविल 9 - ऑफिशियल ट्रेलर"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/sUjN1R-XU_c",
+    "status": "upcoming",
+    "releaseDate": "2026-12-08"
+  },
+  {
+    "id": "gaming-trailer-010",
+    "category": "gaming",
+    "title": {
+      "vi": "The Witcher 4: Polaris - Unreal Engine 5 Cinematic Teaser",
+      "en": "The Witcher 4: Polaris - Unreal Engine 5 Cinematic Teaser",
+      "hi": "द विचर 4: पोलारिस - सिनेमाई टीज़र"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/v4yLeNt-kCU",
+    "status": "upcoming",
+    "releaseDate": "2026-11-22"
+  },
+  {
+    "id": "gaming-trailer-011",
+    "category": "gaming",
+    "title": {
+      "vi": "Final Fantasy VII Part 3 - Epic Conclusion First Look",
+      "en": "Final Fantasy VII Part 3 - Epic Conclusion First Look",
+      "hi": "फाइनल फैंटेसी VII पार्ट 3 फर्स्ट लुक"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/jZUkA5m-m2c",
+    "status": "upcoming",
+    "releaseDate": "2027-01-15"
+  },
+  {
+    "id": "gaming-trailer-012",
+    "category": "gaming",
+    "title": {
+      "vi": "Valorant Masters Shanghai - Cinematic eSports Hype Trailer",
+      "en": "Valorant Masters Shanghai - Cinematic eSports Hype Trailer",
+      "hi": "वैलोरेंट मास्टर्स शंघाई सिनेमाई ट्रेलर"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/2S24h802A8g",
+    "status": "released",
+    "releaseDate": "2026-06-12"
+  },
+  {
+    "id": "gaming-trailer-013",
+    "category": "gaming",
+    "title": {
+      "vi": "Hollow Knight: Silksong - Launch Date Gameplay Trailer",
+      "en": "Hollow Knight: Silksong - Launch Date Gameplay Trailer",
+      "hi": "होलो नाइट: सिल्कसॉन्ग लॉन्च ट्रेलर"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/rP3iT53L8wY",
+    "status": "upcoming",
+    "releaseDate": "2026-10-31"
+  },
+  {
+    "id": "movies-trailer-008",
+    "category": "movies",
+    "title": {
+      "vi": "Gladiator II - Official Colosseum Theatrical Trailer",
+      "en": "Gladiator II - Official Colosseum Theatrical Trailer",
+      "hi": "ग्लेडिएटर II ऑफिशियल ट्रेलर"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/v8bCVyq-d_M",
+    "status": "released",
+    "releaseDate": "2026-09-14"
+  },
+  {
+    "id": "movies-trailer-009",
+    "category": "movies",
+    "title": {
+      "vi": "Interstellar: 10th Anniversary IMAX Re-Release Trailer",
+      "en": "Interstellar: 10th Anniversary IMAX Re-Release Trailer",
+      "hi": "इंटरस्टेलर 10वीं वर्षगांठ आईमैक्स ट्रेलर"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/v4yLeNt-kCU",
+    "status": "released",
+    "releaseDate": "2026-08-05"
+  },
+  {
+    "id": "movies-trailer-010",
+    "category": "movies",
+    "title": {
+      "vi": "Jurassic World Rebirth - First Official Teaser",
+      "en": "Jurassic World Rebirth - First Official Teaser",
+      "hi": "जुरासिक वर्ल्ड रीबर्थ फर्स्ट टीज़र"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/sUjN1R-XU_c",
+    "status": "upcoming",
+    "releaseDate": "2026-11-30"
+  },
+  {
+    "id": "movies-trailer-011",
+    "category": "movies",
+    "title": {
+      "vi": "The Lord of the Rings: The Hunt for Gollum - Official Teaser",
+      "en": "The Lord of the Rings: The Hunt for Gollum - Official Teaser",
+      "hi": "द लॉर्ड ऑफ द रिंग्स: द हंट फॉर गोलम टीज़र"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1563089145-599997674d42?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/jZUkA5m-m2c",
+    "status": "upcoming",
+    "releaseDate": "2027-01-20"
+  },
+  {
+    "id": "movies-trailer-012",
+    "category": "movies",
+    "title": {
+      "vi": "Tron: Ares - Official Disney Sci-Fi First Look",
+      "en": "Tron: Ares - Official Disney Sci-Fi First Look",
+      "hi": "ट्रॉन: एरेस ऑफिशियल फर्स्ट लुक"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/rP3iT53L8wY",
+    "status": "upcoming",
+    "releaseDate": "2026-10-25"
+  },
+  {
+    "id": "movies-trailer-013",
+    "category": "movies",
+    "title": {
+      "vi": "Mission: Impossible - The Final Reckoning Official Trailer",
+      "en": "Mission: Impossible - The Final Reckoning Official Trailer",
+      "hi": "मिशन: इम्पॉसिबल - द फाइनल रेकनिंग ट्रेलर"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/v8bCVyq-d_M",
+    "status": "upcoming",
+    "releaseDate": "2026-12-14"
+  },
+  {
+    "id": "tvshows-trailer-008",
+    "category": "tvshows",
+    "title": {
+      "vi": "The Boys Season 5 - Final Season Teaser",
+      "en": "The Boys Season 5 - Final Season Teaser",
+      "hi": "द बॉयज़ सीज़न 5 फाइनल टीज़र"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1563089145-599997674d42?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/DOTgkyyA3e4",
+    "status": "upcoming",
+    "releaseDate": "2026-11-18"
+  },
+  {
+    "id": "tvshows-trailer-009",
+    "category": "tvshows",
+    "title": {
+      "vi": "Severance Season 2 - Lumon Industries Mystery Teaser",
+      "en": "Severance Season 2 - Lumon Industries Mystery Teaser",
+      "hi": "सेवरेंस सीज़न 2 टीज़र"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/2S24h802A8g",
+    "status": "upcoming",
+    "releaseDate": "2026-10-20"
+  },
+  {
+    "id": "tvshows-trailer-010",
+    "category": "tvshows",
+    "title": {
+      "vi": "Shogun Season 2 & 3 - Official Series Continuation Announcement",
+      "en": "Shogun Season 2 & 3 - Official Series Continuation Announcement",
+      "hi": "शोगुन सीज़न 2 व 3 घोषणा"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/sUjN1R-XU_c",
+    "status": "upcoming",
+    "releaseDate": "2027-02-10"
+  },
+  {
+    "id": "tvshows-trailer-011",
+    "category": "tvshows",
+    "title": {
+      "vi": "Euphoria Season 3 - HBO Official Return Teaser",
+      "en": "Euphoria Season 3 - HBO Official Return Teaser",
+      "hi": "यूफोरिया सीज़न 3 टीज़र"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/v4yLeNt-kCU",
+    "status": "upcoming",
+    "releaseDate": "2026-12-25"
+  },
+  {
+    "id": "tvshows-trailer-012",
+    "category": "tvshows",
+    "title": {
+      "vi": "Peaky Blinders Movie: The Immortal Man Teaser",
+      "en": "Peaky Blinders Movie: The Immortal Man Teaser",
+      "hi": "पीकी ब्लाइंडर्स मूवी टीज़र"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/v8bCVyq-d_M",
+    "status": "upcoming",
+    "releaseDate": "2026-11-28"
+  },
+  {
+    "id": "tvshows-trailer-013",
+    "category": "tvshows",
+    "title": {
+      "vi": "Percy Jackson and the Olympians Season 2 - Sea of Monsters Trailer",
+      "en": "Percy Jackson Season 2 - Sea of Monsters Trailer",
+      "hi": "पर्सी जैक्सन सीज़न 2 ट्रेलर"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/jZUkA5m-m2c",
+    "status": "upcoming",
+    "releaseDate": "2026-10-10"
+  },
+  {
+    "id": "kpop-trailer-007",
+    "category": "kpop",
+    "title": {
+      "vi": "SEVENTEEN - 2026 'Right Here' World Tour Film Teaser",
+      "en": "SEVENTEEN - 2026 'Right Here' World Tour Film Teaser",
+      "hi": "सेवेंटीन 2026 वर्ल्ड टूर फिल्म टीज़र"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/2S24h802A8g",
+    "status": "released",
+    "releaseDate": "2026-09-12"
+  },
+  {
+    "id": "kpop-trailer-008",
+    "category": "kpop",
+    "title": {
+      "vi": "LE SSERAFIM - 'CRAZY' Performance Film Official Teaser",
+      "en": "LE SSERAFIM - 'CRAZY' Performance Film Official Teaser",
+      "hi": "ले सेराफिम - 'क्रेज़ी' टीज़र"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/jZUkA5m-m2c",
+    "status": "released",
+    "releaseDate": "2026-08-30"
+  },
+  {
+    "id": "kpop-trailer-009",
+    "category": "kpop",
+    "title": {
+      "vi": "TWICE - 10th Anniversary World Stadium Tour Trailer",
+      "en": "TWICE - 10th Anniversary World Stadium Tour Trailer",
+      "hi": "ट्वाइस 10वीं वर्षगांठ वर्ल्ड टूर ट्रेलर"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/v4yLeNt-kCU",
+    "status": "upcoming",
+    "releaseDate": "2026-10-20"
+  },
+  {
+    "id": "kpop-trailer-010",
+    "category": "kpop",
+    "title": {
+      "vi": "BABYMONSTER - 'FOREVER' Global Arena Tour Official Teaser",
+      "en": "BABYMONSTER - 'FOREVER' Global Arena Tour Official Teaser",
+      "hi": "बेबीमॉन्स्टर अरीना टूर टीज़र"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/sUjN1R-XU_c",
+    "status": "upcoming",
+    "releaseDate": "2026-11-15"
+  },
+  {
+    "id": "kpop-trailer-011",
+    "category": "kpop",
+    "title": {
+      "vi": "RIIZE - 'Boom Boom Bass' Tokyo Dome Live Film Preview",
+      "en": "RIIZE - 'Boom Boom Bass' Tokyo Dome Live Film Preview",
+      "hi": "राइज़ टोक्यो डोम लाइव फिल्म प्रीव्यू"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/v8bCVyq-d_M",
+    "status": "released",
+    "releaseDate": "2026-09-05"
+  },
+  {
+    "id": "kpop-trailer-012",
+    "category": "kpop",
+    "title": {
+      "vi": "ILLIT - 'Magnetic' Fantasy Concept Story Film Teaser",
+      "en": "ILLIT - 'Magnetic' Fantasy Concept Story Film Teaser",
+      "hi": "आईलिट 'मैग्नेटिक' स्टोरी फिल्म टीज़र"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/rP3iT53L8wY",
+    "status": "released",
+    "releaseDate": "2026-07-18"
+  },
+  {
+    "id": "kpop-trailer-013",
+    "category": "kpop",
+    "title": {
+      "vi": "IU - 'The Winning' World Tour Cinematic Concert Film",
+      "en": "IU - 'The Winning' World Tour Cinematic Concert Film",
+      "hi": "आईयू 'द विनिंग' सिनेमाई कॉन्सर्ट फिल्म"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/DOTgkyyA3e4",
+    "status": "upcoming",
+    "releaseDate": "2026-12-05"
+  },
+  {
+    "id": "comics-trailer-007",
+    "category": "comics",
+    "title": {
+      "vi": "Batman: The Court of Owls - 4K Animated Movie Teaser",
+      "en": "Batman: The Court of Owls - 4K Animated Movie Teaser",
+      "hi": "बैटमैन: द कोर्ट ऑफ आउल्स टीज़र"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/9NweqK1B_lI",
+    "status": "upcoming",
+    "releaseDate": "2026-11-10"
+  },
+  {
+    "id": "comics-trailer-008",
+    "category": "comics",
+    "title": {
+      "vi": "Spider-Man: Kraven's Last Hunt - Motion Graphic Novel PV",
+      "en": "Spider-Man: Kraven's Last Hunt - Motion Graphic Novel PV",
+      "hi": "स्पाइडर-मैन: क्रेवेन्स लास्ट हंट पीवी"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1635805737707-575885ab0820?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/v4yLeNt-kCU",
+    "status": "upcoming",
+    "releaseDate": "2026-10-28"
+  },
+  {
+    "id": "comics-trailer-009",
+    "category": "comics",
+    "title": {
+      "vi": "The Sandman: Season of Mists - DC Audio Visual Drama",
+      "en": "The Sandman: Season of Mists - DC Audio Visual Drama",
+      "hi": "द सैंडमैन: सीजन ऑफ मिस्ट्स ड्रामा"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/sUjN1R-XU_c",
+    "status": "released",
+    "releaseDate": "2026-08-20"
+  },
+  {
+    "id": "comics-trailer-010",
+    "category": "comics",
+    "title": {
+      "vi": "Justice League: Crisis on Infinite Earths Part 3 Trailer",
+      "en": "Justice League: Crisis on Infinite Earths Part 3 Trailer",
+      "hi": "जस्टिस लीग: क्राइसिस ऑन इनफिनिट अर्थ्स ट्रेलर"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1563089145-599997674d42?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/rP3iT53L8wY",
+    "status": "released",
+    "releaseDate": "2026-07-15"
+  },
+  {
+    "id": "comics-trailer-011",
+    "category": "comics",
+    "title": {
+      "vi": "Invincible: The Viltrumite War - Animated Teaser",
+      "en": "Invincible: The Viltrumite War - Animated Teaser",
+      "hi": "इनविंसिबल: द विल्ट्रुमाइट वॉर टीज़र"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/jZUkA5m-m2c",
+    "status": "upcoming",
+    "releaseDate": "2026-12-01"
+  },
+  {
+    "id": "comics-trailer-012",
+    "category": "comics",
+    "title": {
+      "vi": "Hellboy: The Crooked Man - Dark Horse Official Trailer",
+      "en": "Hellboy: The Crooked Man - Dark Horse Official Trailer",
+      "hi": "हेलबॉय: द क्रुकेड मैन ऑफिशियल ट्रेलर"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1563089145-599997674d42?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/v8bCVyq-d_M",
+    "status": "released",
+    "releaseDate": "2026-09-08"
+  },
+  {
+    "id": "comics-trailer-013",
+    "category": "comics",
+    "title": {
+      "vi": "Wonder Woman: Historia - Amazonian Legend Graphic PV",
+      "en": "Wonder Woman: Historia - Amazonian Legend Graphic PV",
+      "hi": "वंडर वुमन: हिस्टोरिया ग्राफिक पीवी"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1635805737707-575885ab0820?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/DOTgkyyA3e4",
+    "status": "upcoming",
+    "releaseDate": "2026-11-20"
+  },
+  {
+    "id": "manga-trailer-007",
+    "category": "manga",
+    "title": {
+      "vi": "Hunter x Hunter - Dark Continent Arc Special Manga PV",
+      "en": "Hunter x Hunter - Dark Continent Arc Special Manga PV",
+      "hi": "हंटर x हंटर - डार्क कॉन्टिनेंट आर्क स्पेशल पीवी"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/rP3iT53L8wY",
+    "status": "upcoming",
+    "releaseDate": "2026-11-12"
+  },
+  {
+    "id": "manga-trailer-008",
+    "category": "manga",
+    "title": {
+      "vi": "Vagabond - Takehiko Inoue Exhibition Official PV",
+      "en": "Vagabond - Takehiko Inoue Exhibition Official PV",
+      "hi": "वागाबॉन्ड - ताकेहिको इनोउए प्रदर्शनी पीवी"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/Nl4X0tI-fUo",
+    "status": "released",
+    "releaseDate": "2026-09-02"
+  },
+  {
+    "id": "manga-trailer-009",
+    "category": "manga",
+    "title": {
+      "vi": "Blue Lock: U-20 World Cup Arc - Manga Motion Teaser",
+      "en": "Blue Lock: U-20 World Cup Arc - Manga Motion Teaser",
+      "hi": "ब्लू लॉक: यू-20 वर्ल्ड कप मंगा मोशन टीज़र"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1563089145-599997674d42?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/sUjN1R-XU_c",
+    "status": "released",
+    "releaseDate": "2026-08-14"
+  },
+  {
+    "id": "manga-trailer-010",
+    "category": "manga",
+    "title": {
+      "vi": "Monster by Naoki Urasawa - 30th Anniversary Memorial PV",
+      "en": "Monster by Naoki Urasawa - 30th Anniversary Memorial PV",
+      "hi": "मॉन्स्टर 30वीं वर्षगांठ मेमोरियल पीवी"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/v4yLeNt-kCU",
+    "status": "released",
+    "releaseDate": "2026-07-28"
+  },
+  {
+    "id": "manga-trailer-011",
+    "category": "manga",
+    "title": {
+      "vi": "JoJo's Bizarre Adventure Part 7: Steel Ball Run Manga PV",
+      "en": "JoJo Part 7: Steel Ball Run Official Manga PV",
+      "hi": "जोजो पार्ट 7: स्टील बॉल रन मंगा पीवी"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1563089145-599997674d42?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/jZUkA5m-m2c",
+    "status": "upcoming",
+    "releaseDate": "2026-12-10"
+  },
+  {
+    "id": "manga-trailer-012",
+    "category": "manga",
+    "title": {
+      "vi": "Kagurabachi - Weekly Shonen Jump Sensation Manga PV",
+      "en": "Kagurabachi - Weekly Shonen Jump Sensation Manga PV",
+      "hi": "कागुराबाची शोनेन जंप मंगा पीवी"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/v8bCVyq-d_M",
+    "status": "released",
+    "releaseDate": "2026-09-18"
+  },
+  {
+    "id": "manga-trailer-013",
+    "category": "manga",
+    "title": {
+      "vi": "Death Note: Special One-Shot Manga Motion Preview",
+      "en": "Death Note: Special One-Shot Manga Motion Preview",
+      "hi": "डेथ नोट स्पेशल वन-शॉट मंगा प्रीव्यू"
+    },
+    "thumbnail": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=700&auto=format&fit=crop&q=80",
+    "mediaUrl": "https://www.youtube.com/embed/DOTgkyyA3e4",
+    "status": "upcoming",
+    "releaseDate": "2026-11-25"
+  }
+]

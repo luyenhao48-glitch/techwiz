@@ -1,0 +1,130 @@
+:root {
+  /* Core Brand Colors */
+  --color-primary: #6C5CE7;
+  --color-primary-dark: #5849C2;
+  --color-primary-light: #EDEBFD;
+  --color-accent: #FF6B81;
+  --color-success: #00B894;
+  --color-warning: #FDCB6E;
+  --color-danger: #FF4757;
+  --color-info: #0984E3;
+
+  /* Neutral, Surface, Borders */
+  --bg-body: #F8F9FC;
+  --bg-surface: #FFFFFF;
+  --bg-surface-alt: #F1F2F9;
+  --text-primary: #2D3436;
+  --text-secondary: #636E72;
+  --text-muted: #A0A4B8;
+  --border-color: #E4E6F0;
+  --text-on-primary: #FFFFFF;
+
+  /* 7 Category Accent Colors */
+  --accent-anime: #FF6B81;
+  --accent-gaming: #00B894;
+  --accent-movies: #0984E3;
+  --accent-tvshows: #5849C2;
+  --accent-kpop: #E84393;
+  --accent-comics: #FDCB6E;
+  --accent-manga: #E17055;
+
+  /* Typography */
+  --font-heading: 'Plus Jakarta Sans', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-body: 'Plus Jakarta Sans', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+  /* Sci-Fi & Cyberpunk Gaming Custom Fonts */
+  --font-gaming-display: 'Orbitron', 'Rajdhani', sans-serif;
+  --font-gaming-title: 'Rajdhani', 'Orbitron', sans-serif;
+  --font-gaming-mono: 'Share Tech Mono', monospace;
+  --neon-gaming-cyan: #00ffcc;
+  --neon-gaming-emerald: #00b894;
+  --neon-gaming-glow: 0 0 15px rgba(0, 255, 204, 0.5);
+
+  /* Anime, Manga & JRPG Custom Fonts */
+  --font-anime-title: 'Montserrat', 'Bebas Neue', sans-serif;
+  --font-anime-display: 'Bebas Neue', 'Montserrat', sans-serif;
+  --font-anime-body: 'Quicksand', 'Comfortaa', sans-serif;
+  --font-anime-cute: 'Comfortaa', 'Quicksand', cursive, sans-serif;
+
+  /* K-Pop & Idol Comeback Stage Custom Fonts */
+  --font-kpop-display: 'Unbounded', 'Poppins', sans-serif;
+  --font-kpop-title: 'Baloo 2', 'Poppins', sans-serif;
+  --font-kpop-body: 'Poppins', sans-serif;
+  --kpop-holo-1: #ff5ba8;
+  --kpop-holo-2: #a06cff;
+  --kpop-holo-3: #4fd8ff;
+  --kpop-holo-4: #ffd66b;
+
+  /* Movies & Cinematic Blockbuster Custom Fonts */
+  --font-movies-display: 'Anton', 'Oswald', sans-serif;
+  --font-movies-title: 'Oswald', 'Anton', sans-serif;
+  --font-movies-body: 'Oswald', sans-serif;
+
+  /* Manga, Comic Action & Shonen Custom Fonts */
+  --font-manga-title: 'Dela Gothic One', 'Bebas Neue', sans-serif;
+  --font-manga-display: 'Bangers', 'Dela Gothic One', cursive, sans-serif;
+  --font-manga-sfx: 'Bangers', cursive, sans-serif;
+  --font-manga-body: 'Quicksand', 'Plus Jakarta Sans', sans-serif;
+  --manga-ink-black: #11141a;
+  --manga-ink-red: #ff3838;
+  --manga-speed-line: rgba(255, 255, 255, 0.25);
+
+  /* Western Superhero, Spider-Man & Marvel/DC Comics Custom Fonts */
+  --font-comics-title: 'Bangers', 'Impact', cursive, sans-serif;
+  --font-comics-display: 'Bungee', 'Bangers', cursive, sans-serif;
+  --font-comics-body: 'Comic Neue', 'Plus Jakarta Sans', sans-serif;
+  --font-comics-sfx: 'Bangers', cursive, sans-serif;
+  --comics-spidey-red: #e74c3c;
+  --comics-spidey-blue: #0984e3;
+  --comics-hero-yellow: #f1c40f;
+  --comics-hero-dark: #0f1423;
+  --comics-panel-border: rgba(231, 76, 60, 0.4);
+
+  --fs-display: 3rem;
+  --fs-h1: 2.25rem;
+  --fs-h2: 1.75rem;
+  --fs-h3: 1.375rem;
+  --fs-h4: 1.125rem;
+  --fs-body-lg: 1.125rem;
+  --fs-body: 1rem;
+  --fs-body-sm: 0.875rem;
+  --fs-caption: 0.75rem;
+
+  /* Spacing */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-10: 40px;
+  --space-12: 48px;
+
+  /* Border Radii */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-pill: 9999px;
+
+  /* Shadows */
+  --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.08);
+  --shadow-lg: 0 10px 25px rgba(0, 0, 0, 0.12);
+  --shadow-glow: 0 0 15px rgba(108, 92, 231, 0.3);
+
+  /* Transitions */
+  --transition-fast: 150ms ease-in-out;
+  --transition-normal: 250ms ease-in-out;
+}
+
+@media (max-width: 768px) {
+  :root {
+    --fs-display: 2.25rem;
+    --fs-h1: 1.75rem;
+    --fs-h2: 1.5rem;
+    --fs-h3: 1.25rem;
+    --fs-h4: 1.0625rem;
+    --fs-body-lg: 1rem;
+    --fs-body: 0.9375rem;
+  }
+}
