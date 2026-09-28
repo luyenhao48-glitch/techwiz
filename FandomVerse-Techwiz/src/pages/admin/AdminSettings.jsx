@@ -1,10 +1,13 @@
 import React, { useState } from 'react';
 import { dataService } from '../../services/dataService.js';
 import { useAuth, ADMIN_ACCOUNT, DEMO_ACCOUNT } from '../../context/AuthContext.jsx';
+import { useLanguage } from '../../context/LanguageContext.jsx';
 import ConfirmModal from '../../components/common/ConfirmModal.jsx';
 
 export default function AdminSettings({ onShowToast }) {
   const { currentUser, switchAccount } = useAuth();
+  const { language } = useLanguage();
+  const isEn = language === 'en';
   const [stats, setStats] = useState(() => dataService.getStats());
   const [importJsonText, setImportJsonText] = useState('');
   const [isImportModalOpen, setIsImportModalOpen] = useState(false);
@@ -94,10 +97,10 @@ export default function AdminSettings({ onShowToast }) {
       <div className="mb-4">
         <h3 className="fw-bold text-white mb-1 d-flex align-items-center gap-2">
           <i className="bi bi-gear-fill" style={{ color: '#00f5d4' }}></i>
-          Cài Đặt Hệ Thống & Sao Lưu Dữ Liệu
+          {isEn ? 'System Settings & Data Backup' : 'Cài Đặt Hệ Thống & Sao Lưu Dữ Liệu'}
         </h3>
         <p className="text-secondary small mb-0">
-          Quản lý trạng thái lưu trữ LocalStorage, sao lưu JSON và khôi phục dữ liệu FandomVerse.
+          {isEn ? 'Manage LocalStorage state, JSON backups, and FandomVerse data restores.' : 'Quản lý trạng thái lưu trữ LocalStorage, sao lưu JSON và khôi phục dữ liệu FandomVerse.'}
         </p>
       </div>
 
@@ -106,41 +109,41 @@ export default function AdminSettings({ onShowToast }) {
         <div className="col-12 col-lg-6">
           <div className="fv-admin-card h-100">
             <h5 className="fw-bold mb-3 text-white d-flex align-items-center gap-2">
-              <i className="bi bi-hdd-stack text-info"></i> Tình trạng cơ sở dữ liệu
+              <i className="bi bi-hdd-stack text-info"></i> {isEn ? 'Database Status' : 'Tình trạng cơ sở dữ liệu'}
             </h5>
             <div className="table-responsive">
               <table className="table table-dark table-borderless small mb-0">
                 <tbody>
                   <tr>
-                    <td className="text-secondary">Bài viết & Media:</td>
-                    <td className="fw-bold text-end text-white">{stats.totalContents} mục</td>
+                    <td className="text-secondary">{isEn ? 'Articles & Media:' : 'Bài viết & Media:'}</td>
+                    <td className="fw-bold text-end text-white">{stats.totalContents} {isEn ? 'items' : 'mục'}</td>
                   </tr>
                   <tr>
-                    <td className="text-secondary">Trailers bom tấn:</td>
-                    <td className="fw-bold text-end text-white">{stats.totalTrailers} mục</td>
+                    <td className="text-secondary">{isEn ? 'Blockbuster Trailers:' : 'Trailers bom tấn:'}</td>
+                    <td className="fw-bold text-end text-white">{stats.totalTrailers} {isEn ? 'items' : 'mục'}</td>
                   </tr>
                   <tr>
-                    <td className="text-secondary">Sự kiện Fandom:</td>
-                    <td className="fw-bold text-end text-white">{stats.totalEvents} mục</td>
+                    <td className="text-secondary">{isEn ? 'Fandom Events:' : 'Sự kiện Fandom:'}</td>
+                    <td className="fw-bold text-end text-white">{stats.totalEvents} {isEn ? 'items' : 'mục'}</td>
                   </tr>
                   <tr>
-                    <td className="text-secondary">Vật phẩm Merchandise:</td>
-                    <td className="fw-bold text-end text-white">{stats.totalMerchandise} mục</td>
+                    <td className="text-secondary">{isEn ? 'Merchandise Store:' : 'Vật phẩm Merchandise:'}</td>
+                    <td className="fw-bold text-end text-white">{stats.totalMerchandise} {isEn ? 'items' : 'mục'}</td>
                   </tr>
                   <tr>
-                    <td className="text-secondary">Nhân vật biểu tượng:</td>
-                    <td className="fw-bold text-end text-white">{stats.totalCharacters} mục</td>
+                    <td className="text-secondary">{isEn ? 'Iconic Characters:' : 'Nhân vật biểu tượng:'}</td>
+                    <td className="fw-bold text-end text-white">{stats.totalCharacters} {isEn ? 'items' : 'mục'}</td>
                   </tr>
                   <tr className="border-top border-secondary">
-                    <td className="fw-bold text-info">Tổng số mục dữ liệu:</td>
-                    <td className="fw-bold text-end text-info fs-6">{stats.grandTotal} mục</td>
+                    <td className="fw-bold text-info">{isEn ? 'Total Database Records:' : 'Tổng số mục dữ liệu:'}</td>
+                    <td className="fw-bold text-end text-info fs-6">{stats.grandTotal} {isEn ? 'items' : 'mục'}</td>
                   </tr>
                 </tbody>
               </table>
             </div>
 
             <div className="mt-4 p-3 rounded-3" style={{ background: 'rgba(0, 0, 0, 0.25)', border: '1px solid rgba(255, 255, 255, 0.05)' }}>
-              <div className="small text-secondary mb-1">Phiên đăng nhập hiện tại:</div>
+              <div className="small text-secondary mb-1">{isEn ? 'Current login session:' : 'Phiên đăng nhập hiện tại:'}</div>
               <div className="fw-bold text-white">{currentUser?.name} ({currentUser?.email})</div>
               <div className="d-flex gap-2 mt-2">
                 <button
@@ -167,30 +170,30 @@ export default function AdminSettings({ onShowToast }) {
           <div className="fv-admin-card h-100 d-flex flex-column justify-content-between">
             <div>
               <h5 className="fw-bold mb-3 text-white d-flex align-items-center gap-2">
-                <i className="bi bi-cloud-arrow-down-fill text-success"></i> Sao lưu & Phục hồi
+                <i className="bi bi-cloud-arrow-down-fill text-success"></i> {isEn ? 'Backup & Restore' : 'Sao lưu & Phục hồi'}
               </h5>
               <p className="text-secondary small mb-4">
-                Xuất toàn bộ cơ sở dữ liệu FandomVerse ra tệp tin JSON an toàn trên máy tính của bạn, hoặc phục hồi từ một tệp sao lưu đã lưu trước đó.
+                {isEn ? 'Export complete FandomVerse database to a secure JSON file on your computer, or restore from a previously saved backup file.' : 'Xuất toàn bộ cơ sở dữ liệu FandomVerse ra tệp tin JSON an toàn trên máy tính của bạn, hoặc phục hồi từ một tệp sao lưu đã lưu trước đó.'}
               </p>
 
               <div className="d-flex flex-column gap-3">
                 <div className="d-flex justify-content-between align-items-center p-3 rounded-3" style={{ background: 'rgba(255, 255, 255, 0.03)', border: '1px solid rgba(255, 255, 255, 0.06)' }}>
                   <div>
-                    <div className="fw-bold text-white small">Xuất bản sao lưu (Export JSON)</div>
-                    <div className="text-secondary small">Tải về toàn bộ 5 bảng dữ liệu dạng JSON.</div>
+                    <div className="fw-bold text-white small">{isEn ? 'Export Backup (Export JSON)' : 'Xuất bản sao lưu (Export JSON)'}</div>
+                    <div className="text-secondary small">{isEn ? 'Download all database tables as JSON file.' : 'Tải về toàn bộ 5 bảng dữ liệu dạng JSON.'}</div>
                   </div>
                   <button type="button" className="fv-admin-btn-primary" onClick={handleExportBackup}>
-                    <i className="bi bi-download"></i> Tải về
+                    <i className="bi bi-download"></i> {isEn ? 'Download' : 'Tải về'}
                   </button>
                 </div>
 
                 <div className="d-flex justify-content-between align-items-center p-3 rounded-3" style={{ background: 'rgba(255, 255, 255, 0.03)', border: '1px solid rgba(255, 255, 255, 0.06)' }}>
                   <div>
-                    <div className="fw-bold text-white small">Nhập bản sao lưu (Import JSON)</div>
-                    <div className="text-secondary small">Phục hồi lại dữ liệu từ tệp tin JSON.</div>
+                    <div className="fw-bold text-white small">{isEn ? 'Import Backup (Import JSON)' : 'Nhập bản sao lưu (Import JSON)'}</div>
+                    <div className="text-secondary small">{isEn ? 'Restore database state from a JSON backup file.' : 'Phục hồi lại dữ liệu từ tệp tin JSON.'}</div>
                   </div>
                   <button type="button" className="fv-admin-btn-secondary" onClick={() => setIsImportModalOpen(true)}>
-                    <i className="bi bi-upload"></i> Nhập tệp
+                    <i className="bi bi-upload"></i> {isEn ? 'Import File' : 'Nhập tệp'}
                   </button>
                 </div>
               </div>
@@ -200,11 +203,11 @@ export default function AdminSettings({ onShowToast }) {
             <div className="mt-4 pt-3 border-top border-secondary">
               <div className="d-flex justify-content-between align-items-center">
                 <div>
-                  <div className="fw-bold text-danger small">Khôi phục dữ liệu gốc (Factory Reset)</div>
-                  <div className="text-secondary small">Xóa các thay đổi và đặt lại 455 dữ liệu mẫu tiêu chuẩn.</div>
+                  <div className="fw-bold text-danger small">{isEn ? 'Factory Reset' : 'Khôi phục dữ liệu gốc (Factory Reset)'}</div>
+                  <div className="text-secondary small">{isEn ? 'Reset all changes back to standard 455 default records.' : 'Xóa các thay đổi và đặt lại 455 dữ liệu mẫu tiêu chuẩn.'}</div>
                 </div>
                 <button type="button" className="fv-admin-btn-danger" onClick={handleResetToDefaults}>
-                  <i className="bi bi-arrow-counterclockwise"></i> Khôi phục gốc
+                  <i className="bi bi-arrow-counterclockwise"></i> {isEn ? 'Reset Defaults' : 'Khôi phục gốc'}
                 </button>
               </div>
             </div>

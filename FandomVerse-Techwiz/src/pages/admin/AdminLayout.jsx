@@ -1,7 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { useAuth } from '../../context/AuthContext.jsx';
+import { useLanguage } from '../../context/LanguageContext.jsx';
 import { dataService } from '../../services/dataService.js';
+import { getAdminText } from '../../utils/adminI18n.js';
 import '../../styles/admin.css';
 
 // Admin Submodules
@@ -16,6 +18,8 @@ import AdminSettings from './AdminSettings.jsx';
 
 export default function AdminLayout() {
   const { currentUser, logout } = useAuth();
+  const { language, setLanguage } = useLanguage();
+  const tAdmin = getAdminText(language);
   const navigate = useNavigate();
 
   // Tab management: read from url hash or query or internal state
@@ -40,14 +44,14 @@ export default function AdminLayout() {
   }, []);
 
   const navItems = [
-    { id: 'dashboard', label: 'Tổng quan hệ thống', icon: 'bi-grid-1x2-fill' },
-    { id: 'contents', label: 'Bài viết & Media', icon: 'bi-file-earmark-richtext-fill', badge: stats.totalContents },
-    { id: 'trailers', label: 'Trailers Bom Tấn', icon: 'bi-play-btn-fill', badge: stats.totalTrailers },
-    { id: 'events', label: 'Sự kiện Fandom', icon: 'bi-calendar-event-fill', badge: stats.totalEvents },
-    { id: 'merchandise', label: 'Cửa hàng Merch', icon: 'bi-bag-check-fill', badge: stats.totalMerchandise },
-    { id: 'characters', label: 'Nhân vật biểu tượng', icon: 'bi-person-badge-fill', badge: stats.totalCharacters },
-    { id: 'users', label: 'Quản lý thành viên', icon: 'bi-people-fill' },
-    { id: 'settings', label: 'Cài đặt & Sao lưu', icon: 'bi-gear-fill' },
+    { id: 'dashboard', label: tAdmin.sidebar.dashboard, icon: 'bi-grid-1x2-fill' },
+    { id: 'contents', label: tAdmin.sidebar.contents, icon: 'bi-file-earmark-richtext-fill', badge: stats.totalContents },
+    { id: 'trailers', label: tAdmin.sidebar.trailers, icon: 'bi-play-btn-fill', badge: stats.totalTrailers },
+    { id: 'events', label: tAdmin.sidebar.events, icon: 'bi-calendar-event-fill', badge: stats.totalEvents },
+    { id: 'merchandise', label: tAdmin.sidebar.merchandise, icon: 'bi-bag-check-fill', badge: stats.totalMerchandise },
+    { id: 'characters', label: tAdmin.sidebar.characters, icon: 'bi-person-badge-fill', badge: stats.totalCharacters },
+    { id: 'users', label: tAdmin.sidebar.users, icon: 'bi-people-fill' },
+    { id: 'settings', label: tAdmin.sidebar.settings, icon: 'bi-gear-fill' },
   ];
 
   return (
@@ -72,7 +76,7 @@ export default function AdminLayout() {
             <div>
               <div className="fw-bold text-white lh-1 fs-6">FANDOMVERSE</div>
               <div className="text-secondary small" style={{ fontSize: '0.68rem', letterSpacing: '0.05em' }}>
-                ADMIN PORTAL
+                {tAdmin.sidebar.brandSub}
               </div>
             </div>
           </div>
@@ -83,7 +87,7 @@ export default function AdminLayout() {
 
         {/* Navigation list */}
         <div className="fv-admin-nav-group">
-          <div className="fv-admin-nav-label">QUẢN LÝ DỮ LIỆU</div>
+          <div className="fv-admin-nav-label">{tAdmin.sidebar.dataManagement}</div>
 
           {navItems.map((item) => (
             <div
@@ -108,18 +112,18 @@ export default function AdminLayout() {
             </div>
           ))}
 
-          <div className="fv-admin-nav-label mt-4">ĐIỀU HƯỚNG NHANH</div>
+          <div className="fv-admin-nav-label mt-4">{tAdmin.sidebar.quickNav}</div>
           <Link to="/" className="fv-admin-nav-item text-decoration-none">
             <i className="bi bi-box-arrow-left text-warning"></i>
-            <span>Về trang chủ Website</span>
+            <span>{tAdmin.sidebar.backToHome}</span>
           </Link>
           <Link to="/trailers" className="fv-admin-nav-item text-decoration-none">
             <i className="bi bi-film text-danger"></i>
-            <span>Xem Trailers Hub</span>
+            <span>{tAdmin.sidebar.viewTrailers}</span>
           </Link>
           <Link to="/merchandise" className="fv-admin-nav-item text-decoration-none">
             <i className="bi bi-shop text-success"></i>
-            <span>Xem Cửa hàng Merch</span>
+            <span>{tAdmin.sidebar.viewMerch}</span>
           </Link>
         </div>
 
@@ -145,14 +149,14 @@ export default function AdminLayout() {
                   {currentUser?.name || 'Administrator'}
                 </div>
                 <div className="text-secondary" style={{ fontSize: '0.7rem' }}>
-                  {currentUser?.role === 'admin' ? '🛡️ Quản trị viên' : '👤 Người dùng'}
+                  {currentUser?.role === 'admin' ? tAdmin.sidebar.roleAdmin : tAdmin.sidebar.roleUser}
                 </div>
               </div>
             </div>
             <button
               type="button"
               className="btn btn-sm btn-outline-danger p-1 border-0"
-              title="Đăng xuất Admin"
+              title={tAdmin.sidebar.logoutTitle}
               onClick={() => {
                 logout();
                 navigate('/admin/login');
@@ -177,18 +181,47 @@ export default function AdminLayout() {
               <i className="bi bi-list fs-5"></i>
             </button>
             <div className="d-flex align-items-center gap-2">
-              <span className="text-secondary small d-none d-sm-inline">Admin</span>
+              <span className="text-secondary small d-none d-sm-inline">{tAdmin.topbar.adminPrefix}</span>
               <span className="text-secondary small d-none d-sm-inline">/</span>
               <span className="fw-bold text-white small">
-                {navItems.find((n) => n.id === activeTab)?.label || 'Bảng điều khiển'}
+                {navItems.find((n) => n.id === activeTab)?.label || tAdmin.sidebar.dashboard}
               </span>
             </div>
           </div>
 
           <div className="d-flex align-items-center gap-2">
+            {/* View Website Button */}
             <Link to="/" className="fv-admin-btn-secondary text-decoration-none py-1 px-3 d-none d-sm-inline-flex" style={{ fontSize: '0.85rem' }}>
-              <i className="bi bi-box-arrow-up-right me-1"></i> Xem Website
+              <i className="bi bi-box-arrow-up-right me-1"></i> {tAdmin.topbar.viewWebsite}
             </Link>
+
+            {/* Language Switcher Button (VN / EN) */}
+            <div className="btn-group" role="group" aria-label="Admin Language Toggle">
+              <button
+                type="button"
+                className={`btn btn-sm py-1 px-2.5 d-inline-flex align-items-center gap-1 rounded-pill ${
+                  language === 'vi' ? 'btn-info text-dark fw-bold' : 'btn-outline-secondary text-light'
+                }`}
+                style={{ fontSize: '0.78rem' }}
+                onClick={() => setLanguage('vi')}
+                title="Tiếng Việt (Vietnamese)"
+              >
+                <span>🇻🇳</span> <span className="d-none d-sm-inline">VN</span>
+              </button>
+              <button
+                type="button"
+                className={`btn btn-sm py-1 px-2.5 d-inline-flex align-items-center gap-1 rounded-pill ms-1 ${
+                  language === 'en' ? 'btn-info text-dark fw-bold' : 'btn-outline-secondary text-light'
+                }`}
+                style={{ fontSize: '0.78rem' }}
+                onClick={() => setLanguage('en')}
+                title="English"
+              >
+                <span>🇬🇧</span> <span className="d-none d-sm-inline">EN</span>
+              </button>
+            </div>
+
+            {/* User Profile & Logout */}
             <div className="d-flex align-items-center gap-2 ps-2 border-start border-secondary">
               <div
                 className="rounded-circle d-flex align-items-center justify-content-center fw-bold"
@@ -214,10 +247,10 @@ export default function AdminLayout() {
                   logout();
                   navigate('/admin/login');
                 }}
-                title="Đăng xuất khỏi trung tâm quản trị"
+                title={tAdmin.sidebar.logoutTitle}
               >
                 <i className="bi bi-box-arrow-right"></i>
-                <span className="d-none d-sm-inline">Đăng xuất</span>
+                <span className="d-none d-sm-inline">{tAdmin.topbar.logout}</span>
               </button>
             </div>
           </div>

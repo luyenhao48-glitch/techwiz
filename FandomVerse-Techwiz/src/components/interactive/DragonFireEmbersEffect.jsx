@@ -254,8 +254,6 @@ export default function DragonFireEmbersEffect({ autoStart = true }) {
 
         ctx.save();
         ctx.globalAlpha = currentOpacity;
-        ctx.shadowBlur = em.size * 4;
-        ctx.shadowColor = em.glow;
         ctx.fillStyle = em.color;
 
         ctx.beginPath();
@@ -286,8 +284,6 @@ export default function DragonFireEmbersEffect({ autoStart = true }) {
         ctx.globalAlpha = sw.opacity;
         ctx.strokeStyle = sw.color;
         ctx.lineWidth = 3.0;
-        ctx.shadowBlur = 22;
-        ctx.shadowColor = sw.color;
         ctx.beginPath();
         ctx.arc(sw.x, sw.y, sw.radius, 0, Math.PI * 2);
         ctx.stroke();
@@ -309,8 +305,6 @@ export default function DragonFireEmbersEffect({ autoStart = true }) {
 
         ctx.save();
         ctx.globalAlpha = sp.life;
-        ctx.shadowBlur = 16;
-        ctx.shadowColor = sp.glow;
         ctx.fillStyle = sp.color;
 
         ctx.beginPath();
@@ -342,8 +336,6 @@ export default function DragonFireEmbersEffect({ autoStart = true }) {
         ctx.globalAlpha = fr.opacity;
         ctx.font = 'bold 16px "Cinzel Decorative", "Cinzel", serif';
         ctx.textAlign = 'center';
-        ctx.shadowBlur = 18;
-        ctx.shadowColor = 'rgba(255, 71, 87, 0.95)';
         ctx.fillStyle = '#ffd32a';
         ctx.fillText(fr.text, fr.x, fr.y);
         ctx.restore();

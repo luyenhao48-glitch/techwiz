@@ -333,8 +333,6 @@ export default function GamingHextechEffect({ autoStart = true }) {
         ctx.save();
         ctx.strokeStyle = `rgba(${sw.color}, ${Math.max(0, sw.alpha)})`;
         ctx.lineWidth = sw.width * sw.alpha;
-        ctx.shadowColor = `rgba(${sw.color}, 0.9)`;
-        ctx.shadowBlur = 14;
 
         if (sw.isHex) {
           drawHexagon(ctx, sw.x, sw.y, sw.radius);

@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Anton&family=Baloo+2:wght@600;700;800&family=Bangers&family=Bebas+Neue&family=Bungee&family=Comic+Neue:ital,wght@0,400;0,700;1,700&family=Comfortaa:wght@500;600;700&family=Dela+Gothic+One&family=Montserrat:wght@500;600;700;800;900&family=Orbitron:wght@500;600;700;800;900&family=Oswald:wght@300;400;500;600;700&family=Poppins:wght@400;500;600;700;800&family=Quicksand:wght@500;600;700&family=Rajdhani:wght@500;600;700&family=Righteous&family=Share+Tech+Mono&family=Unbounded:wght@500;700;800;900&display=swap');
 @import './design-tokens.css';
 @import 'bootstrap/dist/css/bootstrap.min.css';
 @import 'bootstrap-icons/font/bootstrap-icons.css';
@@ -1898,8 +1897,8 @@ button.fv-lang-btn:hover,
   object-fit: cover !important;
   object-position: center center !important;
   z-index: 0;
-  /* Unsharp-mask (SVG feConvolveMatrix) trước, rồi mới chỉnh tương phản/màu để bù độ mờ do phóng to nguồn 720p */
-  filter: url(#hero-video-sharpen) contrast(1.08) brightness(1.02) saturate(1.1);
+  /* Tối ưu bộ lọc filter cho video hero sang GPU thuần */
+  filter: contrast(1.08) brightness(1.02) saturate(1.1);
   image-rendering: -webkit-optimize-contrast;
   image-rendering: crisp-edges;
   backface-visibility: hidden;

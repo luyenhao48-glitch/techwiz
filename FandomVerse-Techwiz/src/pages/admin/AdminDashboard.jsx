@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { dataService } from '../../services/dataService.js';
 import { useAuth } from '../../context/AuthContext.jsx';
+import { useLanguage } from '../../context/LanguageContext.jsx';
+import { getAdminText } from '../../utils/adminI18n.js';
 import { resolveAdminImage, handleImageFallback } from '../../utils/adminImageHelper.js';
 
 const CATEGORY_NAMES = {
@@ -17,6 +19,9 @@ const CATEGORY_NAMES = {
 export default function AdminDashboard({ onNavigateTab }) {
   const [stats, setStats] = useState(() => dataService.getStats());
   const { users, currentUser } = useAuth();
+  const { language } = useLanguage();
+  const isEn = language === 'en';
+  const tAdmin = getAdminText(language);
 
   // Visual showcase state
   const [recentMerch, setRecentMerch] = useState(() => dataService.getRawMerchandise().slice(0, 4));
@@ -40,7 +45,7 @@ export default function AdminDashboard({ onNavigateTab }) {
 
   const statCards = [
     {
-      label: 'Bài viết & Media',
+      label: tAdmin.dashboard.statContents,
       value: stats.totalContents,
       icon: 'bi-file-earmark-richtext',
       color: '#00f5d4',
@@ -48,7 +53,7 @@ export default function AdminDashboard({ onNavigateTab }) {
       tab: 'contents',
     },
     {
-      label: 'Trailer bom tấn',
+      label: tAdmin.dashboard.statTrailers,
       value: stats.totalTrailers,
       icon: 'bi-play-btn',
       color: '#ff5e8c',
@@ -56,7 +61,7 @@ export default function AdminDashboard({ onNavigateTab }) {
       tab: 'trailers',
     },
     {
-      label: 'Sự kiện Fandom',
+      label: tAdmin.dashboard.statEvents,
       value: stats.totalEvents,
       icon: 'bi-calendar-event',
       color: '#00a8ff',
@@ -64,7 +69,7 @@ export default function AdminDashboard({ onNavigateTab }) {
       tab: 'events',
     },
     {
-      label: 'Vật phẩm Merch',
+      label: tAdmin.dashboard.statMerch,
       value: stats.totalMerchandise,
       icon: 'bi-bag-check',
       color: '#feca57',
@@ -72,7 +77,7 @@ export default function AdminDashboard({ onNavigateTab }) {
       tab: 'merchandise',
     },
     {
-      label: 'Nhân vật biểu tượng',
+      label: tAdmin.dashboard.statCharacters,
       value: stats.totalCharacters,
       icon: 'bi-person-badge',
       color: '#a29bfe',
@@ -80,7 +85,7 @@ export default function AdminDashboard({ onNavigateTab }) {
       tab: 'characters',
     },
     {
-      label: 'Thành viên hệ thống',
+      label: tAdmin.dashboard.statUsers,
       value: users.length,
       icon: 'bi-people',
       color: '#2ecc71',
@@ -103,27 +108,27 @@ export default function AdminDashboard({ onNavigateTab }) {
         <div>
           <div className="d-flex align-items-center gap-2 mb-2">
             <span className="badge bg-success-subtle text-success border border-success-subtle px-2 py-1 rounded-pill" style={{ fontSize: '0.75rem' }}>
-              <i className="bi bi-circle-fill me-1" style={{ fontSize: '0.5rem' }}></i> Hệ thống hoạt động hoàn hảo
+              <i className="bi bi-circle-fill me-1" style={{ fontSize: '0.5rem' }}></i> {tAdmin.dashboard.systemOperational}
             </span>
-            <span className="text-secondary small">| Cập nhật hình ảnh trực quan V2.0</span>
+            <span className="text-secondary small">{tAdmin.dashboard.v2Update}</span>
           </div>
           <h2 className="fw-bold mb-1 text-white">
-            Chào mừng trở lại, <span style={{ color: '#00f5d4' }}>{currentUser?.name || 'Quản trị viên'}</span> 👋
+            {tAdmin.dashboard.welcomeBack} <span style={{ color: '#00f5d4' }}>{currentUser?.name || (isEn ? 'Administrator' : 'Quản trị viên')}</span> 👋
           </h2>
           <p className="text-secondary mb-0 small">
-            Bảng điều khiển quản lý toàn diện đa vũ trụ FandomVerse với kho tư liệu trực quan, ảnh sản phẩm, bài viết và trailer độ phân giải cao.
+            {tAdmin.dashboard.bannerDesc}
           </p>
         </div>
         <div className="d-flex gap-2">
           <Link to="/" className="fv-admin-btn-secondary text-decoration-none">
-            <i className="bi bi-globe"></i> Xem trang chính
+            <i className="bi bi-globe"></i> {tAdmin.dashboard.viewMainSite}
           </Link>
           <button
             type="button"
             className="fv-admin-btn-primary"
             onClick={() => onNavigateTab('settings')}
           >
-            <i className="bi bi-gear-fill"></i> Cài đặt & Sao lưu
+            <i className="bi bi-gear-fill"></i> {tAdmin.dashboard.settingsBtn}
           </button>
         </div>
       </div>
@@ -160,10 +165,10 @@ export default function AdminDashboard({ onNavigateTab }) {
           <div>
             <h5 className="fw-bold text-white mb-1 d-flex align-items-center gap-2">
               <i className="bi bi-bag-check-fill text-warning"></i>
-              Vật Phẩm & Sản Phẩm Cửa Hàng (Hình Ảnh Trực Quan)
+              {tAdmin.dashboard.merchShowcaseTitle}
             </h5>
             <p className="text-secondary small mb-0">
-              Xem trước hình ảnh mô hình figure, trang phục và đồ sưu tầm hiển thị ngoài gian hàng.
+              {tAdmin.dashboard.merchShowcaseDesc}
             </p>
           </div>
           <button
@@ -172,20 +177,20 @@ export default function AdminDashboard({ onNavigateTab }) {
             style={{ fontSize: '0.82rem' }}
             onClick={() => onNavigateTab('merchandise')}
           >
-            Xem tất cả ({stats.totalMerchandise}) <i className="bi bi-arrow-right ms-1"></i>
+            {tAdmin.dashboard.viewAll} ({stats.totalMerchandise}) <i className="bi bi-arrow-right ms-1"></i>
           </button>
         </div>
 
         <div className="row g-3">
           {recentMerch.map((item) => {
-            const nameVi = item.name?.vi || item.name;
+            const displayName = item.name?.[language] || item.name?.en || item.name?.vi || item.name;
             return (
               <div key={item.id} className="col-6 col-md-3">
                 <div className="fv-admin-grid-card">
                   <div className="fv-admin-grid-img-wrap" style={{ height: '160px' }}>
                     <img
                       src={resolveAdminImage(item, item.category)}
-                      alt={nameVi}
+                      alt={displayName}
                       className="fv-admin-grid-img"
                       onError={(e) => handleImageFallback(e, item.category)}
                     />
@@ -195,7 +200,7 @@ export default function AdminDashboard({ onNavigateTab }) {
                       }`}
                       style={{ fontSize: '0.68rem' }}
                     >
-                      {item.inStock !== false ? 'Còn hàng' : 'Hết hàng'}
+                      {item.inStock !== false ? tAdmin.dashboard.inStock : tAdmin.dashboard.outOfStock}
                     </span>
                     <span className="badge bg-dark bg-opacity-75 text-warning position-absolute bottom-0 start-0 m-2" style={{ fontSize: '0.72rem' }}>
                       <i className="bi bi-star-fill me-1"></i>{item.rating || 4.9}
@@ -210,8 +215,8 @@ export default function AdminDashboard({ onNavigateTab }) {
                         ${typeof item.price === 'number' ? item.price.toFixed(2) : item.price}
                       </strong>
                     </div>
-                    <div className="fw-bold text-white small text-truncate" title={nameVi}>
-                      {nameVi}
+                    <div className="fw-bold text-white small text-truncate" title={displayName}>
+                      {displayName}
                     </div>
                     <div className="text-muted mt-1" style={{ fontSize: '0.7rem' }}>
                       ID: <code>{item.id}</code>
@@ -232,7 +237,7 @@ export default function AdminDashboard({ onNavigateTab }) {
             <div className="d-flex justify-content-between align-items-center mb-3">
               <h5 className="fw-bold text-white mb-0 d-flex align-items-center gap-2">
                 <i className="bi bi-image-fill text-info"></i>
-                Bài Viết & Media Nổi Bật
+                {tAdmin.dashboard.contentsShowcaseTitle}
               </h5>
               <button
                 type="button"
@@ -240,13 +245,13 @@ export default function AdminDashboard({ onNavigateTab }) {
                 style={{ fontSize: '0.8rem' }}
                 onClick={() => onNavigateTab('contents')}
               >
-                Quản lý ({stats.totalContents})
+                {tAdmin.dashboard.manageTitle} ({stats.totalContents})
               </button>
             </div>
 
             <div className="d-flex flex-column gap-3">
               {recentContents.map((c) => {
-                const titleVi = c.title?.vi || c.title;
+                const displayTitle = c.title?.[language] || c.title?.en || c.title?.vi || c.title;
                 return (
                   <div
                     key={c.id}
@@ -255,7 +260,7 @@ export default function AdminDashboard({ onNavigateTab }) {
                   >
                     <img
                       src={resolveAdminImage(c, c.category)}
-                      alt={titleVi}
+                      alt={displayTitle}
                       className="rounded-3 object-fit-cover flex-shrink-0"
                       style={{ width: '80px', height: '56px', border: '1px solid rgba(255, 255, 255, 0.1)' }}
                       onError={(e) => handleImageFallback(e, c.category)}
@@ -268,13 +273,13 @@ export default function AdminDashboard({ onNavigateTab }) {
                         <span className="badge bg-secondary-subtle text-light" style={{ fontSize: '0.62rem' }}>
                           {c.type}
                         </span>
-                        {c.featured && <span className="badge bg-warning text-dark" style={{ fontSize: '0.6rem' }}>⭐ Nổi bật</span>}
+                        {c.featured && <span className="badge bg-warning text-dark" style={{ fontSize: '0.6rem' }}>{tAdmin.dashboard.featuredBadge}</span>}
                       </div>
-                      <div className="fw-semibold text-white small text-truncate" title={titleVi}>
-                        {titleVi}
+                      <div className="fw-semibold text-white small text-truncate" title={displayTitle}>
+                        {displayTitle}
                       </div>
                       <div className="text-secondary" style={{ fontSize: '0.7rem' }}>
-                        {c.dateAdded || 'Mới cập nhật'} • {c.author || 'Editorial'}
+                        {c.dateAdded || tAdmin.dashboard.updatedRecently} • {c.author || tAdmin.dashboard.editorialAuthor}
                       </div>
                     </div>
                   </div>
@@ -290,7 +295,7 @@ export default function AdminDashboard({ onNavigateTab }) {
             <div className="d-flex justify-content-between align-items-center mb-3">
               <h5 className="fw-bold text-white mb-0 d-flex align-items-center gap-2">
                 <i className="bi bi-play-circle-fill text-danger"></i>
-                Trailers Bom Tấn Mới Nhất
+                {tAdmin.dashboard.trailersShowcaseTitle}
               </h5>
               <button
                 type="button"
@@ -298,20 +303,20 @@ export default function AdminDashboard({ onNavigateTab }) {
                 style={{ fontSize: '0.8rem' }}
                 onClick={() => onNavigateTab('trailers')}
               >
-                Quản lý ({stats.totalTrailers})
+                {tAdmin.dashboard.manageTitle} ({stats.totalTrailers})
               </button>
             </div>
 
             <div className="row g-2">
               {recentTrailers.map((t) => {
-                const titleVi = t.title?.vi || t.title;
+                const displayTitle = t.title?.[language] || t.title?.en || t.title?.vi || t.title;
                 return (
                   <div key={t.id} className="col-6">
                     <div className="fv-admin-grid-card">
                       <div className="fv-admin-grid-img-wrap" style={{ height: '105px' }}>
                         <img
                           src={resolveAdminImage(t, t.category)}
-                          alt={titleVi}
+                          alt={displayTitle}
                           className="fv-admin-grid-img"
                           onError={(e) => handleImageFallback(e, t.category)}
                         />
@@ -326,8 +331,8 @@ export default function AdminDashboard({ onNavigateTab }) {
                         </span>
                       </div>
                       <div className="p-2">
-                        <div className="fw-semibold text-white small text-truncate" title={titleVi} style={{ fontSize: '0.8rem' }}>
-                          {titleVi}
+                        <div className="fw-semibold text-white small text-truncate" title={displayTitle} style={{ fontSize: '0.8rem' }}>
+                          {displayTitle}
                         </div>
                         <span className={`fv-badge-cat fv-cat-${t.category} mt-1`} style={{ fontSize: '0.6rem', padding: '1px 5px' }}>
                           {t.category}
@@ -348,10 +353,10 @@ export default function AdminDashboard({ onNavigateTab }) {
           <div>
             <h5 className="fw-bold text-white mb-1 d-flex align-items-center gap-2">
               <i className="bi bi-person-bounding-box" style={{ color: '#a29bfe' }}></i>
-              Hồ Sơ Nhân Vật Biểu Tượng (Avatars & Visuals)
+              {tAdmin.dashboard.charactersShowcaseTitle}
             </h5>
             <p className="text-secondary small mb-0">
-              Nhân vật trung tâm của từng vũ trụ FandomVerse với hình ảnh đại diện đặc sắc.
+              {tAdmin.dashboard.charactersShowcaseDesc}
             </p>
           </div>
           <button
@@ -360,13 +365,13 @@ export default function AdminDashboard({ onNavigateTab }) {
             style={{ fontSize: '0.82rem' }}
             onClick={() => onNavigateTab('characters')}
           >
-            Quản lý nhân vật ({stats.totalCharacters}) <i className="bi bi-arrow-right ms-1"></i>
+            {tAdmin.dashboard.manageTitle} ({stats.totalCharacters}) <i className="bi bi-arrow-right ms-1"></i>
           </button>
         </div>
 
         <div className="row g-3">
           {recentCharacters.map((char) => {
-            const nameVi = char.name?.vi || char.name;
+            const displayName = char.name?.[language] || char.name?.en || char.name?.vi || char.name;
             return (
               <div key={char.id} className="col-4 col-md-2 text-center">
                 <div
@@ -384,13 +389,13 @@ export default function AdminDashboard({ onNavigateTab }) {
                   >
                     <img
                       src={resolveAdminImage(char, char.category)}
-                      alt={nameVi}
+                      alt={displayName}
                       style={{ width: '100%', height: '100%', objectFit: 'cover' }}
                       onError={(e) => handleImageFallback(e, char.category)}
                     />
                   </div>
-                  <div className="fw-bold text-white small text-truncate" title={nameVi}>
-                    {nameVi}
+                  <div className="fw-bold text-white small text-truncate" title={displayName}>
+                    {displayName}
                   </div>
                   <div className="text-secondary text-truncate" style={{ fontSize: '0.7rem' }}>
                     {char.franchise}
@@ -413,14 +418,14 @@ export default function AdminDashboard({ onNavigateTab }) {
             <div className="d-flex justify-content-between align-items-center mb-3">
               <h5 className="fw-bold mb-0 text-white d-flex align-items-center gap-2">
                 <i className="bi bi-pie-chart-fill" style={{ color: '#00f5d4' }}></i>
-                Phân bổ dữ liệu theo 7 Fandom
+                {tAdmin.dashboard.categoryDistTitle}
               </h5>
               <span className="badge bg-dark border border-secondary text-secondary">
-                13 mục / phần
+                {tAdmin.dashboard.itemsPerPart}
               </span>
             </div>
             <p className="text-secondary small mb-4">
-              Mỗi danh mục được cân bằng đồng đều về bài viết, trailers bom tấn, sự kiện toàn cầu, nhân vật tiêu biểu và sản phẩm độc quyền.
+              {tAdmin.dashboard.categoryDistDesc}
             </p>
 
             <div className="d-flex flex-column gap-3">
@@ -434,7 +439,9 @@ export default function AdminDashboard({ onNavigateTab }) {
                         <i className={`bi ${info.icon}`}></i> {info.name}
                       </span>
                       <span className="text-secondary">
-                        <strong className="text-white">{counts.total}</strong> mục ({counts.contents} bài viết, {counts.trailers} trailers, {counts.events} sự kiện, {counts.characters} nhân vật, {counts.merchandise} merch)
+                        <strong className="text-white">{counts.total}</strong> {isEn
+                          ? `items (${counts.contents} articles, ${counts.trailers} trailers, ${counts.events} events, ${counts.characters} characters, ${counts.merchandise} merch)`
+                          : `mục (${counts.contents} bài viết, ${counts.trailers} trailers, ${counts.events} sự kiện, ${counts.characters} nhân vật, ${counts.merchandise} merch)`}
                       </span>
                     </div>
                     <div className="progress" style={{ height: '7px', background: 'rgba(255, 255, 255, 0.05)', borderRadius: '4px' }}>
@@ -461,7 +468,7 @@ export default function AdminDashboard({ onNavigateTab }) {
             <div>
               <h5 className="fw-bold mb-3 text-white d-flex align-items-center gap-2">
                 <i className="bi bi-lightning-charge-fill" style={{ color: '#feca57' }}></i>
-                Thao tác nhanh
+                {tAdmin.dashboard.quickActionsTitle}
               </h5>
               <div className="d-flex flex-column gap-2 mb-4">
                 <button
@@ -469,35 +476,35 @@ export default function AdminDashboard({ onNavigateTab }) {
                   className="fv-admin-btn-secondary justify-content-start w-100"
                   onClick={() => onNavigateTab('contents')}
                 >
-                  <i className="bi bi-plus-circle text-info"></i> Thêm bài viết / media mới
+                  <i className="bi bi-plus-circle text-info"></i> {tAdmin.dashboard.addNewContent}
                 </button>
                 <button
                   type="button"
                   className="fv-admin-btn-secondary justify-content-start w-100"
                   onClick={() => onNavigateTab('trailers')}
                 >
-                  <i className="bi bi-plus-circle text-danger"></i> Thêm trailer bom tấn
+                  <i className="bi bi-plus-circle text-danger"></i> {tAdmin.dashboard.addNewTrailer}
                 </button>
                 <button
                   type="button"
                   className="fv-admin-btn-secondary justify-content-start w-100"
                   onClick={() => onNavigateTab('events')}
                 >
-                  <i className="bi bi-plus-circle text-primary"></i> Đăng lịch sự kiện mới
+                  <i className="bi bi-plus-circle text-primary"></i> {tAdmin.dashboard.addNewEvent}
                 </button>
                 <button
                   type="button"
                   className="fv-admin-btn-secondary justify-content-start w-100"
                   onClick={() => onNavigateTab('merchandise')}
                 >
-                  <i className="bi bi-plus-circle text-warning"></i> Thêm vật phẩm shop
+                  <i className="bi bi-plus-circle text-warning"></i> {tAdmin.dashboard.addNewMerch}
                 </button>
                 <button
                   type="button"
                   className="fv-admin-btn-secondary justify-content-start w-100"
                   onClick={() => onNavigateTab('characters')}
                 >
-                  <i className="bi bi-plus-circle text-purple" style={{ color: '#a29bfe' }}></i> Thêm hồ sơ nhân vật
+                  <i className="bi bi-plus-circle text-purple" style={{ color: '#a29bfe' }}></i> {tAdmin.dashboard.addNewChar}
                 </button>
               </div>
             </div>
@@ -506,12 +513,12 @@ export default function AdminDashboard({ onNavigateTab }) {
               className="p-3 rounded-3 mt-auto"
               style={{ background: 'rgba(0, 0, 0, 0.25)', border: '1px solid rgba(255, 255, 255, 0.05)' }}
             >
-              <div className="small text-secondary mb-1">Cơ chế lưu trữ:</div>
+              <div className="small text-secondary mb-1">{tAdmin.dashboard.storageTitle}</div>
               <div className="fw-bold small text-white d-flex align-items-center gap-2">
                 <i className="bi bi-hdd-network text-success"></i> LocalStorage + Live State Broadcast
               </div>
               <div className="small text-secondary mt-1" style={{ fontSize: '0.75rem' }}>
-                Mọi thay đổi cập nhật tức thì ra ngoài giao diện người dùng.
+                {tAdmin.dashboard.instantSyncNotice}
               </div>
             </div>
           </div>
