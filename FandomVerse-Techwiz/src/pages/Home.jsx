@@ -151,19 +151,6 @@ export default function Home() {
       {/* 1. CINEMATIC 1280x720 VIDEO HERO SECTION WITH DARK STAGE BACKDROP */}
       <div className="hero-stage-container hero-pull-under-nav">
         <section className="hero-video-wrapper position-relative text-white">
-          {/* SVG unsharp-mask filter to counter the blur from upscaling a 720p source */}
-          <svg width="0" height="0" style={{ position: 'absolute' }} aria-hidden="true">
-            <defs>
-              <filter id="hero-video-sharpen">
-                <feConvolveMatrix
-                  order="3"
-                  kernelMatrix="0 -1 0 -1 5 -1 0 -1 0"
-                  preserveAlpha="true"
-                />
-              </filter>
-            </defs>
-          </svg>
-
           {/* Fullscreen Video Background */}
           <video
             ref={heroVideoRef}
@@ -173,7 +160,8 @@ export default function Home() {
             loop
             muted
             playsInline
-            poster="/hero-poster.png"
+            preload="metadata"
+            poster="/hero-poster.webp"
             src="/hero-video.mp4"
           >
             <source src="/hero-video.mp4" type="video/mp4" />

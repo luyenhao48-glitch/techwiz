@@ -382,8 +382,6 @@ export default function MoviesProjectorEffect({ autoStart = true }) {
       // Vành đai lửa ma thuật Sling Ring Doctor Strange quay tròn
       ctx.strokeStyle = 'rgba(255, 195, 18, 0.65)';
       ctx.lineWidth = 2.4;
-      ctx.shadowColor = '#ff9f1a';
-      ctx.shadowBlur = 16;
       ctx.beginPath();
       ctx.arc(portalCenter.x, portalCenter.y, portalCenter.radius, portalAngle, portalAngle + Math.PI * 1.5);
       ctx.stroke();
@@ -484,8 +482,6 @@ export default function MoviesProjectorEffect({ autoStart = true }) {
         ctx.save();
         ctx.strokeStyle = `rgba(${sw.color}, ${Math.max(0, sw.alpha)})`;
         ctx.lineWidth = sw.width * sw.alpha;
-        ctx.shadowColor = `rgba(${sw.color}, 0.85)`;
-        ctx.shadowBlur = 14;
         ctx.beginPath();
         ctx.arc(sw.x, sw.y, sw.radius, 0, Math.PI * 2);
         ctx.stroke();
