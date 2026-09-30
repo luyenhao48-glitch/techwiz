@@ -1,0 +1,47 @@
+{
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "FandomVerse",
+    "identifier": "did:web:fandom-verse-techwiz.vercel.app"
+  },
+  "entries": [
+    {
+      "identifier": "urn:fandomverse:page:trailers",
+      "displayName": "Fandom Trailers Hub",
+      "type": "text/html",
+      "url": "https://fandom-verse-techwiz.vercel.app/#/trailers",
+      "description": "Watch upcoming and released trailers and teasers across Anime, Gaming, Movies, TV Shows, K-Pop, Comics, and Manga.",
+      "representativeQueries": [
+        "watch anime trailers",
+        "latest gaming trailers",
+        "blockbuster movie teasers",
+        "find K-pop music videos"
+      ]
+    },
+    {
+      "identifier": "urn:fandomverse:page:merchandise",
+      "displayName": "Fandom Merchandise Store",
+      "type": "text/html",
+      "url": "https://fandom-verse-techwiz.vercel.app/#/merchandise",
+      "description": "Browse and purchase official scale figures, cosplay apparel, chibi plushies, and rare collectibles.",
+      "representativeQueries": [
+        "buy anime figures",
+        "shop gaming gear",
+        "fandom hoodies and clothes",
+        "order plushies"
+      ]
+    },
+    {
+      "identifier": "urn:fandomverse:page:categories",
+      "displayName": "Fandom Universes Catalog",
+      "type": "text/html",
+      "url": "https://fandom-verse-techwiz.vercel.app/#/category/anime",
+      "description": "Explore curated universe lore, character databases, and featured articles across 7 fandom categories.",
+      "representativeQueries": [
+        "anime universe lore",
+        "gaming wiki",
+        "fandom character database"
+      ]
+    }
+  ]
+}

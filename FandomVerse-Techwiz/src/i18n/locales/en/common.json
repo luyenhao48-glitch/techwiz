@@ -366,7 +366,18 @@
     "clearFilters": "Clear filters",
     "badgeUpcoming": "COMING SOON",
     "badgeReleased": "RELEASED",
-    "watchTrailer": "Watch Trailer"
+    "watchTrailer": "Watch Trailer",
+    "trailerUnit": "trailers"
+  },
+  "pagination": {
+    "showing": "Showing",
+    "of": "of",
+    "items": "items",
+    "perPage": "/ page",
+    "first": "First",
+    "prev": "Prev",
+    "next": "Next",
+    "last": "Last"
   },
   "merchandise": {
     "title": "Fandom Merchandise Shop",

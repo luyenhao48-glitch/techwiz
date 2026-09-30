@@ -15,9 +15,9 @@ import ChatbotWidget from './components/interactive/ChatbotWidget.jsx';
 import MobileBottomNav from './components/common/MobileBottomNav.jsx';
 import ScrollToTop from './components/common/ScrollToTop.jsx';
 import RequireAdmin from './components/common/RequireAdmin.jsx';
+import Home from './pages/Home.jsx';
 
-// Lazy loading all page views for optimized initial load
-const Home = lazy(() => import('./pages/Home.jsx'));
+// Lazy loading secondary page views for code splitting
 const CategoryHub = lazy(() => import('./pages/CategoryHub.jsx'));
 const ContentDetail = lazy(() => import('./pages/ContentDetail.jsx'));
 const TrailersHub = lazy(() => import('./pages/TrailersHub.jsx'));

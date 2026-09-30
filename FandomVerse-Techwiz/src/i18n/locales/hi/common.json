@@ -363,7 +363,18 @@
     "clearFilters": "फ़िल्टर हटाएं",
     "badgeUpcoming": "जल्द आ रहा है",
     "badgeReleased": "रिलीज़ हो चुका",
-    "watchTrailer": "ट्रेलर देखें"
+    "watchTrailer": "ट्रेलर देखें",
+    "trailerUnit": "ट्रेलर"
+  },
+  "pagination": {
+    "showing": "दिखा रहा है",
+    "of": "कुल में से",
+    "items": "मद",
+    "perPage": "/ पृष्ठ",
+    "first": "पहला",
+    "prev": "पिछला",
+    "next": "अगला",
+    "last": "अंतिम"
   },
   "merchandise": {
     "title": "फैंडम मर्चेंडाइज़ शॉप",

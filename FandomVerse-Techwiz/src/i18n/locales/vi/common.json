@@ -366,7 +366,18 @@
     "clearFilters": "Xóa bộ lọc",
     "badgeUpcoming": "SẮP CHIẾU",
     "badgeReleased": "ĐÃ RA MẮT",
-    "watchTrailer": "Xem Trailer"
+    "watchTrailer": "Xem Trailer",
+    "trailerUnit": "trailer"
+  },
+  "pagination": {
+    "showing": "Hiển thị",
+    "of": "trên",
+    "items": "mục",
+    "perPage": "/ trang",
+    "first": "Trang đầu",
+    "prev": "Trước",
+    "next": "Sau",
+    "last": "Trang cuối"
   },
   "merchandise": {
     "title": "Gian Hàng Fandom Merchandise",
