@@ -1,17 +1,11 @@
 {
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/index.html"
-    }
-  ],
   "headers": [
     {
-      "source": "/(.*).(jpg|jpeg|png|webp|svg|ico|mp4|webm|woff|woff2)",
+      "source": "/(.*\\.(?:ico|png|jpg|jpeg|webp|svg|woff|woff2|mp4|webm|js|css))",
       "headers": [
         {
           "key": "Cache-Control",
-          "value": "public, max-age=864000, immutable"
+          "value": "public, max-age=31536000, immutable"
         }
       ]
     },
@@ -23,6 +17,21 @@
           "value": "public, max-age=31536000, immutable"
         }
       ]
+    },
+    {
+      "source": "/(robots\\.txt|sitemap\\.xml|llms\\.txt|.*\\.json)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400, stale-while-revalidate=86400"
+        }
+      ]
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
   ]
 }

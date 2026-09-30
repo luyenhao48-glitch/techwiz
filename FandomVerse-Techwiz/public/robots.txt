@@ -1,0 +1,6 @@
+# robots.txt for FandomVerse
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://fandom-verse-techwiz.vercel.app/sitemap.xml

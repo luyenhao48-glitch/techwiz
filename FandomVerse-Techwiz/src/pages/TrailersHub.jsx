@@ -1,9 +1,10 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 import { dataService } from '../services/dataService.js';
 import { CATEGORY_LIST } from '../constants.js';
 import VideoModal from '../components/interactive/VideoModal.jsx';
 import EmptyState from '../components/common/EmptyState.jsx';
+import Pagination from '../components/common/Pagination.jsx';
 import { useDataSync } from '../hooks/useDataSync.js';
 
 export default function TrailersHub() {
@@ -11,6 +12,8 @@ export default function TrailersHub() {
   const [selectedCategory, setSelectedCategory] = useState('all');
   const [selectedStatus, setSelectedStatus] = useState('all');
   const [activeTrailer, setActiveTrailer] = useState(null);
+  const [currentPage, setCurrentPage] = useState(1);
+  const [pageSize, setPageSize] = useState(8);
   const dataVersion = useDataSync();
 
   const CATEGORY_LIST_LOCALIZED = CATEGORY_LIST.map((cat) => ({
@@ -23,6 +26,29 @@ export default function TrailersHub() {
       status: selectedStatus,
     });
   }, [selectedCategory, selectedStatus, dataVersion]);
+
+  // Reset to page 1 whenever category or status filter changes
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [selectedCategory, selectedStatus]);
+
+  const totalPages = Math.max(1, Math.ceil(trailers.length / pageSize));
+  const safeCurrentPage = Math.min(Math.max(1, currentPage), totalPages);
+
+  const paginatedTrailers = useMemo(() => {
+    const start = (safeCurrentPage - 1) * pageSize;
+    return trailers.slice(start, start + pageSize);
+  }, [trailers, safeCurrentPage, pageSize]);
+
+  const handlePageChange = (page) => {
+    setCurrentPage(page);
+    const anchor = document.getElementById('trailers-grid-start');
+    if (anchor) {
+      const yOffset = -90;
+      const y = anchor.getBoundingClientRect().top + window.pageYOffset + yOffset;
+      window.scrollTo({ top: Math.max(0, y), behavior: 'smooth' });
+    }
+  };
 
   return (
     <div className="container-fluid px-3 px-md-4 px-lg-5 py-4">
@@ -94,6 +120,7 @@ export default function TrailersHub() {
       </div>
 
       {/* Trailers Grid */}
+      <div id="trailers-grid-start"></div>
       {trailers.length === 0 ? (
         <EmptyState
           title={t('trailersHub.noTrailersTitle')}
@@ -101,73 +128,90 @@ export default function TrailersHub() {
           onAction={() => {
             setSelectedCategory('all');
             setSelectedStatus('all');
+            setCurrentPage(1);
           }}
           actionLabel={t('trailersHub.clearFilters')}
         />
       ) : (
-        <div className="row g-4">
-          {trailers.map((t2) => (
-            <div key={t2.id} className="col-xl-3 col-lg-4 col-md-6 col-12">
-              <div
-                className={`card fv-card h-100 border-0 shadow-sm rounded-4 overflow-hidden accent-border-${t2.category}`}
-                style={{ cursor: 'pointer' }}
-                onClick={() => setActiveTrailer(t2)}
-              >
-                {/* Thumbnail with Play Icon */}
-                <div className="position-relative overflow-hidden" style={{ height: '210px', backgroundColor: '#000' }}>
-                  <img
-                    src={t2.thumbnail}
-                    alt={t2.title}
-                    className="w-100 h-100 object-fit-cover opacity-85"
-                    loading="lazy"
-                  />
-                  {/* Play Button Overlay */}
-                  <div className="position-absolute top-50 start-50 translate-middle">
-                    <div
-                      className="rounded-circle bg-danger text-white d-flex align-items-center justify-content-center shadow-lg"
-                      style={{ width: '56px', height: '56px' }}
-                    >
-                      <i className="bi bi-play-fill fs-2 ms-1"></i>
+        <>
+          <div className="row g-4">
+            {paginatedTrailers.map((t2) => (
+              <div key={t2.id} className="col-xl-3 col-lg-4 col-md-6 col-12">
+                <div
+                  className={`card fv-card h-100 border-0 shadow-sm rounded-4 overflow-hidden accent-border-${t2.category}`}
+                  style={{ cursor: 'pointer' }}
+                  onClick={() => setActiveTrailer(t2)}
+                >
+                  {/* Thumbnail with Play Icon */}
+                  <div className="position-relative overflow-hidden" style={{ height: '210px', backgroundColor: '#000' }}>
+                    <img
+                      src={t2.thumbnail}
+                      alt={t2.title}
+                      className="w-100 h-100 object-fit-cover opacity-85"
+                      loading="lazy"
+                    />
+                    {/* Play Button Overlay */}
+                    <div className="position-absolute top-50 start-50 translate-middle">
+                      <div
+                        className="rounded-circle bg-danger text-white d-flex align-items-center justify-content-center shadow-lg"
+                        style={{ width: '56px', height: '56px' }}
+                      >
+                        <i className="bi bi-play-fill fs-2 ms-1"></i>
+                      </div>
                     </div>
-                  </div>
 
-                  {/* Status Badge */}
-                  <span
-                    className={`position-absolute top-0 end-0 m-2 badge rounded-pill px-3 py-1 ${
-                      t2.status === 'upcoming' ? 'bg-warning text-dark fw-bold' : 'bg-success text-white'
-                    }`}
-                  >
-                    {t2.status === 'upcoming' ? t('trailersHub.badgeUpcoming') : t('trailersHub.badgeReleased')}
-                  </span>
-                </div>
-
-                {/* Card Body */}
-                <div className="card-body p-3 d-flex flex-column">
-                  <div className="d-flex align-items-center justify-content-between mb-2">
-                    <span className={`badge-category badge-category-${t2.category}`} style={{ fontSize: '0.7rem' }}>
-                      {t2.category.toUpperCase()}
-                    </span>
-                    <span className="text-muted small" style={{ fontSize: '0.75rem' }}>
-                      <i className="bi bi-calendar-event me-1"></i>
-                      {t2.releaseDate}
+                    {/* Status Badge */}
+                    <span
+                      className={`position-absolute top-0 end-0 m-2 badge rounded-pill px-3 py-1 ${
+                        t2.status === 'upcoming' ? 'bg-warning text-dark fw-bold' : 'bg-success text-white'
+                      }`}
+                    >
+                      {t2.status === 'upcoming' ? t('trailersHub.badgeUpcoming') : t('trailersHub.badgeReleased')}
                     </span>
                   </div>
 
-                  <h5 className="font-heading fs-6 fw-bold mb-3 text-dark line-clamp-2">
-                    {t2.title}
-                  </h5>
+                  {/* Card Body */}
+                  <div className="card-body p-3 d-flex flex-column">
+                    <div className="d-flex align-items-center justify-content-between mb-2">
+                      <span className={`badge-category badge-category-${t2.category}`} style={{ fontSize: '0.7rem' }}>
+                        {t2.category.toUpperCase()}
+                      </span>
+                      <span className="text-muted small" style={{ fontSize: '0.75rem' }}>
+                        <i className="bi bi-calendar-event me-1"></i>
+                        {t2.releaseDate}
+                      </span>
+                    </div>
 
-                  <button
-                    type="button"
-                    className="btn btn-sm btn-outline-danger w-100 rounded-pill mt-auto py-2 d-flex align-items-center justify-content-center gap-2"
-                  >
-                    <i className="bi bi-play-circle"></i> {t('trailersHub.watchTrailer')}
-                  </button>
+                    <h5 className="font-heading fs-6 fw-bold mb-3 text-dark line-clamp-2">
+                      {t2.title}
+                    </h5>
+
+                    <button
+                      type="button"
+                      className="btn btn-sm btn-outline-danger w-100 rounded-pill mt-auto py-2 d-flex align-items-center justify-content-center gap-2"
+                    >
+                      <i className="bi bi-play-circle"></i> {t('trailersHub.watchTrailer')}
+                    </button>
+                  </div>
                 </div>
               </div>
-            </div>
-          ))}
-        </div>
+            ))}
+          </div>
+
+          {/* Pagination */}
+          <Pagination
+            currentPage={safeCurrentPage}
+            totalItems={trailers.length}
+            pageSize={pageSize}
+            onPageChange={handlePageChange}
+            onPageSizeChange={(newSize) => {
+              setPageSize(newSize);
+              setCurrentPage(1);
+            }}
+            pageSizeOptions={[8, 12, 16, 24]}
+            itemLabel={t('trailersHub.trailerUnit', 'trailer')}
+          />
+        </>
       )}
 
       {/* Video Modal */}

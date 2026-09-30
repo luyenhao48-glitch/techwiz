@@ -51,6 +51,8 @@ export default function Home() {
     }
   }, []);
 
+  const [shouldLoadVideo, setShouldLoadVideo] = useState(false);
+
   // Hiệu ứng lướt tự động mượt mà cho phần trailer
   useEffect(() => {
     if (!isAutoScrollActive) return;
@@ -79,12 +81,19 @@ export default function Home() {
     return () => clearInterval(interval);
   }, [isAutoScrollActive, checkScrollBounds, activeVideo]);
 
+  // Chỉ tải video 6.7MB trên máy tính/màn hình rộng (>=768px), trên mobile dùng ảnh webp 130KB tối ưu tốc độ và tiết kiệm dữ liệu
   useEffect(() => {
-    if (heroVideoRef.current) {
+    if (typeof window !== 'undefined' && window.innerWidth >= 768) {
+      setShouldLoadVideo(true);
+    }
+  }, []);
+
+  useEffect(() => {
+    if (shouldLoadVideo && heroVideoRef.current) {
       heroVideoRef.current.muted = true;
       heroVideoRef.current.play().catch(() => { });
     }
-  }, []);
+  }, [shouldLoadVideo]);
 
   // Tự dừng video hero khi cuộn ra khỏi màn hình hoặc khi rời trang, để web mượt hơn
   useVideoVisibilityAutoplay(heroVideoRef);
@@ -151,24 +160,55 @@ export default function Home() {
       {/* 1. CINEMATIC 1280x720 VIDEO HERO SECTION WITH DARK STAGE BACKDROP */}
       <div className="hero-stage-container hero-pull-under-nav">
         <section className="hero-video-wrapper position-relative text-white">
-          {/* Fullscreen Video Background */}
-          <video
-            ref={heroVideoRef}
-            key="hero-video-active"
+          {/* LCP Poster Image: Loads instantly in <1s with 130KB payload instead of 6.7MB */}
+          <img
+            src="/hero-poster.webp"
+            alt="FandomVerse Cinematic Universe"
             className="hero-video-element"
-            autoPlay
-            loop
-            muted
-            playsInline
-            preload="metadata"
-            poster="/hero-poster.webp"
-            src="/hero-video.mp4"
-          >
-            <source src="/hero-video.mp4" type="video/mp4" />
-          </video>
+            fetchPriority="high"
+            decoding="async"
+            style={{
+              position: 'absolute',
+              top: 0,
+              left: 0,
+              width: '100%',
+              height: '100%',
+              objectFit: 'cover',
+              zIndex: 0,
+            }}
+          />
+
+          {/* Fullscreen Video Background: Only loaded on desktop (>=768px) to prevent choking mobile network */}
+          {shouldLoadVideo && (
+            <video
+              ref={heroVideoRef}
+              key="hero-video-active"
+              className="hero-video-element"
+              autoPlay
+              loop
+              muted
+              playsInline
+              preload="auto"
+              poster="/hero-poster.webp"
+              aria-hidden="true"
+              tabIndex={-1}
+              style={{
+                position: 'absolute',
+                top: 0,
+                left: 0,
+                width: '100%',
+                height: '100%',
+                objectFit: 'cover',
+                zIndex: 1,
+              }}
+            >
+              <source src="/hero-video.mp4" type="video/mp4" />
+              <track kind="captions" src="data:text/vtt,WEBVTT" label="No speech" default />
+            </video>
+          )}
 
           {/* Cinematic Vignette Overlay */}
-          <div className="hero-video-overlay" />
+          <div className="hero-video-overlay" style={{ zIndex: 2 }} />
 
           {/* Hero Center Section */}
           <div
@@ -193,9 +233,9 @@ export default function Home() {
               }}
             >
               {t('home.heroTitleWhere')}{' '}
-              <em className="fst-normal text-muted-foreground">{t('home.heroTitleDreams')}</em>{' '}
+              <em className="fst-normal text-white text-opacity-90">{t('home.heroTitleDreams')}</em>{' '}
               {t('home.heroTitleRise')}{' '}
-              <em className="fst-normal text-muted-foreground">{t('home.heroTitleThrough')}</em>
+              <em className="fst-normal text-white text-opacity-90">{t('home.heroTitleThrough')}</em>
             </h1>
 
             {/* Subtext */}
@@ -317,13 +357,13 @@ export default function Home() {
                           <i className={`bi ${cat.icon} fs-3`} style={{ color: `var(--accent-${cat.id})` }}></i>
                         </div>
                         <div>
-                          <h4 className={`font-heading fw-bold mb-0 ${isDark ? 'text-white' : 'text-dark'}`}>{cat.label}</h4>
+                          <h3 className={`font-heading fw-bold fs-5 mb-0 ${isDark ? 'text-white' : 'text-dark'}`}>{cat.label}</h3>
                           <span
-                            className="badge rounded-pill px-2 py-0.5"
+                            className="badge rounded-pill px-2 py-0.5 fw-semibold"
                             style={{
-                              backgroundColor: isDark ? 'rgba(255, 255, 255, 0.08)' : 'rgba(108, 92, 231, 0.08)',
-                              color: `var(--accent-${cat.id})`,
-                              fontSize: '0.7rem',
+                              backgroundColor: isDark ? 'rgba(255, 255, 255, 0.12)' : 'rgba(15, 23, 42, 0.06)',
+                              color: cat.id === 'comics' && !isDark ? '#b7791f' : `var(--accent-${cat.id})`,
+                              fontSize: '0.72rem',
                             }}
                           >
                             {t('home.exploreUniverse')}
@@ -331,11 +371,11 @@ export default function Home() {
                         </div>
                       </div>
 
-                      <p className={`small mb-3 flex-grow-1 leading-relaxed position-relative ${isDark ? 'text-white-50' : 'text-secondary'}`} style={{ zIndex: 2 }}>
+                      <p className={`small mb-3 flex-grow-1 leading-relaxed position-relative ${isDark ? 'text-white text-opacity-75' : 'text-secondary'}`} style={{ zIndex: 2 }}>
                         {cat.description}
                       </p>
 
-                      <div className="d-flex align-items-center justify-content-between small fw-bold pt-2 border-top border-white-50 border-opacity-10 position-relative" style={{ color: `var(--accent-${cat.id})`, zIndex: 2 }}>
+                      <div className="d-flex align-items-center justify-content-between small fw-bold pt-2 border-top border-white-50 border-opacity-10 position-relative" style={{ color: cat.id === 'comics' && !isDark ? '#b7791f' : `var(--accent-${cat.id})`, zIndex: 2 }}>
                         <span>{t('home.viewContentCharacters')}</span>
                         <i className="bi bi-arrow-right"></i>
                       </div>
@@ -370,7 +410,7 @@ export default function Home() {
                       <i className="bi bi-bag-check-fill fs-3" style={{ color: '#6C5CE7' }}></i>
                     </div>
                     <div>
-                      <h4 className="font-heading fw-bold text-white mb-0">{t('home.merchCardTitle')}</h4>
+                      <h3 className="font-heading fw-bold fs-5 text-white mb-0">{t('home.merchCardTitle')}</h3>
                       <span className="badge bg-warning text-dark rounded-pill px-2 py-0.5" style={{ fontSize: '0.7rem' }}>
                         {t('home.merchCardBadge')}
                       </span>
@@ -625,7 +665,7 @@ export default function Home() {
                       {/* Card Info */}
                       <div className="p-3 d-flex flex-column flex-grow-1 justify-content-between fv-trailer-card-body">
                         <div>
-                          <h6
+                          <h3
                             className={`font-heading fw-bold mb-2 ${isDark ? 'text-white' : 'text-dark'}`}
                             style={{
                               display: '-webkit-box',
@@ -639,7 +679,7 @@ export default function Home() {
                             title={tItem.title}
                           >
                             {tItem.title}
-                          </h6>
+                          </h3>
                         </div>
 
                         <div className="d-flex align-items-center justify-content-between pt-2 border-top border-white-50 border-opacity-10 small">
