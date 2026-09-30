@@ -2,14 +2,15 @@
   "specVersion": "1.0",
   "host": {
     "displayName": "FandomVerse",
-    "identifier": "did:web:fandom-verse-techwiz.vercel.app"
+    "identifier": "did:web:fandom-verse-techwiz.vercel.app",
+    "documentationUrl": "https://fandom-verse-techwiz.vercel.app/"
   },
   "entries": [
     {
-      "identifier": "urn:fandomverse:page:trailers",
+      "identifier": "urn:air:fandomverse:trailers:hub",
       "displayName": "Fandom Trailers Hub",
       "type": "text/html",
-      "url": "https://fandom-verse-techwiz.vercel.app/#/trailers",
+      "url": "https://fandom-verse-techwiz.vercel.app/",
       "description": "Watch upcoming and released trailers and teasers across Anime, Gaming, Movies, TV Shows, K-Pop, Comics, and Manga.",
       "representativeQueries": [
         "watch anime trailers",
@@ -19,10 +20,10 @@
       ]
     },
     {
-      "identifier": "urn:fandomverse:page:merchandise",
+      "identifier": "urn:air:fandomverse:shop:merchandise",
       "displayName": "Fandom Merchandise Store",
       "type": "text/html",
-      "url": "https://fandom-verse-techwiz.vercel.app/#/merchandise",
+      "url": "https://fandom-verse-techwiz.vercel.app/",
       "description": "Browse and purchase official scale figures, cosplay apparel, chibi plushies, and rare collectibles.",
       "representativeQueries": [
         "buy anime figures",
@@ -32,10 +33,10 @@
       ]
     },
     {
-      "identifier": "urn:fandomverse:page:categories",
+      "identifier": "urn:air:fandomverse:universe:catalog",
       "displayName": "Fandom Universes Catalog",
       "type": "text/html",
-      "url": "https://fandom-verse-techwiz.vercel.app/#/category/anime",
+      "url": "https://fandom-verse-techwiz.vercel.app/",
       "description": "Explore curated universe lore, character databases, and featured articles across 7 fandom categories.",
       "representativeQueries": [
         "anime universe lore",

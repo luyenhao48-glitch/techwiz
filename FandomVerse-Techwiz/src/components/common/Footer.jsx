@@ -75,15 +75,15 @@ export default function Footer() {
 
           {/* 7 Fandom Categories */}
           <div className="col-xl-4 col-lg-4 col-md-6">
-            <h6 className={`font-heading fw-bold mb-3 d-flex align-items-center gap-2 ${isDark ? 'text-white' : 'text-dark'}`}>
+            <div className={`h6 font-heading fw-bold mb-3 d-flex align-items-center gap-2 ${isDark ? 'text-white' : 'text-dark'}`}>
               <i className="bi bi-grid-fill" style={{ color: '#a29bfe' }}></i> {t('footer.fandomUniverse')}
-            </h6>
+            </div>
             <div className="row g-2">
               {CATEGORY_LIST_LOCALIZED.map((cat) => (
                 <div key={cat.id} className="col-6 col-sm-6">
                   <Link
                     to={`/category/${cat.id}`}
-                    className={`text-decoration-none small d-flex align-items-center gap-2 py-1.5 px-2 rounded-2 fv-footer-category-link ${isDark ? 'text-white-50' : 'text-secondary'}`}
+                    className={`text-decoration-none small d-flex align-items-center gap-2 py-1.5 px-2 rounded-2 fv-footer-category-link ${isDark ? 'text-white text-opacity-75' : 'text-secondary'}`}
                   >
                     <i className={`bi ${cat.icon}`} style={{ color: `var(--accent-${cat.id})` }}></i>
                     <span>{cat.label}</span>
@@ -95,25 +95,25 @@ export default function Footer() {
 
           {/* Useful Navigation & Info */}
           <div className="col-xl-2 col-lg-2 col-md-3 col-6">
-            <h6 className={`font-heading fw-bold mb-3 ${isDark ? 'text-white' : 'text-dark'}`}>{t('footer.explore')}</h6>
+            <div className={`h6 font-heading fw-bold mb-3 ${isDark ? 'text-white' : 'text-dark'}`}>{t('footer.explore')}</div>
             <ul className="list-unstyled small mb-0">
               <li className="mb-2">
-                <Link to="/trailers" className={`text-decoration-none ${isDark ? 'text-white-50' : 'text-secondary'}`}>
+                <Link to="/trailers" className={`text-decoration-none ${isDark ? 'text-white text-opacity-75' : 'text-secondary'}`}>
                   {t('footer.trailerHub')}
                 </Link>
               </li>
               <li className="mb-2">
-                <Link to="/merchandise" className={`text-decoration-none ${isDark ? 'text-white-50' : 'text-secondary'}`}>
+                <Link to="/merchandise" className={`text-decoration-none ${isDark ? 'text-white text-opacity-75' : 'text-secondary'}`}>
                   {t('footer.merchandiseShop')}
                 </Link>
               </li>
               <li className="mb-2">
-                <Link to="/bookmarks" className={`text-decoration-none ${isDark ? 'text-white-50' : 'text-secondary'}`}>
+                <Link to="/bookmarks" className={`text-decoration-none ${isDark ? 'text-white text-opacity-75' : 'text-secondary'}`}>
                   {t('footer.savedContent')}
                 </Link>
               </li>
               <li className="mb-2">
-                <Link to="/search" className={`text-decoration-none ${isDark ? 'text-white-50' : 'text-secondary'}`}>
+                <Link to="/search" className={`text-decoration-none ${isDark ? 'text-white text-opacity-75' : 'text-secondary'}`}>
                   {t('footer.globalSearch')}
                 </Link>
               </li>
@@ -122,25 +122,25 @@ export default function Footer() {
 
           {/* Legal & Static */}
           <div className="col-xl-2 col-lg-2 col-md-3 col-6">
-            <h6 className={`font-heading fw-bold mb-3 ${isDark ? 'text-white' : 'text-dark'}`}>{t('footer.info')}</h6>
+            <div className={`h6 font-heading fw-bold mb-3 ${isDark ? 'text-white' : 'text-dark'}`}>{t('footer.info')}</div>
             <ul className="list-unstyled small mb-0">
               <li className="mb-2">
-                <Link to="/about" className={`text-decoration-none ${isDark ? 'text-white-50' : 'text-secondary'}`}>
+                <Link to="/about" className={`text-decoration-none ${isDark ? 'text-white text-opacity-75' : 'text-secondary'}`}>
                   {t('footer.aboutUs')}
                 </Link>
               </li>
               <li className="mb-2">
-                <Link to="/contact" className={`text-decoration-none ${isDark ? 'text-white-50' : 'text-secondary'}`}>
+                <Link to="/contact" className={`text-decoration-none ${isDark ? 'text-white text-opacity-75' : 'text-secondary'}`}>
                   {t('footer.contactCoordinates')}
                 </Link>
               </li>
               <li className="mb-2">
-                <Link to="/login" className={`text-decoration-none ${isDark ? 'text-white-50' : 'text-secondary'}`}>
+                <Link to="/login" className={`text-decoration-none ${isDark ? 'text-white text-opacity-75' : 'text-secondary'}`}>
                   {t('footer.login')}
                 </Link>
               </li>
               <li className="mb-2">
-                <Link to="/signup" className={`text-decoration-none ${isDark ? 'text-white-50' : 'text-secondary'}`}>
+                <Link to="/signup" className={`text-decoration-none ${isDark ? 'text-white text-opacity-75' : 'text-secondary'}`}>
                   {t('footer.createAccount')}
                 </Link>
               </li>

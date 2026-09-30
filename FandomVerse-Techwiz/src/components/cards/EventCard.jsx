@@ -56,9 +56,9 @@ export default function EventCard({ event }) {
             </span>
           </div>
 
-          <h5 className={`font-heading fs-6 fw-bold mb-1 ${isDark ? 'text-white' : 'text-dark'}`}>
+          <h3 className={`font-heading fs-6 fw-bold mb-1 ${isDark ? 'text-white' : 'text-dark'}`}>
             {event.title}
-          </h5>
+          </h3>
 
           <p className={`small mb-2 line-clamp-2 ${isDark ? 'text-white-50' : 'text-secondary'}`}>
             {event.description}

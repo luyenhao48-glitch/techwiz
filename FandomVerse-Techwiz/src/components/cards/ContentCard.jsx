@@ -224,7 +224,7 @@ export default function ContentCard({ item, onOpenMedia, onOpenGallery }) {
       {/* Card Info */}
       <div className="p-3.5 p-xl-4 d-flex flex-column flex-grow-1 justify-content-between fv-trailer-card-body">
         <div>
-          <h6
+          <h3
             className={`font-heading fw-bold mb-2.5 ${isDark ? 'text-white' : 'text-dark'}`}
             style={{
               display: '-webkit-box',
@@ -238,7 +238,7 @@ export default function ContentCard({ item, onOpenMedia, onOpenGallery }) {
             title={item.title}
           >
             {item.title}
-          </h6>
+          </h3>
 
           {item.shortDescription && (
             <p

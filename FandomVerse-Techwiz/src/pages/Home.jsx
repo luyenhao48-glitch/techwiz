@@ -99,7 +99,7 @@ export default function Home() {
   useVideoVisibilityAutoplay(heroVideoRef);
 
   const filteredTrailers = useMemo(() => {
-    if (trailerCategory === 'all') return allTrailers;
+    if (trailerCategory === 'all') return allTrailers.slice(0, 16);
     return allTrailers.filter((t) => t.category === trailerCategory);
   }, [allTrailers, trailerCategory]);
 
@@ -339,7 +339,7 @@ export default function Home() {
                     {/* Visible Category Illustration */}
                     {categoryImages[cat.id] && (
                       <div className="category-image-banner">
-                        <img src={categoryImages[cat.id]} alt={cat.label} />
+                        <img src={categoryImages[cat.id]} alt={cat.label} loading="lazy" decoding="async" />
                       </div>
                     )}
 
@@ -399,6 +399,8 @@ export default function Home() {
                   <img
                     src="https://images.unsplash.com/photo-1563089145-599997674d42?w=500&auto=format&fit=crop&q=80"
                     alt="Merchandise Store"
+                    loading="lazy"
+                    decoding="async"
                   />
                 </div>
                 <div className="p-4 d-flex flex-column flex-grow-1">
